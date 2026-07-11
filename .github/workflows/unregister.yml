@@ -1,0 +1,61 @@
+name: Unregister package
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: unregister-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  unregister:
+    # Route by the label when it exists, otherwise fall back to the title the
+    # "Unregister a package" issue form sets.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'package-unregistration') ||
+      startsWith(github.event.issue.title, 'Unregister')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Remove entry
+        id: entry
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/unregister-package.js --from-issue
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NAME: ${{ steps.entry.outputs.name }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          gh issue edit "$ISSUE" --title "Unregister ${NAME}"
+          slug=$(echo "$NAME" | tr '/' '-')
+          branch="unregister/${slug}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add sources.json
+          git commit -m "Unregister ${NAME}"
+          git push --force origin "$branch"
+          gh pr create --head "$branch" --title "Unregister ${NAME}" \
+            --body "Removes \`${NAME}\` from the community catalog. Closes #${ISSUE}." \
+            || true
+          pr_url=$(gh pr view "$branch" --json url --jq .url)
+          gh issue comment "$ISSUE" --body "Thanks! Unregistration pull request for \`${NAME}\`: ${pr_url}. It is removed once a maintainer merges it."
+      - name: Report failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          message=$(cat error-message.txt 2>/dev/null || echo "Check the workflow log for details.")
+          gh issue comment "$ISSUE" --body "Automatic unregistration failed: ${message}"

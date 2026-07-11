@@ -1,0 +1,18 @@
+name: Register a package
+description: Add your package or theme to the Lumine community catalog.
+title: "Register a package"
+labels: [package-registration]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Enter your GitHub repository below. Automation reads your package.json, generates the catalog entry, and opens a pull request for review — no local setup needed.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: >-
+        Your GitHub repository as owner/repo. Tags, commits, and branches are not supported — the catalog tracks your latest stable release (or the default branch if there are no release tags).
+      placeholder: owner/my-package
+    validations:
+      required: true

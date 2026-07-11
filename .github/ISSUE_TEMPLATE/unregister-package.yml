@@ -1,0 +1,17 @@
+name: Unregister a package
+description: Remove a package or theme from the Lumine community catalog.
+title: "Unregister a package"
+labels: [package-unregistration]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in the repository to remove it from the catalog. Automation removes it from the source list and opens a pull request for review.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: The GitHub repository to remove, as owner/repo.
+      placeholder: owner/my-package
+    validations:
+      required: true

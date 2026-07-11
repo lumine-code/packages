@@ -1,0 +1,63 @@
+name: Register package
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: register-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  register:
+    # Route by the label when it exists, otherwise fall back to the title the
+    # "Register a package" issue form sets (so registration works even if the
+    # package-registration label was never created in the repo).
+    if: >-
+      contains(github.event.issue.labels.*.name, 'package-registration') ||
+      startsWith(github.event.issue.title, 'Register')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Generate entry
+        id: entry
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/register-package.js --from-issue
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NAME: ${{ steps.entry.outputs.name }}
+          SOURCE: ${{ steps.entry.outputs.source }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          gh issue edit "$ISSUE" --title "Register ${SOURCE}"
+          branch="register/${NAME}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add sources.json
+          git commit -m "Register ${NAME}"
+          git push --force origin "$branch"
+          gh pr create --head "$branch" --title "Register ${NAME}" \
+            --body "Registers \`${NAME}\` in the community catalog. The entry was generated from the package's own metadata and validated during registration. Closes #${ISSUE}." \
+            || true
+          pr_url=$(gh pr view "$branch" --json url --jq .url)
+          gh issue comment "$ISSUE" --body "Thanks! Registration pull request for \`${NAME}\`: ${pr_url}. Your package goes live in the catalog once a maintainer merges it."
+      - name: Report failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          message=$(cat error-message.txt 2>/dev/null || echo "Check the workflow log for details.")
+          gh issue comment "$ISSUE" --body "Automatic registration failed: ${message} Edit the issue to retry."
