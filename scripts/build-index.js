@@ -110,7 +110,9 @@ async function resolveRef(source) {
     const tag = highestStableTag(await gitLsRemoteTags(owner, repo));
     if (tag) return tag;
   } catch (error) {
-    warn(`${source}: could not list tags (${error.message}); using the default branch.`);
+    warn(
+      `${source}: could not list tags (${error.message}); using the default branch.`,
+    );
   }
   return "HEAD";
 }
@@ -123,7 +125,9 @@ async function fetchPackageMetadata(source) {
     headers: { "User-Agent": "lumine-community-packages" },
   });
   if (!response.ok) {
-    throw new Error(`package.json request failed with status ${response.status}`);
+    throw new Error(
+      `package.json request failed with status ${response.status}`,
+    );
   }
   return response.json();
 }
@@ -137,7 +141,9 @@ function entryForSource(source, metadata) {
   return {
     name,
     repository: source,
-    ...(typeof metadata.version === "string" ? { version: metadata.version } : {}),
+    ...(typeof metadata.version === "string"
+      ? { version: metadata.version }
+      : {}),
     description:
       typeof metadata.description === "string" ? metadata.description : "",
     keywords: Array.isArray(metadata.keywords)
@@ -217,9 +223,27 @@ async function main() {
     packages.push(entry);
   }
 
+  // Same name from different repositories is allowed (the editor installs by
+  // name, so users pick one), but it is worth flagging: a name overlap is often
+  // an accident or a squat. Warn, listing the repositories that share a name.
+  const byName = new Map();
+  for (const entry of packages) {
+    const key = entry.name.toLowerCase();
+    if (!byName.has(key)) byName.set(key, []);
+    byName.get(key).push(entry.repository);
+  }
+  for (const [name, repos] of byName) {
+    if (repos.length > 1) {
+      warn(
+        `name "${name}" is published from multiple repositories: ${repos.join(", ")}.`,
+      );
+    }
+  }
+
   packages.sort(
     (left, right) =>
-      left.name.localeCompare(right.name) || left.repository.localeCompare(right.repository),
+      left.name.localeCompare(right.name) ||
+      left.repository.localeCompare(right.repository),
   );
   fs.writeFileSync(
     indexPath,
