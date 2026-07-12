@@ -1,4 +1,24 @@
 {
   "schemaVersion": 1,
-  "packages": []
+  "packages": [
+    {
+      "name": "hydrogen-next",
+      "repository": "lumine-code/hydrogen-next",
+      "version": "4.14.1",
+      "description": "Run code interactively with Jupyter kernels",
+      "keywords": [
+        "execute",
+        "run",
+        "jupyter",
+        "ipython",
+        "julia",
+        "python",
+        "torch",
+        "ijulia",
+        "irkernel",
+        "itorch"
+      ],
+      "theme": false
+    }
+  ]
 }
