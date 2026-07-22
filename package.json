@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "validate": "node scripts/validate-sources.js"
+    "validate": "node scripts/validate.js"
   }
 }

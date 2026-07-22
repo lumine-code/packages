@@ -2,7 +2,7 @@
 
 This repository is the source-only catalog used by Lumine's Settings → Install panel.
 
-`sources.json` is an untrusted JSON array of Git repository sources. Lumine resolves refs and reads
+`index.json` is an untrusted JSON array of Git repository sources. Lumine resolves refs and reads
 each package manifest directly from the selected commit; names, versions, descriptions, and other
 package metadata are deliberately not copied into this catalog.
 

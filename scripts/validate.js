@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const sourcesPath = path.join(__dirname, "..", "sources.json");
+const indexPath = path.join(__dirname, "..", "index.json");
 const shorthandPattern = /^[\w.-]+\/[\w.-]+(?:@[^\s]+|#[^\s]+|~[^\s]+)?$/;
 const selectorTypes = new Set(["branch", "tag", "commit"]);
 
@@ -49,9 +49,9 @@ function validateHashSelector(source, index) {
 }
 
 function main() {
-  const sources = JSON.parse(fs.readFileSync(sourcesPath, "utf8"));
-  if (!Array.isArray(sources)) throw new Error("sources.json must be an array of Git sources.");
-  if (sources.length > 2000) throw new Error("sources.json exceeds the 2000-repository limit.");
+  const sources = JSON.parse(fs.readFileSync(indexPath, "utf8"));
+  if (!Array.isArray(sources)) throw new Error("index.json must be an array of Git sources.");
+  if (sources.length > 2000) throw new Error("index.json exceeds the 2000-repository limit.");
 
   const origins = new Set();
   for (const [index, source] of sources.entries()) {
