@@ -6,8 +6,14 @@ const path = require("path");
 const sourcesPath = path.join(__dirname, "..", "sources.json");
 const shorthandPattern = /^[\w.-]+\/[\w.-]+(?:@[^\s]+|#[^\s]+|~[^\s]+)?$/;
 
+function isSafeShorthand(source) {
+  if (!shorthandPattern.test(source)) return false;
+  const [owner, repository] = source.replace(/[@#~].*$/, "").split("/");
+  return owner !== "." && owner !== ".." && repository !== "." && repository !== "..";
+}
+
 function repositoryPart(source) {
-  if (shorthandPattern.test(source)) return source.replace(/[@#~].*$/, "");
+  if (isSafeShorthand(source)) return source.replace(/[@#~].*$/, "");
   const hash = source.lastIndexOf("#");
   return hash === -1 ? source : source.slice(0, hash);
 }
@@ -30,7 +36,7 @@ function main() {
     if (typeof source !== "string" || !source.trim()) {
       throw new Error(`Entry ${index + 1} must be a non-empty string.`);
     }
-    if (!shorthandPattern.test(source)) {
+    if (!isSafeShorthand(source)) {
       const repository = repositoryPart(source);
       if (!/^https:\/\//i.test(repository)) {
         throw new Error(`Entry ${index + 1} must use public HTTPS or owner/repo shorthand.`);
