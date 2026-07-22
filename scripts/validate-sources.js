@@ -5,6 +5,7 @@ const path = require("path");
 
 const sourcesPath = path.join(__dirname, "..", "sources.json");
 const shorthandPattern = /^[\w.-]+\/[\w.-]+(?:@[^\s]+|#[^\s]+|~[^\s]+)?$/;
+const selectorTypes = new Set(["branch", "tag", "commit"]);
 
 function isSafeShorthand(source) {
   if (!shorthandPattern.test(source)) return false;
@@ -26,6 +27,27 @@ function originKey(source) {
   return `${url.hostname.toLowerCase()}${url.port ? `:${url.port}` : ""}/${pathname}`;
 }
 
+function validateHashSelector(source, index) {
+  const hash = source.lastIndexOf("#");
+  if (hash === -1) return;
+  const fragment = source.slice(hash + 1);
+  const separator = fragment.indexOf(":");
+  if (separator === -1) {
+    if (!/^[0-9a-f]{40}$/i.test(fragment)) {
+      throw new Error(`Entry ${index + 1} must use a complete 40-character commit SHA.`);
+    }
+    return;
+  }
+  const type = fragment.slice(0, separator).toLowerCase();
+  const value = fragment.slice(separator + 1);
+  if (!selectorTypes.has(type) || !value) {
+    throw new Error(`Entry ${index + 1} has an invalid ref selector.`);
+  }
+  if (type === "commit" && !/^[0-9a-f]{40}$/i.test(value)) {
+    throw new Error(`Entry ${index + 1} must use a complete 40-character commit SHA.`);
+  }
+}
+
 function main() {
   const sources = JSON.parse(fs.readFileSync(sourcesPath, "utf8"));
   if (!Array.isArray(sources)) throw new Error("sources.json must be an array of Git sources.");
@@ -36,6 +58,7 @@ function main() {
     if (typeof source !== "string" || !source.trim()) {
       throw new Error(`Entry ${index + 1} must be a non-empty string.`);
     }
+    validateHashSelector(source, index);
     if (!isSafeShorthand(source)) {
       const repository = repositoryPart(source);
       if (!/^https:\/\//i.test(repository)) {
