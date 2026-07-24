@@ -3,6 +3,7 @@
   "lumine-code/github-panel",
   "lumine-code/hydrogen-next",
   "lumine-code/linter",
+  "lumine-code/pdf-view",
 
   "asiloisad/pulsar-autocomplete-jedi-redux",
   "asiloisad/pulsar-autocomplete-sofistik",
@@ -50,7 +51,6 @@
   "asiloisad/pulsar-open-external",
   "asiloisad/pulsar-open-in-totalcmd",
   "asiloisad/pulsar-overtype-mode",
-  "asiloisad/pulsar-pdf-viewer",
   "asiloisad/pulsar-pending-state",
   "asiloisad/pulsar-prettier-plus",
   "asiloisad/pulsar-progress-dot",
