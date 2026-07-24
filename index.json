@@ -2,6 +2,7 @@
   "lumine-code/git-panel",
   "lumine-code/github-panel",
   "lumine-code/hydrogen-next",
+  "lumine-code/linter",
 
   "asiloisad/pulsar-autocomplete-jedi-redux",
   "asiloisad/pulsar-autocomplete-sofistik",
@@ -36,7 +37,6 @@
   "asiloisad/pulsar-language-tasklist",
   "asiloisad/pulsar-language-typst",
   "asiloisad/pulsar-latex-tools",
-  "asiloisad/pulsar-linter-bundle",
   "asiloisad/pulsar-linter-eslint-redux",
   "asiloisad/pulsar-linter-ruff",
   "asiloisad/pulsar-linter-sofistik",
