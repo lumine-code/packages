@@ -1,8 +1,9 @@
 [
   "lumine-code/git-panel",
   "lumine-code/github-panel",
-  "lumine-code/hydrogen-next",
+  "lumine-code/jove-repl",
+  "lumine-code/jove-view",
   "lumine-code/linter",
   "lumine-code/pdf-view",
-  "lumine-code/terminal",
+  "lumine-code/terminal"
 ]
