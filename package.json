@@ -1,5 +1,6 @@
 {
   "name": "lumine-community-packages",
+  "description": "Community package catalog for Lumine.",
   "version": "1.0.0",
   "private": true,
   "scripts": {

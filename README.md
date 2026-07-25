@@ -1,6 +1,8 @@
 # Lumine community packages
 
-This repository is the source-only catalog used by Lumine's Settings → Install panel.
+Community package catalog for Lumine.
+
+The catalog is source-only and drives Lumine's Settings → Install panel.
 
 `index.json` is an untrusted JSON array of Git repository sources. Lumine resolves refs and reads
 each package manifest directly from the selected commit; names, versions, descriptions, and other
