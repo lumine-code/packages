@@ -7,8 +7,8 @@
   "lumine-code/diff-view",
   "lumine-code/fast-publish",
   "lumine-code/folder-sync",
-  "lumine-code/git-panel",
   "lumine-code/github-panel",
+  "lumine-code/git-panel",
   "lumine-code/highlight-selected",
   "lumine-code/image-editor",
   "lumine-code/invert-colors",
@@ -53,5 +53,6 @@
   "lumine-code/terminal-spawn",
   "lumine-code/tree-view-favourites",
   "lumine-code/typst-tools",
-  "lumine-code/windows-clip"
+  "lumine-code/windows-clip",
+  "lumine-code/word-map"
 ]
