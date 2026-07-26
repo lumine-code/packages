@@ -16,6 +16,7 @@
   "lumine-code/highlight-selected",
   "lumine-code/hover",
   "lumine-code/ide-pyright",
+  "lumine-code/ide-ruff",
   "lumine-code/ide-texlab",
   "lumine-code/ide-tinymist",
   "lumine-code/ide-typescript",
