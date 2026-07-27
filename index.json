@@ -36,6 +36,7 @@
   "lumine-code/linter-ruff",
   "lumine-code/linter-sofistik",
   "lumine-code/linter-todo",
+  "lumine-code/log-filter",
   "lumine-code/lumine-mcp",
   "lumine-code/minimap",
   "lumine-code/more-icons",
