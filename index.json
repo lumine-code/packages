@@ -38,6 +38,7 @@
   "lumine-code/linter-todo",
   "lumine-code/log-filter",
   "lumine-code/lumine-mcp",
+  "lumine-code/marker",
   "lumine-code/marker-brackets",
   "lumine-code/marker-cursors",
   "lumine-code/marker-diff-view",
