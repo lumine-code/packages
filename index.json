@@ -11,6 +11,7 @@
   "lumine-code/fast-publish",
   "lumine-code/find-references",
   "lumine-code/folder-sync",
+  "lumine-code/git-command",
   "lumine-code/git-panel",
   "lumine-code/github-panel",
   "lumine-code/highlight-selected",
