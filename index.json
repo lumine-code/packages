@@ -101,6 +101,7 @@
   "lumine-code/prettier",
   "lumine-code/project-list",
   "lumine-code/quick-layout",
+  "lumine-code/recent-list",
   "lumine-code/refactor",
   "lumine-code/regex-aligner",
   "lumine-code/scrollmap",
