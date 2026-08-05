@@ -27,6 +27,7 @@
   "lumine-code/jupyter-explorer",
   "lumine-code/jupyter-inspector",
   "lumine-code/jupyter-monitor",
+  "lumine-code/jupyter-prompt",
   "lumine-code/jupyter-repl",
   "lumine-code/jupyter-variables",
   "lumine-code/jupyter-view",
