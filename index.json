@@ -1,6 +1,8 @@
 [
   "lumine-code/autocomplete-jedi",
   "lumine-code/autocomplete-sofistik",
+  "lumine-code/autoflow",
+  "lumine-code/autosave",
   "lumine-code/bib-finder",
   "lumine-code/busy-signal",
   "lumine-code/calc-inline",
@@ -11,6 +13,8 @@
   "lumine-code/fast-publish",
   "lumine-code/find-references",
   "lumine-code/folder-sync",
+  "lumine-code/fuzzy-explorer",
+  "lumine-code/fuzzy-workspace",
   "lumine-code/git-command",
   "lumine-code/git-panel",
   "lumine-code/github-panel",
@@ -22,6 +26,8 @@
   "lumine-code/ide-tinymist",
   "lumine-code/ide-typescript",
   "lumine-code/image-editor",
+  "lumine-code/image-paste",
+  "lumine-code/indent-guide",
   "lumine-code/intentions",
   "lumine-code/invert-colors",
   "lumine-code/jupyter-explorer",
@@ -89,9 +95,11 @@
   "lumine-code/native-icons",
   "lumine-code/navigation-panel",
   "lumine-code/open-in-totalcmd",
+  "lumine-code/open-repository",
   "lumine-code/outline-view",
   "lumine-code/pdf-view",
   "lumine-code/prettier",
+  "lumine-code/project-list",
   "lumine-code/quick-layout",
   "lumine-code/refactor",
   "lumine-code/regex-aligner",
@@ -106,5 +114,6 @@
   "lumine-code/tree-view-favourites",
   "lumine-code/typst-tools",
   "lumine-code/windows-clip",
-  "lumine-code/word-map"
+  "lumine-code/word-map",
+  "lumine-code/wrap-guide"
 ]
