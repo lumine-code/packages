@@ -169,14 +169,17 @@ jobs:
       # option-bearing path. zstd where the image has it (all three do today),
       # gzip as the portable fallback.
       #
-      # `--use-compress-program`, never `-I`: macOS ships bsdtar, where `-I` is
-      # a synonym for `--files-from` and the compressor would be read as the
-      # name of a file listing what to pack.
+      # Pipe through zstd explicitly rather than asking tar to drive it. The
+      # three runners disagree about every spelling of that flag — macOS ships
+      # bsdtar, where `-I` means `--files-from` and `--use-compress-program`
+      # does not round-trip on extraction — and a pipe means the same thing to
+      # all of them.
       - name: Pack the built editor
         shell: bash
         run: |
+          set -o pipefail
           if command -v zstd >/dev/null 2>&1; then
-            tar --use-compress-program='zstd -3 -T0' -cf lumine-editor.tar.zst lumine
+            tar -cf - lumine | zstd -3 -T0 -o lumine-editor.tar.zst
           else
             tar -czf lumine-editor.tar.gz lumine
           fi
@@ -229,8 +232,9 @@ jobs:
       - name: Unpack the built editor
         shell: bash
         run: |
+          set -o pipefail
           if [ -f lumine-editor.tar.zst ]; then
-            tar --use-compress-program=zstd -xf lumine-editor.tar.zst
+            zstd -dc lumine-editor.tar.zst | tar -xf -
           else
             tar -xzf lumine-editor.tar.gz
           fi
