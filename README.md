@@ -13,25 +13,10 @@ or commit selector supported by Lumine. Each repository origin may occur only on
 
 ## Package specs
 
-The `Package specs` workflow runs the Jasmine suite of every package this catalog lists, inside a
-real editor build, on Linux, macOS and Windows. It runs on every push to `master`, once a day, and
-on demand from the Actions tab — where a run can be narrowed to a few packages, fewer platforms, or
-a different editor ref.
+Running each package's spec suite lives in `lumine-code/ci-status`, which sweeps the whole
+organization rather than this catalog. It is kept out of here on purpose: whether a package's specs
+pass is a fact about that package's repository, not about this one, so it must not mark this
+repository's commits red — and it could not be cleared from them either, since this catalog's
+`master` moves only when the catalog itself changes.
 
-Each entry is resolved the way Lumine resolves it when a user installs it: the newest stable semver
-tag the repository publishes, and `master` when it has never been tagged. An entry that carries an
-explicit tag, branch, or commit selector is tested exactly as written.
-
-The editor is built once per platform and handed to that platform's spec jobs. The catalog is then
-spread over shards, and each shard clones, installs, and runs its packages one at a time in its own
-Electron session with a private `LUMINE_HOME`. Every shard reports whatever it got through and the
-summary job is the only one that fails the run, so one broken suite never hides the rest — nor does
-a package that no shard reported on at all.
-
-The same three steps run locally against a checkout of the editor:
-
-```
-node scripts/plan-specs.js --only "linter marker-*" --shards 1
-node scripts/run-specs.js --plan plan.json --shard 0 --editor ../lumine
-node scripts/summarize-specs.js --results results --plan plan.json
-```
+The one check that belongs here is `Validate catalog`, which depends on nothing but `index.json`.
