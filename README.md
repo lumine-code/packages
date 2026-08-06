@@ -1,10 +1,10 @@
-# Lumine community packages
+# lumine-packages
 
 Package catalog for Lumine.
 
 The catalog is source-only and drives Lumine's Settings → Install panel.
 
-`index.json` is an JSON array of Git repository sources. Lumine resolves refs and reads
+`index.json` is a JSON array of Git repository sources. Lumine resolves refs and reads
 each package manifest directly from the selected commit; names, versions, descriptions, and other
 package metadata are deliberately not copied into this catalog.
 

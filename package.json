@@ -1,5 +1,5 @@
 {
-  "name": "lumine-community-packages",
+  "name": "lumine-packages",
   "description": "Package catalog for Lumine.",
   "version": "1.0.0",
   "private": true,
