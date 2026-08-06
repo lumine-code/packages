@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "validate": "node scripts/validate.js"
+    "validate": "node scripts/validate.js",
+    "plan-specs": "node scripts/plan-specs.js",
+    "run-specs": "node scripts/run-specs.js",
+    "summarize-specs": "node scripts/summarize-specs.js"
   }
 }
