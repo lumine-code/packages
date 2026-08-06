@@ -1,6 +1,6 @@
 # Lumine community packages
 
-Community package catalog for Lumine.
+Package catalog for Lumine.
 
 The catalog is source-only and drives Lumine's Settings → Install panel.
 
@@ -10,8 +10,6 @@ package metadata are deliberately not copied into this catalog.
 
 Entries may use GitHub `owner/repo` shorthand or public HTTPS Git URLs and may include a tag, branch,
 or commit selector supported by Lumine. Each repository origin may occur only once in this catalog.
-
-Run `npm run validate` before submitting changes.
 
 ## Package specs
 
