@@ -89,6 +89,7 @@
   "lumine-code/latex-tools",
   "lumine-code/linter",
   "lumine-code/linter-eslint",
+  "lumine-code/linter-panel",
   "lumine-code/linter-ruff",
   "lumine-code/linter-sofistik",
   "lumine-code/linter-todo",
