@@ -23,6 +23,7 @@
   "lumine-code/github-panel",
   "lumine-code/highlight-selected",
   "lumine-code/hover",
+  "lumine-code/ide-bash",
   "lumine-code/ide-html",
   "lumine-code/ide-pyright",
   "lumine-code/ide-ruff",
