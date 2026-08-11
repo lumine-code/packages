@@ -25,6 +25,7 @@
   "lumine-code/hover",
   "lumine-code/ide-bash",
   "lumine-code/ide-css",
+  "lumine-code/ide-eslint",
   "lumine-code/ide-html",
   "lumine-code/ide-json",
   "lumine-code/ide-pyright",
