@@ -10,6 +10,7 @@
   "lumine-code/busy-signal",
   "lumine-code/calc-inline",
   "lumine-code/code-format",
+  "lumine-code/colors",
   "lumine-code/cursor-history",
   "lumine-code/cursor-leader",
   "lumine-code/diff-view",
