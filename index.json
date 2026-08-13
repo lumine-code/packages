@@ -33,6 +33,7 @@
   "lumine-code/ide-graphql",
   "lumine-code/ide-html",
   "lumine-code/ide-json",
+  "lumine-code/ide-jupyter",
   "lumine-code/ide-marksman",
   "lumine-code/ide-pyright",
   "lumine-code/ide-ruff",
