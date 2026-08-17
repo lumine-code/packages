@@ -22,6 +22,7 @@
   "lumine-code/busy-signal",
   "lumine-code/calc-inline",
   "lumine-code/code-format",
+  "lumine-code/code-lens",
   "lumine-code/colors",
   "lumine-code/column-selection",
   "lumine-code/command-palette",
