@@ -175,6 +175,7 @@
   "lumine-code/marker",
   "lumine-code/minimap",
   "lumine-code/more-icons",
+  "lumine-code/native-clip",
   "lumine-code/native-icons",
   "lumine-code/navigation-panel",
   "lumine-code/notifications",
@@ -223,7 +224,6 @@
   "lumine-code/vscode-theme",
   "lumine-code/whitespace",
   "lumine-code/window-title",
-  "lumine-code/windows-clip",
   "lumine-code/word-map",
   "lumine-code/wrap-guide"
 ]
