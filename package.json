@@ -4,6 +4,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "refresh": "node scripts/refresh.js",
+    "test": "node --test scripts/test/*.test.js",
     "validate": "node scripts/validate.js"
+  },
+  "dependencies": {
+    "@lumine-code/season": "github:lumine-code/season#b9d78e669eff982a40e0e71a9b6ccbcc8c2d9519",
+    "jsonc-parser": "^3.3.1",
+    "semver": "^7.8.5"
   }
 }
