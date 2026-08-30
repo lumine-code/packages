@@ -587,6 +587,7 @@
       }
     }
   },
+  "lumine-code/bacadra-tools",
   {
     "source": "lumine-code/background-tips",
     "resolvedSha": "8e84d657e1f855db39abbbfeda24d70694870231",
@@ -724,6 +725,7 @@
       }
     }
   },
+  "lumine-code/breadcrumbs",
   {
     "source": "lumine-code/build",
     "resolvedSha": "ce5f1367d3807f1974ce67c2ecfe7ed8ccaf6df5",
@@ -5974,6 +5976,7 @@
       }
     }
   },
+  "lumine-code/lumine-banager-tools",
   {
     "source": "lumine-code/lumine-mcp",
     "resolvedSha": "e4c6d767bbf1aa9766f6eb08207c128f0e6ce1a1",
