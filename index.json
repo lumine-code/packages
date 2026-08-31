@@ -970,14 +970,14 @@
   },
   {
     "source": "lumine-code/color-picker",
-    "resolvedSha": "b90884a66a792286220545ab97529e8e3e300c5d",
+    "resolvedSha": "1265642de3e8fcfd67c62708e27a2f093965e574",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b90884a66a792286220545ab97529e8e3e300c5d",
+      "headSha": "1265642de3e8fcfd67c62708e27a2f093965e574",
       "latestStable": null,
       "tags": []
     },
