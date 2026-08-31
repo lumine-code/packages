@@ -727,21 +727,21 @@
   },
   {
     "source": "lumine-code/breadcrumbs",
-    "resolvedSha": "c2fb4370557acf9a504d6f577cba71847de3eaae",
+    "resolvedSha": "0c2cc132521202c1af803478b990e66858fcb1e2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c2fb4370557acf9a504d6f577cba71847de3eaae",
+      "headSha": "0c2cc132521202c1af803478b990e66858fcb1e2",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
       "name": "breadcrumbs",
       "version": "1.0.0",
-      "description": "Show file and symbol paths above each editor.",
+      "description": "Show file and symbol paths above each pane item.",
       "keywords": [
         "navigation",
         "symbols",
@@ -970,14 +970,14 @@
   },
   {
     "source": "lumine-code/color-picker",
-    "resolvedSha": "a5b2492407f860e90748b152b28e842578918323",
+    "resolvedSha": "b90884a66a792286220545ab97529e8e3e300c5d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a5b2492407f860e90748b152b28e842578918323",
+      "headSha": "b90884a66a792286220545ab97529e8e3e300c5d",
       "latestStable": null,
       "tags": []
     },
