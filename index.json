@@ -898,42 +898,8 @@
       }
     }
   },
-  {
-    "source": "lumine-code/colors",
-    "resolvedSha": "b0f4833d65129230caa617a81319606ad949e56c",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "b0f4833d65129230caa617a81319606ad949e56c",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "colors",
-      "version": "1.0.0",
-      "description": "Show the colors written in a file and across the project.",
-      "keywords": [
-        "swatch",
-        "palette",
-        "hex",
-        "rgb",
-        "hsl",
-        "sass",
-        "stylus"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/colors",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/colors/issues"
-      }
-    }
-  },
+  "lumine-code/color-inline",
+  "lumine-code/color-picker",
   {
     "source": "lumine-code/column-selection",
     "resolvedSha": "dda24ab5f0c272bba289173dd264ab72876e6ab3",
