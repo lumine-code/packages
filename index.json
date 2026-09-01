@@ -5185,14 +5185,14 @@
   },
   {
     "source": "lumine-code/language-sofistik",
-    "resolvedSha": "b4b44d106099372f7ffdd8bf9e3fa57f3f779ec5",
+    "resolvedSha": "0483632eee35fd8f732df05d234ec67421c7f760",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b4b44d106099372f7ffdd8bf9e3fa57f3f779ec5",
+      "headSha": "0483632eee35fd8f732df05d234ec67421c7f760",
       "latestStable": null,
       "tags": []
     },
@@ -5205,7 +5205,8 @@
         "structural",
         "fem",
         "dat",
-        "finite-element"
+        "finite-element",
+        "tree-sitter"
       ],
       "engines": {
         "lumine": "^1.0.0"
@@ -5322,14 +5323,14 @@
   },
   {
     "source": "lumine-code/language-tasklist",
-    "resolvedSha": "8d8f793aea9bab983a9d19d52bdc763adafabcf7",
+    "resolvedSha": "3c94c28d83d10201074e6126ddb96bd0079c1972",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8d8f793aea9bab983a9d19d52bdc763adafabcf7",
+      "headSha": "3c94c28d83d10201074e6126ddb96bd0079c1972",
       "latestStable": null,
       "tags": []
     },
@@ -5340,7 +5341,8 @@
       "keywords": [
         "todo",
         "checklist",
-        "gtd"
+        "gtd",
+        "tree-sitter"
       ],
       "engines": {
         "lumine": "^1.0.0"
@@ -7655,14 +7657,14 @@
   },
   {
     "source": "lumine-code/terminal",
-    "resolvedSha": "50aa99bf47eac90aa42826033069eff9163cedf8",
+    "resolvedSha": "a9a3f75c655a2f4b3132de28f41ff3c98f311d6d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "50aa99bf47eac90aa42826033069eff9163cedf8",
+      "headSha": "a9a3f75c655a2f4b3132de28f41ff3c98f311d6d",
       "latestStable": null,
       "tags": []
     },
