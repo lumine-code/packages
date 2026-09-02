@@ -7593,7 +7593,51 @@
       }
     }
   },
-  "lumine-code/table-editor",
+  {
+    "source": "lumine-code/table-editor",
+    "resolvedSha": "f1ac87758505f6c2cfeb70debe9b8155904afd30",
+    "selectedRef": {
+      "type": "latest",
+      "value": "v1.0.0"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "f1ac87758505f6c2cfeb70debe9b8155904afd30",
+      "latestStable": {
+        "name": "v1.0.0",
+        "version": "1.0.0",
+        "sha": "f1ac87758505f6c2cfeb70debe9b8155904afd30"
+      },
+      "tags": [
+        {
+          "name": "v1.0.0",
+          "version": "1.0.0",
+          "sha": "f1ac87758505f6c2cfeb70debe9b8155904afd30"
+        }
+      ]
+    },
+    "metadata": {
+      "name": "table-editor",
+      "version": "1.0.0",
+      "description": "Edit CSV and TSV files in a structured grid.",
+      "keywords": [
+        "csv",
+        "tsv",
+        "spreadsheet",
+        "grid",
+        "delimiter"
+      ],
+      "engines": {
+        "lumine": "^1.0.0",
+        "node": ">=24"
+      },
+      "repository": "https://github.com/lumine-code/table-editor",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/table-editor/issues"
+      }
+    }
+  },
   {
     "source": "lumine-code/tabs",
     "resolvedSha": "764f24d52e86ff1558c612e1520b80378314821a",
