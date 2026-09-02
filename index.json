@@ -7824,24 +7824,24 @@
   },
   {
     "source": "lumine-code/table-editor",
-    "resolvedSha": "93d8ebb677190e5fdfccfc486aa0a31822c8e548",
+    "resolvedSha": "f82098fdc16a44aa0d369a16b0ddfef625b7b2a2",
     "selectedRef": {
       "type": "latest",
       "value": "v1.0.0"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "93d8ebb677190e5fdfccfc486aa0a31822c8e548",
+      "headSha": "f82098fdc16a44aa0d369a16b0ddfef625b7b2a2",
       "latestStable": {
         "name": "v1.0.0",
         "version": "1.0.0",
-        "sha": "93d8ebb677190e5fdfccfc486aa0a31822c8e548"
+        "sha": "f82098fdc16a44aa0d369a16b0ddfef625b7b2a2"
       },
       "tags": [
         {
           "name": "v1.0.0",
           "version": "1.0.0",
-          "sha": "93d8ebb677190e5fdfccfc486aa0a31822c8e548"
+          "sha": "f82098fdc16a44aa0d369a16b0ddfef625b7b2a2"
         }
       ]
     },
