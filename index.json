@@ -7569,24 +7569,24 @@
   },
   {
     "source": "lumine-code/sqlite-view",
-    "resolvedSha": "4b8dd90c8c22bf93da85323d5adffe434e2feae5",
+    "resolvedSha": "ca2739aae6ffad8ffb56f258bebdfb0b139bbeec",
     "selectedRef": {
       "type": "latest",
       "value": "v1.0.0"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "4b8dd90c8c22bf93da85323d5adffe434e2feae5",
+      "headSha": "ca2739aae6ffad8ffb56f258bebdfb0b139bbeec",
       "latestStable": {
         "name": "v1.0.0",
         "version": "1.0.0",
-        "sha": "4b8dd90c8c22bf93da85323d5adffe434e2feae5"
+        "sha": "ca2739aae6ffad8ffb56f258bebdfb0b139bbeec"
       },
       "tags": [
         {
           "name": "v1.0.0",
           "version": "1.0.0",
-          "sha": "4b8dd90c8c22bf93da85323d5adffe434e2feae5"
+          "sha": "ca2739aae6ffad8ffb56f258bebdfb0b139bbeec"
         }
       ]
     },
