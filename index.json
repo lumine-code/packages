@@ -2930,24 +2930,24 @@
   },
   {
     "source": "lumine-code/jupyter-explorer",
-    "resolvedSha": "ff79a60c04de980fb1b5b31df3380ceb673ff2b1",
+    "resolvedSha": "4a9fe1e4e8cb2affc4d94accaf9114109e2059ec",
     "selectedRef": {
       "type": "latest",
       "value": "v1.0.0"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ff79a60c04de980fb1b5b31df3380ceb673ff2b1",
+      "headSha": "4a9fe1e4e8cb2affc4d94accaf9114109e2059ec",
       "latestStable": {
         "name": "v1.0.0",
         "version": "1.0.0",
-        "sha": "ff79a60c04de980fb1b5b31df3380ceb673ff2b1"
+        "sha": "4a9fe1e4e8cb2affc4d94accaf9114109e2059ec"
       },
       "tags": [
         {
           "name": "v1.0.0",
           "version": "1.0.0",
-          "sha": "ff79a60c04de980fb1b5b31df3380ceb673ff2b1"
+          "sha": "4a9fe1e4e8cb2affc4d94accaf9114109e2059ec"
         }
       ]
     },
@@ -7569,24 +7569,24 @@
   },
   {
     "source": "lumine-code/sqlite-view",
-    "resolvedSha": "dabe0aeb3e2ee7d695ec4f4da835f285bb84b3ed",
+    "resolvedSha": "26480fbb04b4b9e313ccc44fdbc70e4dd7a74009",
     "selectedRef": {
       "type": "latest",
       "value": "v1.0.0"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "dabe0aeb3e2ee7d695ec4f4da835f285bb84b3ed",
+      "headSha": "26480fbb04b4b9e313ccc44fdbc70e4dd7a74009",
       "latestStable": {
         "name": "v1.0.0",
         "version": "1.0.0",
-        "sha": "dabe0aeb3e2ee7d695ec4f4da835f285bb84b3ed"
+        "sha": "26480fbb04b4b9e313ccc44fdbc70e4dd7a74009"
       },
       "tags": [
         {
           "name": "v1.0.0",
           "version": "1.0.0",
-          "sha": "dabe0aeb3e2ee7d695ec4f4da835f285bb84b3ed"
+          "sha": "26480fbb04b4b9e313ccc44fdbc70e4dd7a74009"
         }
       ]
     },
@@ -7824,24 +7824,24 @@
   },
   {
     "source": "lumine-code/table-editor",
-    "resolvedSha": "68719e7dc3b17a5f60bd54864b1cac55f6639107",
+    "resolvedSha": "e78fd07a6a87d294824db88a314c6b9140ea7f90",
     "selectedRef": {
       "type": "latest",
       "value": "v1.0.0"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "68719e7dc3b17a5f60bd54864b1cac55f6639107",
+      "headSha": "e78fd07a6a87d294824db88a314c6b9140ea7f90",
       "latestStable": {
         "name": "v1.0.0",
         "version": "1.0.0",
-        "sha": "68719e7dc3b17a5f60bd54864b1cac55f6639107"
+        "sha": "e78fd07a6a87d294824db88a314c6b9140ea7f90"
       },
       "tags": [
         {
           "name": "v1.0.0",
           "version": "1.0.0",
-          "sha": "68719e7dc3b17a5f60bd54864b1cac55f6639107"
+          "sha": "e78fd07a6a87d294824db88a314c6b9140ea7f90"
         }
       ]
     },
