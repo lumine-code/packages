@@ -3461,6 +3461,7 @@
       }
     }
   },
+  "lumine-code/language-crystal",
   {
     "source": "lumine-code/language-csharp",
     "resolvedSha": "fff9dba4809b3b2096d3b29c30a6839a708392da",
@@ -3563,6 +3564,7 @@
       }
     }
   },
+  "lumine-code/language-cython",
   {
     "source": "lumine-code/language-dart",
     "resolvedSha": "335759b8fbfe241ef38c2544386283eb0e22e90f",
@@ -4109,6 +4111,7 @@
       }
     }
   },
+  "lumine-code/language-ipython",
   {
     "source": "lumine-code/language-java",
     "resolvedSha": "e2e22ad4f5a64756533c8028681bd077e3cb06a0",
@@ -4974,6 +4977,7 @@
       }
     }
   },
+  "lumine-code/language-regex",
   {
     "source": "lumine-code/language-ruby",
     "resolvedSha": "547c099ff6ddf43a33afd2296bbfcec8cd702663",
@@ -5183,6 +5187,7 @@
       }
     }
   },
+  "lumine-code/language-snakemake",
   {
     "source": "lumine-code/language-sofistik",
     "resolvedSha": "0483632eee35fd8f732df05d234ec67421c7f760",
