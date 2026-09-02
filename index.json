@@ -7593,6 +7593,7 @@
       }
     }
   },
+  "lumine-code/table-editor",
   {
     "source": "lumine-code/tabs",
     "resolvedSha": "764f24d52e86ff1558c612e1520b80378314821a",
