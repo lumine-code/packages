@@ -7804,35 +7804,30 @@
   },
   {
     "source": "lumine-code/table-editor",
-    "resolvedSha": "d06093723fdcc38292e1223bb1016ea1b3212a52",
+    "resolvedSha": "55a899e8d9449b33ec3ae7bee11f04420075eff0",
     "selectedRef": {
       "type": "latest",
-      "value": "v1.0.1"
+      "value": "v1.0.0"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d06093723fdcc38292e1223bb1016ea1b3212a52",
+      "headSha": "55a899e8d9449b33ec3ae7bee11f04420075eff0",
       "latestStable": {
-        "name": "v1.0.1",
-        "version": "1.0.1",
-        "sha": "d06093723fdcc38292e1223bb1016ea1b3212a52"
+        "name": "v1.0.0",
+        "version": "1.0.0",
+        "sha": "55a899e8d9449b33ec3ae7bee11f04420075eff0"
       },
       "tags": [
         {
-          "name": "v1.0.1",
-          "version": "1.0.1",
-          "sha": "d06093723fdcc38292e1223bb1016ea1b3212a52"
-        },
-        {
           "name": "v1.0.0",
           "version": "1.0.0",
-          "sha": "f1ac87758505f6c2cfeb70debe9b8155904afd30"
+          "sha": "55a899e8d9449b33ec3ae7bee11f04420075eff0"
         }
       ]
     },
     "metadata": {
       "name": "table-editor",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "description": "Edit CSV and TSV files in a structured grid.",
       "keywords": [
         "csv",
