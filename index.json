@@ -1348,14 +1348,14 @@
   },
   {
     "source": "lumine-code/file-operations",
-    "resolvedSha": "b2c1ac11577010b00924548bb855bfb9200248b7",
+    "resolvedSha": "ef96b28997f2f274ab5f23480a22087b5acc9a9c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b2c1ac11577010b00924548bb855bfb9200248b7",
+      "headSha": "ef96b28997f2f274ab5f23480a22087b5acc9a9c",
       "latestStable": null,
       "tags": []
     },
