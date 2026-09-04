@@ -1346,7 +1346,41 @@
       }
     }
   },
-  "lumine-code/file-operations",
+  {
+    "source": "lumine-code/file-operations",
+    "resolvedSha": "b2c1ac11577010b00924548bb855bfb9200248b7",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "b2c1ac11577010b00924548bb855bfb9200248b7",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "file-operations",
+      "version": "1.0.0",
+      "description": "Executes ordered filesystem changes through preflighted plans.",
+      "keywords": [
+        "filesystem",
+        "workspace-edit",
+        "rename",
+        "transaction",
+        "toctou",
+        "resource"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/file-operations",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/file-operations/issues"
+      }
+    }
+  },
   {
     "source": "lumine-code/find-references",
     "resolvedSha": "6221166bc892b1a19741e2a801f456741578d52a",
@@ -2091,14 +2125,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "a1600c337c056de953f3f3d3419cbae4baa38eb6",
+    "resolvedSha": "d0f367b33a12c365a196bfd70d3fb6ed4eec4971",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a1600c337c056de953f3f3d3419cbae4baa38eb6",
+      "headSha": "d0f367b33a12c365a196bfd70d3fb6ed4eec4971",
       "latestStable": null,
       "tags": []
     },
