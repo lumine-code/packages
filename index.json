@@ -1346,6 +1346,7 @@
       }
     }
   },
+  "lumine-code/file-operations",
   {
     "source": "lumine-code/find-references",
     "resolvedSha": "6221166bc892b1a19741e2a801f456741578d52a",
