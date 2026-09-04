@@ -2055,14 +2055,14 @@
   },
   {
     "source": "lumine-code/ide-bash",
-    "resolvedSha": "8ca4e4db3430e7a2572944acf61cbc99c6ae58ed",
+    "resolvedSha": "d4e0281060c312c3e7db03f26d4cc693cfd269e8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8ca4e4db3430e7a2572944acf61cbc99c6ae58ed",
+      "headSha": "d4e0281060c312c3e7db03f26d4cc693cfd269e8",
       "latestStable": null,
       "tags": []
     },
