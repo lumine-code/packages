@@ -8146,14 +8146,14 @@
   },
   {
     "source": "lumine-code/tree-view",
-    "resolvedSha": "ea0a8a932319cfff911a7051e83b371fcf1b0fba",
+    "resolvedSha": "0a10ba39c928869b37e9e746ca25781eb4805d5a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ea0a8a932319cfff911a7051e83b371fcf1b0fba",
+      "headSha": "0a10ba39c928869b37e9e746ca25781eb4805d5a",
       "latestStable": null,
       "tags": []
     },
