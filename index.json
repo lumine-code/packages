@@ -657,14 +657,14 @@
   },
   {
     "source": "lumine-code/bib-finder",
-    "resolvedSha": "3832cb7f1507e575478d64ef7643e74e77c2c34d",
+    "resolvedSha": "38e0042e900841152f43ef63e809c322e739834c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3832cb7f1507e575478d64ef7643e74e77c2c34d",
+      "headSha": "38e0042e900841152f43ef63e809c322e739834c",
       "latestStable": null,
       "tags": []
     },
@@ -1661,14 +1661,14 @@
   },
   {
     "source": "lumine-code/git-diff",
-    "resolvedSha": "e9ddb446d81ad942407c7a225c12bde4775079d5",
+    "resolvedSha": "575e963f244075c13f4929d7929b695e88269a52",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e9ddb446d81ad942407c7a225c12bde4775079d5",
+      "headSha": "575e963f244075c13f4929d7929b695e88269a52",
       "latestStable": null,
       "tags": []
     },
@@ -1696,14 +1696,14 @@
   },
   {
     "source": "lumine-code/git-panel",
-    "resolvedSha": "a5b6fc4413013f515418bdc1034e75a7984d671c",
+    "resolvedSha": "c1bf2256cc918206b7646b1819e11b93870bec84",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a5b6fc4413013f515418bdc1034e75a7984d671c",
+      "headSha": "c1bf2256cc918206b7646b1819e11b93870bec84",
       "latestStable": null,
       "tags": []
     },
@@ -2125,14 +2125,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "d0f367b33a12c365a196bfd70d3fb6ed4eec4971",
+    "resolvedSha": "8931dbd95f2ad7636335c89fc6b5e1248948e177",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d0f367b33a12c365a196bfd70d3fb6ed4eec4971",
+      "headSha": "8931dbd95f2ad7636335c89fc6b5e1248948e177",
       "latestStable": null,
       "tags": []
     },
@@ -4297,14 +4297,14 @@
   },
   {
     "source": "lumine-code/language-java",
-    "resolvedSha": "2d650611028417bacb62462614b3b4b8b9b022cc",
+    "resolvedSha": "775c1eae889dec493ae9a10d5330b1d9f410ff0e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2d650611028417bacb62462614b3b4b8b9b022cc",
+      "headSha": "775c1eae889dec493ae9a10d5330b1d9f410ff0e",
       "latestStable": null,
       "tags": []
     },
@@ -4313,8 +4313,6 @@
       "version": "1.0.0",
       "description": "Java language support.",
       "keywords": [
-        "jsp",
-        "bsh",
         "properties",
         "jvm",
         "tree-sitter"
@@ -6880,14 +6878,14 @@
   },
   {
     "source": "lumine-code/open-repository",
-    "resolvedSha": "c670b2ee6d5409c04f58e65b9b1929428fcd667b",
+    "resolvedSha": "6af166e029a9c2c7b3d1dfbe3f827fd35de15533",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c670b2ee6d5409c04f58e65b9b1929428fcd667b",
+      "headSha": "6af166e029a9c2c7b3d1dfbe3f827fd35de15533",
       "latestStable": null,
       "tags": []
     },
@@ -7433,14 +7431,14 @@
   },
   {
     "source": "lumine-code/snippets",
-    "resolvedSha": "0b817f1dfb137cbc40d51419d21fef5b146419d5",
+    "resolvedSha": "e2f90899232731d497c05d96d5e801253876a951",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0b817f1dfb137cbc40d51419d21fef5b146419d5",
+      "headSha": "e2f90899232731d497c05d96d5e801253876a951",
       "latestStable": null,
       "tags": []
     },
@@ -7904,14 +7902,14 @@
   },
   {
     "source": "lumine-code/tabs",
-    "resolvedSha": "764f24d52e86ff1558c612e1520b80378314821a",
+    "resolvedSha": "825788c11aac09b530dd69f43c660214f1371b72",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "764f24d52e86ff1558c612e1520b80378314821a",
+      "headSha": "825788c11aac09b530dd69f43c660214f1371b72",
       "latestStable": null,
       "tags": []
     },
@@ -8181,14 +8179,14 @@
   },
   {
     "source": "lumine-code/tree-view",
-    "resolvedSha": "0a10ba39c928869b37e9e746ca25781eb4805d5a",
+    "resolvedSha": "69fc9cc4d8b3c560eba306bf69b6569d24bf0b7a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0a10ba39c928869b37e9e746ca25781eb4805d5a",
+      "headSha": "69fc9cc4d8b3c560eba306bf69b6569d24bf0b7a",
       "latestStable": null,
       "tags": []
     },
