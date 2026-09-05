@@ -60,3 +60,7 @@ A snapshot has this shape:
 Running each package's spec suite lives in `lumine-code/ci-status`, which sweeps the whole organization rather than this catalog. It is kept out of here on purpose: whether a package's specs pass is a fact about that package's repository, not about this one, so it must not mark this repository's commits red — and it could not be cleared from them either, since this catalog's `master` moves only when the catalog itself changes.
 
 The checks that belong here validate `index.json` and the code that refreshes it; they do not run package repositories' own specs.
+
+## Contributing
+
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub. Any feedback is welcome!
