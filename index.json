@@ -1142,14 +1142,14 @@
   },
   {
     "source": "lumine-code/cursor-leader",
-    "resolvedSha": "83e349d3fb1951053851be9848c9388fdf61c93b",
+    "resolvedSha": "835ef65243a65aa96909dd6b224dd1c478031883",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "83e349d3fb1951053851be9848c9388fdf61c93b",
+      "headSha": "835ef65243a65aa96909dd6b224dd1c478031883",
       "latestStable": null,
       "tags": []
     },
