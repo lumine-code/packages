@@ -2895,41 +2895,6 @@
     }
   },
   {
-    "source": "lumine-code/item-status",
-    "resolvedSha": "fc379a1e3a125e981e4baf5bbe4252de16080cdf",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "fc379a1e3a125e981e4baf5bbe4252de16080cdf",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "item-status",
-      "version": "1.0.0",
-      "description": "Show the active pane item's path and the cursor position in the status bar.",
-      "keywords": [
-        "cursor",
-        "position",
-        "selection",
-        "filepath",
-        "path",
-        "indicator"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/item-status",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/item-status/issues"
-      }
-    }
-  },
-  {
     "source": "lumine-code/jupyter-cells",
     "resolvedSha": "65baac93aeb2b51ca6f21f864f51a74674abd7bb",
     "selectedRef": {
