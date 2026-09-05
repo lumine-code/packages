@@ -1772,26 +1772,26 @@
   },
   {
     "source": "lumine-code/go-to-line",
-    "resolvedSha": "786b810c7bc168c7004d173974fcdaec92af98d3",
+    "resolvedSha": "adf9e7c2bf09e88eb24169c2a1c0e5b29a7b501d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "786b810c7bc168c7004d173974fcdaec92af98d3",
+      "headSha": "adf9e7c2bf09e88eb24169c2a1c0e5b29a7b501d",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
       "name": "go-to-line",
       "version": "1.0.0",
-      "description": "Jump the cursor to a specific line number.",
+      "description": "Show the cursor position and jump to lines or ranges.",
       "keywords": [
         "navigation",
-        "jump",
         "cursor",
-        "number",
+        "selection",
+        "range",
         "location"
       ],
       "engines": {
@@ -7613,14 +7613,14 @@
   },
   {
     "source": "lumine-code/status-bar",
-    "resolvedSha": "01d94f3970444d875a5af421eba114c535dfb361",
+    "resolvedSha": "105d79a2ee2c9dd7de37916517693b5703166532",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "01d94f3970444d875a5af421eba114c535dfb361",
+      "headSha": "105d79a2ee2c9dd7de37916517693b5703166532",
       "latestStable": null,
       "tags": []
     },
