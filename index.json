@@ -760,14 +760,14 @@
   },
   {
     "source": "lumine-code/breadcrumbs",
-    "resolvedSha": "b99c606a10b3a397efd86e223d4556f1cd58f693",
+    "resolvedSha": "d8152dcd9a04c57c27ef187f90809f23b0265f93",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b99c606a10b3a397efd86e223d4556f1cd58f693",
+      "headSha": "d8152dcd9a04c57c27ef187f90809f23b0265f93",
       "latestStable": null,
       "tags": []
     },
@@ -1142,14 +1142,14 @@
   },
   {
     "source": "lumine-code/cursor-leader",
-    "resolvedSha": "d935ae0f849ab9a69900dc7d4c84821b96f18cbc",
+    "resolvedSha": "83e349d3fb1951053851be9848c9388fdf61c93b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d935ae0f849ab9a69900dc7d4c84821b96f18cbc",
+      "headSha": "83e349d3fb1951053851be9848c9388fdf61c93b",
       "latestStable": null,
       "tags": []
     },
@@ -2090,14 +2090,14 @@
   },
   {
     "source": "lumine-code/ide-bash",
-    "resolvedSha": "d4e0281060c312c3e7db03f26d4cc693cfd269e8",
+    "resolvedSha": "872bf885f97c04a01bc1b8aaa93348b77647777e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d4e0281060c312c3e7db03f26d4cc693cfd269e8",
+      "headSha": "872bf885f97c04a01bc1b8aaa93348b77647777e",
       "latestStable": null,
       "tags": []
     },
@@ -2160,14 +2160,14 @@
   },
   {
     "source": "lumine-code/ide-css",
-    "resolvedSha": "03bea3ffe1fe44a0e991751f483619212afdedfe",
+    "resolvedSha": "ae2a85bc825572a17a94c71e377fb5f526d2577e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "03bea3ffe1fe44a0e991751f483619212afdedfe",
+      "headSha": "ae2a85bc825572a17a94c71e377fb5f526d2577e",
       "latestStable": null,
       "tags": []
     },
@@ -2196,14 +2196,14 @@
   },
   {
     "source": "lumine-code/ide-dockerfile",
-    "resolvedSha": "ae9b18a3397a7144aa0cd5eb8b0823c148c3968c",
+    "resolvedSha": "b47dd2c3ea8d099a870386fc62ac42907337d70e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ae9b18a3397a7144aa0cd5eb8b0823c148c3968c",
+      "headSha": "b47dd2c3ea8d099a870386fc62ac42907337d70e",
       "latestStable": null,
       "tags": []
     },
@@ -2232,14 +2232,14 @@
   },
   {
     "source": "lumine-code/ide-eslint",
-    "resolvedSha": "f7350f5df700f329b4fdf72e27fe444a008c747d",
+    "resolvedSha": "cd661bf2046befea99001425d505fbc8ebde1261",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f7350f5df700f329b4fdf72e27fe444a008c747d",
+      "headSha": "cd661bf2046befea99001425d505fbc8ebde1261",
       "latestStable": null,
       "tags": []
     },
@@ -2268,14 +2268,14 @@
   },
   {
     "source": "lumine-code/ide-graphql",
-    "resolvedSha": "589bb6e1751b01d8c425872b141036f6e154e94b",
+    "resolvedSha": "4a5f72dcbda82e55dcf2555aa1aecd541279e1f8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "589bb6e1751b01d8c425872b141036f6e154e94b",
+      "headSha": "4a5f72dcbda82e55dcf2555aa1aecd541279e1f8",
       "latestStable": null,
       "tags": []
     },
@@ -2304,14 +2304,14 @@
   },
   {
     "source": "lumine-code/ide-html",
-    "resolvedSha": "e329ec015828f159cb6a137f5c77ef3577c55b67",
+    "resolvedSha": "ef7c087436b0f88446df9530736c9cf8031088a1",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e329ec015828f159cb6a137f5c77ef3577c55b67",
+      "headSha": "ef7c087436b0f88446df9530736c9cf8031088a1",
       "latestStable": null,
       "tags": []
     },
@@ -2341,14 +2341,14 @@
   },
   {
     "source": "lumine-code/ide-json",
-    "resolvedSha": "d8fa83d5596759334fd6afb7a53270163bb73c6c",
+    "resolvedSha": "f739ce3d90cdd46bcc421f08e78a408d6935be1e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d8fa83d5596759334fd6afb7a53270163bb73c6c",
+      "headSha": "f739ce3d90cdd46bcc421f08e78a408d6935be1e",
       "latestStable": null,
       "tags": []
     },
@@ -2376,14 +2376,14 @@
   },
   {
     "source": "lumine-code/ide-marksman",
-    "resolvedSha": "31315e81e98a549ae0d9ed4a1f9f3d038dee3360",
+    "resolvedSha": "021e1c032b617da853408286ee7d754b30a96c63",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "31315e81e98a549ae0d9ed4a1f9f3d038dee3360",
+      "headSha": "021e1c032b617da853408286ee7d754b30a96c63",
       "latestStable": null,
       "tags": []
     },
@@ -2412,14 +2412,14 @@
   },
   {
     "source": "lumine-code/ide-pyright",
-    "resolvedSha": "edf3c03f47cb280b86cbe1a2832f6ac981880363",
+    "resolvedSha": "113977f154117b5c881b56b4f0eac52cfdab41a6",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "edf3c03f47cb280b86cbe1a2832f6ac981880363",
+      "headSha": "113977f154117b5c881b56b4f0eac52cfdab41a6",
       "latestStable": null,
       "tags": []
     },
@@ -2446,14 +2446,14 @@
   },
   {
     "source": "lumine-code/ide-ruff",
-    "resolvedSha": "21b1bf4f1f979c7e5966b5dc7889d5251c5d634a",
+    "resolvedSha": "c98669232d5a97fd88c32db43553f0f6ef5bde06",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "21b1bf4f1f979c7e5966b5dc7889d5251c5d634a",
+      "headSha": "c98669232d5a97fd88c32db43553f0f6ef5bde06",
       "latestStable": null,
       "tags": []
     },
@@ -2481,14 +2481,14 @@
   },
   {
     "source": "lumine-code/ide-texlab",
-    "resolvedSha": "bbf20dbfb1267c09f5d5e3a519debe45dd960e91",
+    "resolvedSha": "f66e6f0f3fade9c5174c99331527ce1e329ea35d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "bbf20dbfb1267c09f5d5e3a519debe45dd960e91",
+      "headSha": "f66e6f0f3fade9c5174c99331527ce1e329ea35d",
       "latestStable": null,
       "tags": []
     },
@@ -2515,14 +2515,14 @@
   },
   {
     "source": "lumine-code/ide-tinymist",
-    "resolvedSha": "143c86c3656fd7376fbd3514edd35a26c9568099",
+    "resolvedSha": "0ce4281922d8ac9563ae876269703418043ad462",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "143c86c3656fd7376fbd3514edd35a26c9568099",
+      "headSha": "0ce4281922d8ac9563ae876269703418043ad462",
       "latestStable": null,
       "tags": []
     },
@@ -2549,14 +2549,14 @@
   },
   {
     "source": "lumine-code/ide-typescript",
-    "resolvedSha": "374d2f87f42b8b2ef09cbbcb5cce7e68f5dcc004",
+    "resolvedSha": "6759418fc5fae3dacd0286e890b89326add5a1b2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "374d2f87f42b8b2ef09cbbcb5cce7e68f5dcc004",
+      "headSha": "6759418fc5fae3dacd0286e890b89326add5a1b2",
       "latestStable": null,
       "tags": []
     },
@@ -2585,14 +2585,14 @@
   },
   {
     "source": "lumine-code/ide-vue",
-    "resolvedSha": "f671bfb16aed4f5c2c14218ca1a78c9c33f07fa0",
+    "resolvedSha": "2aa31ce7ee18731334af4897839cb7528de70b34",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f671bfb16aed4f5c2c14218ca1a78c9c33f07fa0",
+      "headSha": "2aa31ce7ee18731334af4897839cb7528de70b34",
       "latestStable": null,
       "tags": []
     },
@@ -2621,14 +2621,14 @@
   },
   {
     "source": "lumine-code/ide-yaml",
-    "resolvedSha": "7a0b7a801cd755009d76de32ecead1cb442f4b62",
+    "resolvedSha": "1c2d4e4d579f01b5d7b0594040b636d30349d004",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7a0b7a801cd755009d76de32ecead1cb442f4b62",
+      "headSha": "1c2d4e4d579f01b5d7b0594040b636d30349d004",
       "latestStable": null,
       "tags": []
     },
@@ -3509,14 +3509,14 @@
   },
   {
     "source": "lumine-code/language-crystal",
-    "resolvedSha": "92dda45e1f83a6ed2680c75f3cec458c149df6cc",
+    "resolvedSha": "9fa16671b32937be44dd079e39ffc26a00eba6b8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "92dda45e1f83a6ed2680c75f3cec458c149df6cc",
+      "headSha": "9fa16671b32937be44dd079e39ffc26a00eba6b8",
       "latestStable": null,
       "tags": []
     },
@@ -3645,14 +3645,14 @@
   },
   {
     "source": "lumine-code/language-cython",
-    "resolvedSha": "9d08d65f668be5781fd820ee19b51d828997575b",
+    "resolvedSha": "627d1e77e1a8fc2795bf3d8162dfb0f11c4a57b9",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9d08d65f668be5781fd820ee19b51d828997575b",
+      "headSha": "627d1e77e1a8fc2795bf3d8162dfb0f11c4a57b9",
       "latestStable": null,
       "tags": []
     },
@@ -5374,14 +5374,14 @@
   },
   {
     "source": "lumine-code/language-snakemake",
-    "resolvedSha": "59e1c698b715567a991892ce888de52597571600",
+    "resolvedSha": "db3bb9bd3518fe4121fd87ae853c57cf870452ed",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "59e1c698b715567a991892ce888de52597571600",
+      "headSha": "db3bb9bd3518fe4121fd87ae853c57cf870452ed",
       "latestStable": null,
       "tags": []
     },
