@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  statuses: write
 
 concurrency:
   group: refresh-catalog
@@ -26,6 +27,8 @@ jobs:
       - run: npm test
       - name: Commit refreshed snapshots
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if git diff --quiet -- index.json; then
             echo "Catalog is already current."
@@ -36,3 +39,12 @@ jobs:
           git add index.json
           git commit -m "Refresh package catalog"
           git push
+          # A GITHUB_TOKEN push deliberately starts no second workflow. The
+          # checks above validated this exact generated tree, so report their
+          # result on the commit the refresh just pushed.
+          sha=$(git rev-parse HEAD)
+          gh api --method POST "repos/$GITHUB_REPOSITORY/statuses/$sha" \
+            -f state=success \
+            -f context="Validate catalog" \
+            -f description="Refresh workflow validated this catalog" \
+            -f target_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
