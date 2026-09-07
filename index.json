@@ -1588,14 +1588,14 @@
   },
   {
     "source": "lumine-code/git-center",
-    "resolvedSha": "a6f25cedcbad5e1575093c882b9f28f7eaced865",
+    "resolvedSha": "8971f7db1ae2fe9d34777f6e8d07b30a1c35ab93",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a6f25cedcbad5e1575093c882b9f28f7eaced865",
+      "headSha": "8971f7db1ae2fe9d34777f6e8d07b30a1c35ab93",
       "latestStable": null,
       "tags": []
     },
@@ -2657,14 +2657,14 @@
   },
   {
     "source": "lumine-code/image-editor",
-    "resolvedSha": "4c8e62a57fe43590c14ef6b894c9bc4277815a0f",
+    "resolvedSha": "07400d9291b79103e722804c6112e96abf708015",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "4c8e62a57fe43590c14ef6b894c9bc4277815a0f",
+      "headSha": "07400d9291b79103e722804c6112e96abf708015",
       "latestStable": null,
       "tags": []
     },
@@ -5409,14 +5409,14 @@
   },
   {
     "source": "lumine-code/language-sofistik",
-    "resolvedSha": "054dc62c7f91add67a08334a4924d82da7b4de66",
+    "resolvedSha": "ffb73bfccd8228bf34b47f9007184816dc9caea5",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "054dc62c7f91add67a08334a4924d82da7b4de66",
+      "headSha": "ffb73bfccd8228bf34b47f9007184816dc9caea5",
       "latestStable": null,
       "tags": []
     },
@@ -7431,14 +7431,14 @@
   },
   {
     "source": "lumine-code/sofistik-environment",
-    "resolvedSha": "bcd28466d3e97ff39349d1caaba965bb3d739580",
+    "resolvedSha": "a429ed4ce7bf823f1168ed81deb4e71129ee1004",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "bcd28466d3e97ff39349d1caaba965bb3d739580",
+      "headSha": "a429ed4ce7bf823f1168ed81deb4e71129ee1004",
       "latestStable": null,
       "tags": []
     },
