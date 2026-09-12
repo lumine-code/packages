@@ -3146,14 +3146,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "74bd06bc46810bea4364ee382c6895fb45ac2576",
+    "resolvedSha": "4de06eb2e5c3ec42bc1dd3f948f0cb4b2e5bcbcb",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "74bd06bc46810bea4364ee382c6895fb45ac2576",
+      "headSha": "4de06eb2e5c3ec42bc1dd3f948f0cb4b2e5bcbcb",
       "latestStable": null,
       "tags": []
     },
