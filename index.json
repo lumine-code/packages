@@ -247,14 +247,14 @@
   },
   {
     "source": "lumine-code/autocomplete",
-    "resolvedSha": "df404701bc8bc727e7149aae2133943578097ac2",
+    "resolvedSha": "71c8389836e0ff512e0a07aad696a3ab5031c8a3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "df404701bc8bc727e7149aae2133943578097ac2",
+      "headSha": "71c8389836e0ff512e0a07aad696a3ab5031c8a3",
       "latestStable": null,
       "tags": []
     },
@@ -454,14 +454,14 @@
   },
   {
     "source": "lumine-code/autocomplete-snippets",
-    "resolvedSha": "2bb3fabb17f6b72cec913ab88f04ae7e1f820118",
+    "resolvedSha": "3c8e87e3bfcb21bb2e729b11c7ca78428faee558",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2bb3fabb17f6b72cec913ab88f04ae7e1f820118",
+      "headSha": "3c8e87e3bfcb21bb2e729b11c7ca78428faee558",
       "latestStable": null,
       "tags": []
     },
@@ -657,14 +657,14 @@
   },
   {
     "source": "lumine-code/bib-finder",
-    "resolvedSha": "95392a50978431104a55d970fbde357118b79664",
+    "resolvedSha": "f38bd772ab265b6c47aca9feacc0a1330ed5af99",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "95392a50978431104a55d970fbde357118b79664",
+      "headSha": "f38bd772ab265b6c47aca9feacc0a1330ed5af99",
       "latestStable": null,
       "tags": []
     },
@@ -1074,14 +1074,14 @@
   },
   {
     "source": "lumine-code/command-palette",
-    "resolvedSha": "8dcd41a0119a01df8cdf41c453b550f3b50ca9ae",
+    "resolvedSha": "760370c8282e1af31edad5be830b1b5636ddab00",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8dcd41a0119a01df8cdf41c453b550f3b50ca9ae",
+      "headSha": "760370c8282e1af31edad5be830b1b5636ddab00",
       "latestStable": null,
       "tags": []
     },
@@ -1176,14 +1176,14 @@
   },
   {
     "source": "lumine-code/deprecation-cop",
-    "resolvedSha": "9dc58982a6dab2fdd45f5b0b50d42dbd8b03fc11",
+    "resolvedSha": "7e377559a14390a633cd45856ad5b06dc12badc4",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9dc58982a6dab2fdd45f5b0b50d42dbd8b03fc11",
+      "headSha": "7e377559a14390a633cd45856ad5b06dc12badc4",
       "latestStable": null,
       "tags": []
     },
@@ -1452,14 +1452,14 @@
   },
   {
     "source": "lumine-code/fuzzy-explorer",
-    "resolvedSha": "d589e296031151d19dd376ba24f96aca593a7960",
+    "resolvedSha": "2454b24429a7ab7ed87b4863cb678df2fa4d5b19",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d589e296031151d19dd376ba24f96aca593a7960",
+      "headSha": "2454b24429a7ab7ed87b4863cb678df2fa4d5b19",
       "latestStable": null,
       "tags": []
     },
@@ -1520,14 +1520,14 @@
   },
   {
     "source": "lumine-code/fuzzy-workspace",
-    "resolvedSha": "f1683ada4a3a59dd11698a5de10a17223d08328d",
+    "resolvedSha": "710d59b4d262fd2d5cc4efeddc1915b0fd003c13",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f1683ada4a3a59dd11698a5de10a17223d08328d",
+      "headSha": "710d59b4d262fd2d5cc4efeddc1915b0fd003c13",
       "latestStable": null,
       "tags": []
     },
@@ -1588,14 +1588,14 @@
   },
   {
     "source": "lumine-code/git-center",
-    "resolvedSha": "ccc5392ba15619c026a9c8cb5f04501ba8b84b1d",
+    "resolvedSha": "382a46b953a18b974476b6d1d8399a149c4b8be3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ccc5392ba15619c026a9c8cb5f04501ba8b84b1d",
+      "headSha": "382a46b953a18b974476b6d1d8399a149c4b8be3",
       "latestStable": null,
       "tags": []
     },
@@ -1625,14 +1625,14 @@
   },
   {
     "source": "lumine-code/git-command",
-    "resolvedSha": "454f7c5284ad0688a1596716ada279846ca6a35e",
+    "resolvedSha": "a02b5d32e6ea4b0d1e67fd9f7f1c2f1e5f36275d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "454f7c5284ad0688a1596716ada279846ca6a35e",
+      "headSha": "a02b5d32e6ea4b0d1e67fd9f7f1c2f1e5f36275d",
       "latestStable": null,
       "tags": []
     },
@@ -1773,14 +1773,14 @@
   },
   {
     "source": "lumine-code/go-to-line",
-    "resolvedSha": "77c03b4e0a89bfb60b0d7c8339b27d4481a7c20c",
+    "resolvedSha": "82666ecff839f1978095b89e4648bd5eeffab1ba",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "77c03b4e0a89bfb60b0d7c8339b27d4481a7c20c",
+      "headSha": "82666ecff839f1978095b89e4648bd5eeffab1ba",
       "latestStable": null,
       "tags": []
     },
@@ -1841,14 +1841,14 @@
   },
   {
     "source": "lumine-code/graviss",
-    "resolvedSha": "e140e0be51d5e5842da501eb59d8c47289b1c948",
+    "resolvedSha": "5609f3258e0ed2ebb69005ba19f116c943010a07",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e140e0be51d5e5842da501eb59d8c47289b1c948",
+      "headSha": "5609f3258e0ed2ebb69005ba19f116c943010a07",
       "latestStable": null,
       "tags": []
     },
@@ -2126,14 +2126,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "619c94b9ea02ac02cb25a31e75244d3056476e89",
+    "resolvedSha": "15505998c765e0d7e1bcb67afa2e76b0d7a58553",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "619c94b9ea02ac02cb25a31e75244d3056476e89",
+      "headSha": "15505998c765e0d7e1bcb67afa2e76b0d7a58553",
       "latestStable": null,
       "tags": []
     },
@@ -2693,14 +2693,14 @@
   },
   {
     "source": "lumine-code/image-paste",
-    "resolvedSha": "133c945dd2842af6011ca9aadcbfba57296a7231",
+    "resolvedSha": "c12dbc10a7f86a7ac1df93b3968411e3395152b5",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "133c945dd2842af6011ca9aadcbfba57296a7231",
+      "headSha": "c12dbc10a7f86a7ac1df93b3968411e3395152b5",
       "latestStable": null,
       "tags": []
     },
@@ -2931,14 +2931,14 @@
   },
   {
     "source": "lumine-code/jupyter-explorer",
-    "resolvedSha": "909844efbb2cdb40b7033e8c36786f052b348641",
+    "resolvedSha": "e6b1b94ebc87beabd49af55b152c1329d7a260b7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "909844efbb2cdb40b7033e8c36786f052b348641",
+      "headSha": "e6b1b94ebc87beabd49af55b152c1329d7a260b7",
       "latestStable": null,
       "tags": []
     },
@@ -2968,14 +2968,14 @@
   },
   {
     "source": "lumine-code/jupyter-inspector",
-    "resolvedSha": "09d0894dc96aac2b3374b3351ca25cc3bac6bb2d",
+    "resolvedSha": "7d0f72e4066e70dad8b0dffa0f44eb03ae9e0ad3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "09d0894dc96aac2b3374b3351ca25cc3bac6bb2d",
+      "headSha": "7d0f72e4066e70dad8b0dffa0f44eb03ae9e0ad3",
       "latestStable": null,
       "tags": []
     },
@@ -3073,14 +3073,14 @@
   },
   {
     "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "6cada55e10aec8854da01753d8bf5738f5cd6396",
+    "resolvedSha": "5dde89d2dc72adc71558c6518612e7e5a339264e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6cada55e10aec8854da01753d8bf5738f5cd6396",
+      "headSha": "5dde89d2dc72adc71558c6518612e7e5a339264e",
       "latestStable": null,
       "tags": []
     },
@@ -3109,14 +3109,14 @@
   },
   {
     "source": "lumine-code/jupyter-variables",
-    "resolvedSha": "9f3046f289cb830fcd13d5d614b1d0954feba731",
+    "resolvedSha": "a987559ee3fdb35faa32719ff98308e093da1831",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9f3046f289cb830fcd13d5d614b1d0954feba731",
+      "headSha": "a987559ee3fdb35faa32719ff98308e093da1831",
       "latestStable": null,
       "tags": []
     },
@@ -3146,14 +3146,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "9c2780b0809c8f0578a46b9b75b3700801a175bc",
+    "resolvedSha": "9964a2d7d4d477b79cf51f88986a7d531f7f2425",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9c2780b0809c8f0578a46b9b75b3700801a175bc",
+      "headSha": "9964a2d7d4d477b79cf51f88986a7d531f7f2425",
       "latestStable": null,
       "tags": []
     },
@@ -3181,14 +3181,14 @@
   },
   {
     "source": "lumine-code/jupyter-watches",
-    "resolvedSha": "31cf910369fa9b2eebc14fbc988ca015cbc1f17f",
+    "resolvedSha": "7754daa9d44d3bafca4786e7e60df60cd3790943",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "31cf910369fa9b2eebc14fbc988ca015cbc1f17f",
+      "headSha": "7754daa9d44d3bafca4786e7e60df60cd3790943",
       "latestStable": null,
       "tags": []
     },
@@ -5918,14 +5918,14 @@
   },
   {
     "source": "lumine-code/latex-tools",
-    "resolvedSha": "c9ca75161f26af5914b4cde10e4d5fc96030da2b",
+    "resolvedSha": "e3fe73cb9e43f27f8b7db78d3bcf1ec7c9c45013",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c9ca75161f26af5914b4cde10e4d5fc96030da2b",
+      "headSha": "e3fe73cb9e43f27f8b7db78d3bcf1ec7c9c45013",
       "latestStable": null,
       "tags": []
     },
@@ -5987,14 +5987,14 @@
   },
   {
     "source": "lumine-code/link",
-    "resolvedSha": "7becbedce49074c5ed17fc5a7936cd10dc3d14b2",
+    "resolvedSha": "c14e0c01074a3e82195875eaea0b0a8e9865259a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7becbedce49074c5ed17fc5a7936cd10dc3d14b2",
+      "headSha": "c14e0c01074a3e82195875eaea0b0a8e9865259a",
       "latestStable": null,
       "tags": []
     },
@@ -6231,14 +6231,14 @@
   },
   {
     "source": "lumine-code/log-filter",
-    "resolvedSha": "86b55e4cad2166341ff198322bd53d2a6d6cc82e",
+    "resolvedSha": "4a1efb8a131dac270786b4eadb441373c0a1d067",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "86b55e4cad2166341ff198322bd53d2a6d6cc82e",
+      "headSha": "4a1efb8a131dac270786b4eadb441373c0a1d067",
       "latestStable": null,
       "tags": []
     },
@@ -6549,14 +6549,14 @@
   },
   {
     "source": "lumine-code/navigation-panel",
-    "resolvedSha": "22460621b6bf1f42e3025df3f466b9590ed6a3cb",
+    "resolvedSha": "d09cc255c88bb412b924ace5245e871abfede6fb",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "22460621b6bf1f42e3025df3f466b9590ed6a3cb",
+      "headSha": "d09cc255c88bb412b924ace5245e871abfede6fb",
       "latestStable": null,
       "tags": []
     },
@@ -7182,14 +7182,14 @@
   },
   {
     "source": "lumine-code/regex-aligner",
-    "resolvedSha": "07a9b1ab4bcfa8b7c212fe52ce92433bd902fdd4",
+    "resolvedSha": "f3bf8bd2bb4d1f3ef3dd1c09e5554d897682498b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "07a9b1ab4bcfa8b7c212fe52ce92433bd902fdd4",
+      "headSha": "f3bf8bd2bb4d1f3ef3dd1c09e5554d897682498b",
       "latestStable": null,
       "tags": []
     },
@@ -7318,14 +7318,14 @@
   },
   {
     "source": "lumine-code/sequence-creator",
-    "resolvedSha": "ddec686eecb66194515f29332595daacec76b31b",
+    "resolvedSha": "33252f6bca4e300634ed47e236225e7fe4f326e7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ddec686eecb66194515f29332595daacec76b31b",
+      "headSha": "33252f6bca4e300634ed47e236225e7fe4f326e7",
       "latestStable": null,
       "tags": []
     },
@@ -7387,14 +7387,14 @@
   },
   {
     "source": "lumine-code/snippets",
-    "resolvedSha": "30fe08eb7ea2af1b16cb8dc6e9879bd81c09c42e",
+    "resolvedSha": "aa5406baa7d76d4975ab2e5202d68d1fb89efd63",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "30fe08eb7ea2af1b16cb8dc6e9879bd81c09c42e",
+      "headSha": "aa5406baa7d76d4975ab2e5202d68d1fb89efd63",
       "latestStable": null,
       "tags": []
     },
@@ -7944,14 +7944,14 @@
   },
   {
     "source": "lumine-code/terminal-spawn",
-    "resolvedSha": "a0d034a68a7b1aea8083a9785957071556f74abf",
+    "resolvedSha": "556f766f8f6c17b7892ffee48f9be9e52abb68ae",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a0d034a68a7b1aea8083a9785957071556f74abf",
+      "headSha": "556f766f8f6c17b7892ffee48f9be9e52abb68ae",
       "latestStable": null,
       "tags": []
     },
@@ -8081,14 +8081,14 @@
   },
   {
     "source": "lumine-code/toolbar",
-    "resolvedSha": "612949514f03a6166eaa8e82f3c4500fb511ea2c",
+    "resolvedSha": "35a7a9c8969c3adc35d187a465237214c458eb00",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "612949514f03a6166eaa8e82f3c4500fb511ea2c",
+      "headSha": "35a7a9c8969c3adc35d187a465237214c458eb00",
       "latestStable": null,
       "tags": []
     },
