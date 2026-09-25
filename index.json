@@ -1807,14 +1807,14 @@
   },
   {
     "source": "lumine-code/grammar-selector",
-    "resolvedSha": "2e8458530075ea1ebc21380ed9bbb72c3673a5f9",
+    "resolvedSha": "e9195b70e55e297013fc98f1ba4efce1ef5e84c6",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2e8458530075ea1ebc21380ed9bbb72c3673a5f9",
+      "headSha": "e9195b70e55e297013fc98f1ba4efce1ef5e84c6",
       "latestStable": null,
       "tags": []
     },
@@ -4598,29 +4598,27 @@
   },
   {
     "source": "lumine-code/language-log",
-    "resolvedSha": "55612906692acd7eaea1d56792538de57213176f",
+    "resolvedSha": "6df44c791e2d6e3684705e575f30ae3492ad80a3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "55612906692acd7eaea1d56792538de57213176f",
+      "headSha": "6df44c791e2d6e3684705e575f30ae3492ad80a3",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
       "name": "language-log",
       "version": "1.0.0",
-      "description": "Log, report, traceback, and plain-text language support.",
+      "description": "Log, report, and traceback language support.",
       "keywords": [
         "junit",
         "traceback",
         "syslog",
         "sofistik",
-        "plaintext",
         "pytb",
-        "txt",
         "tree-sitter"
       ],
       "engines": {
@@ -5604,14 +5602,14 @@
   },
   {
     "source": "lumine-code/language-text",
-    "resolvedSha": "5ff175a053145f7d4739fe47c45af2740c92efe2",
+    "resolvedSha": "35b3d35bc698a12295acbc81d5cb593b2b09ab03",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5ff175a053145f7d4739fe47c45af2740c92efe2",
+      "headSha": "35b3d35bc698a12295acbc81d5cb593b2b09ab03",
       "latestStable": null,
       "tags": []
     },
@@ -5622,7 +5620,8 @@
       "keywords": [
         "txt",
         "plaintext",
-        "prose"
+        "prose",
+        "tree-sitter"
       ],
       "engines": {
         "lumine": "^1.0.0",
