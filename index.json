@@ -8154,6 +8154,7 @@
       }
     }
   },
+  "lumine-code/web-browser",
   {
     "source": "lumine-code/whitespace",
     "resolvedSha": "259fca5d56ed67ea7a124f3c8b7cb1cb9e604d6c",
