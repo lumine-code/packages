@@ -286,42 +286,6 @@
     }
   },
   {
-    "source": "lumine-code/autocomplete-jedi",
-    "resolvedSha": "8c5da937e31578f3bbf3558e450a76e47435e3ed",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "8c5da937e31578f3bbf3558e450a76e47435e3ed",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "autocomplete-jedi",
-      "version": "1.0.0",
-      "description": "Python autocompletion powered by Jedi.",
-      "keywords": [
-        "python",
-        "go-to-definition",
-        "completion",
-        "hyperclick",
-        "virtualenv",
-        "rename",
-        "usages"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/autocomplete-jedi",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/autocomplete-jedi/issues"
-      }
-    }
-  },
-  {
     "source": "lumine-code/autocomplete-lumine",
     "resolvedSha": "fb0d5c70603505afbe80aab09d6ce05fd9ae0a45",
     "selectedRef": {
@@ -2828,6 +2792,42 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/invert-colors/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/jedi-tools",
+    "resolvedSha": "8cc79d036414863edaaad075277e3071faac7710",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "8cc79d036414863edaaad075277e3071faac7710",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "jedi-tools",
+      "version": "1.0.0",
+      "description": "Navigate and refactor Python with Jedi.",
+      "keywords": [
+        "python",
+        "go-to-definition",
+        "refactoring",
+        "hyperclick",
+        "virtualenv",
+        "rename",
+        "usages"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/jedi-tools",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/jedi-tools/issues"
       }
     }
   },
@@ -5956,14 +5956,14 @@
   },
   {
     "source": "lumine-code/linter",
-    "resolvedSha": "edafed36c9c192fa566b1a1339a9b46dbd9fdda9",
+    "resolvedSha": "e6ea911a3e73db410834a1381dc6ca08449add49",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "edafed36c9c192fa566b1a1339a9b46dbd9fdda9",
+      "headSha": "e6ea911a3e73db410834a1381dc6ca08449add49",
       "latestStable": null,
       "tags": []
     },
@@ -6307,14 +6307,14 @@
   },
   {
     "source": "lumine-code/marker",
-    "resolvedSha": "19c008b039e5a2c4ace29f863027ce3d947df81f",
+    "resolvedSha": "1c5e662e2bb5131988f628048318aebbc7c06b16",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "19c008b039e5a2c4ace29f863027ce3d947df81f",
+      "headSha": "1c5e662e2bb5131988f628048318aebbc7c06b16",
       "latestStable": null,
       "tags": []
     },
