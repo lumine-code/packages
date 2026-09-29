@@ -2061,14 +2061,14 @@
   },
   {
     "source": "lumine-code/ide-css",
-    "resolvedSha": "d35bc8796cd4c6910d3475023a6ac04ce28dccba",
+    "resolvedSha": "84aff3f7daa72c2c939061c10ece2430ec069a62",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d35bc8796cd4c6910d3475023a6ac04ce28dccba",
+      "headSha": "84aff3f7daa72c2c939061c10ece2430ec069a62",
       "latestStable": null,
       "tags": []
     },
@@ -2377,6 +2377,41 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/ide-ruff/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/ide-sass",
+    "resolvedSha": "3692c8ecbfd2ece241642d9c03648586fe1054b7",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "3692c8ecbfd2ece241642d9c03648586fe1054b7",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-sass",
+      "version": "1.0.0",
+      "description": "Indented Sass language-server adapter.",
+      "keywords": [
+        "mixin",
+        "sassdoc",
+        "stylesheet",
+        "language-server",
+        "lsp",
+        "intellisense"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-sass",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-sass/issues"
       }
     }
   },
