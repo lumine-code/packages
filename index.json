@@ -2797,14 +2797,14 @@
   },
   {
     "source": "lumine-code/jedi-tools",
-    "resolvedSha": "72f37e877ed801077419d00028bdb876b1de19e1",
+    "resolvedSha": "a69d1fcbd0447f71fb5b541bd4a49bd175f0276a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "72f37e877ed801077419d00028bdb876b1de19e1",
+      "headSha": "a69d1fcbd0447f71fb5b541bd4a49bd175f0276a",
       "latestStable": null,
       "tags": []
     },
