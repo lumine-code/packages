@@ -8155,44 +8155,6 @@
     }
   },
   {
-    "source": "lumine-code/web-browser",
-    "resolvedSha": "b0849616e547b2cfbd3757f8120303976481ba9a",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "b0849616e547b2cfbd3757f8120303976481ba9a",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "web-browser",
-      "version": "1.0.0",
-      "description": "Browse the web without leaving the editor.",
-      "keywords": [
-        "chromium",
-        "devtools",
-        "navigation",
-        "internet",
-        "http",
-        "https",
-        "downloads",
-        "preview"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/web-browser",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/web-browser/issues"
-      },
-      "homepage": "https://github.com/lumine-code/web-browser#readme"
-    }
-  },
-  {
     "source": "lumine-code/whitespace",
     "resolvedSha": "b9913c92d94d6a673561faceced876183a96047e",
     "selectedRef": {
