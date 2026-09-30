@@ -5922,14 +5922,14 @@
   },
   {
     "source": "lumine-code/linter",
-    "resolvedSha": "e6ea911a3e73db410834a1381dc6ca08449add49",
+    "resolvedSha": "8107d5fdd1629d21e4955e91bb4f3661d1e9fc63",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e6ea911a3e73db410834a1381dc6ca08449add49",
+      "headSha": "8107d5fdd1629d21e4955e91bb4f3661d1e9fc63",
       "latestStable": null,
       "tags": []
     },
@@ -5992,14 +5992,14 @@
   },
   {
     "source": "lumine-code/linter-panel",
-    "resolvedSha": "57a0250abbad1a08a1635b9094694cd692235e54",
+    "resolvedSha": "74c2bf99194e2365383f851bc4b83b96e12a081f",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "57a0250abbad1a08a1635b9094694cd692235e54",
+      "headSha": "74c2bf99194e2365383f851bc4b83b96e12a081f",
       "latestStable": null,
       "tags": []
     },
