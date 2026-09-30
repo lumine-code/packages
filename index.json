@@ -5923,14 +5923,14 @@
   },
   {
     "source": "lumine-code/linter",
-    "resolvedSha": "8107d5fdd1629d21e4955e91bb4f3661d1e9fc63",
+    "resolvedSha": "30e016833e0d7b876c2389812d2d8aefa84e491b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8107d5fdd1629d21e4955e91bb4f3661d1e9fc63",
+      "headSha": "30e016833e0d7b876c2389812d2d8aefa84e491b",
       "latestStable": null,
       "tags": []
     },
