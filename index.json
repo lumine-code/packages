@@ -318,40 +318,6 @@
     }
   },
   {
-    "source": "lumine-code/autocomplete-sofistik",
-    "resolvedSha": "6584ff55daeb59857b5e0d9359da5bb273353f43",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "6584ff55daeb59857b5e0d9359da5bb273353f43",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "autocomplete-sofistik",
-      "version": "1.0.0",
-      "description": "Autocompletion for SOFiSTiK modules, commands, and parameters.",
-      "keywords": [
-        "cadinp",
-        "structural",
-        "fem",
-        "completion",
-        "finite-element"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/autocomplete-sofistik",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/autocomplete-sofistik/issues"
-      }
-    }
-  },
-  {
     "source": "lumine-code/autoflow",
     "resolvedSha": "334f2084688767a8da925f0e2b87df120794a23e",
     "selectedRef": {
@@ -6097,40 +6063,6 @@
     }
   },
   {
-    "source": "lumine-code/linter-sofistik",
-    "resolvedSha": "eb15fecf46860d3de1789f1898881e0a336fe707",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "eb15fecf46860d3de1789f1898881e0a336fe707",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "linter-sofistik",
-      "version": "1.0.0",
-      "description": "Display SOFiSTiK compilation errors as linter messages.",
-      "keywords": [
-        "cadinp",
-        "structural",
-        "compilation",
-        "errors",
-        "diagnostics"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/linter-sofistik",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/linter-sofistik/issues"
-      }
-    }
-  },
-  {
     "source": "lumine-code/linter-todo",
     "resolvedSha": "00bc3a68ba088513157b9e0d8e5e62ef6a4abe59",
     "selectedRef": {
@@ -7272,40 +7204,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/snippets/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/sofistik-environment",
-    "resolvedSha": "24f2c559fe50f6bf3f6669f92a5091584e73eead",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "24f2c559fe50f6bf3f6669f92a5091584e73eead",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "sofistik-environment",
-      "version": "1.0.0",
-      "description": "Resolve the SOFiSTiK installation and the release each file targets.",
-      "keywords": [
-        "cadinp",
-        "installation",
-        "version-detection",
-        "structural-analysis",
-        "fem"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/sofistik-environment",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/sofistik-environment/issues"
       }
     }
   },
