@@ -1957,14 +1957,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "96479a0492e405211fabe0437eee5daff049260b",
+    "resolvedSha": "07d8d027400e166919a621ea0e56e5bc34eafc16",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "96479a0492e405211fabe0437eee5daff049260b",
+      "headSha": "07d8d027400e166919a621ea0e56e5bc34eafc16",
       "latestStable": null,
       "tags": []
     },
@@ -2346,6 +2346,7 @@
       }
     }
   },
+  "lumine-code/ide-sofistik",
   {
     "source": "lumine-code/ide-texlab",
     "resolvedSha": "d879b25a5832b5fc605679a364d66fa491b339fa",
