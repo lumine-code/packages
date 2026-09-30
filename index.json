@@ -5854,20 +5854,20 @@
     }
   },
   {
-    "source": "lumine-code/line-ending-selector",
-    "resolvedSha": "05a87c90e74d1876105d8a59025f8016647ef654",
+    "source": "lumine-code/line-ending",
+    "resolvedSha": "50e83ec7fabc8b1120e862a2b09bdf2a62305da7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "05a87c90e74d1876105d8a59025f8016647ef654",
+      "headSha": "50e83ec7fabc8b1120e862a2b09bdf2a62305da7",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "line-ending-selector",
+      "name": "line-ending",
       "version": "1.0.0",
       "description": "Show and change the line ending used by the current editor.",
       "keywords": [
@@ -5880,10 +5880,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/line-ending-selector",
+      "repository": "https://github.com/lumine-code/line-ending",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/line-ending-selector/issues"
+        "url": "https://github.com/lumine-code/line-ending/issues"
       }
     }
   },
