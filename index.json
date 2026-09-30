@@ -1638,14 +1638,14 @@
   },
   {
     "source": "lumine-code/graviss",
-    "resolvedSha": "8697a93e9077485b2764ff4d02bb5e0b01105491",
+    "resolvedSha": "295c73acea6048f75a59d56c37e5050cbe850314",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8697a93e9077485b2764ff4d02bb5e0b01105491",
+      "headSha": "295c73acea6048f75a59d56c37e5050cbe850314",
       "latestStable": null,
       "tags": []
     },
@@ -1712,14 +1712,14 @@
   },
   {
     "source": "lumine-code/graviss-sofistik",
-    "resolvedSha": "ce8e88bc5e3e9d8dd5cf34f550d3cceb096b055f",
+    "resolvedSha": "0a017514b5849659de2e32e2d1cf8283073d5f68",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ce8e88bc5e3e9d8dd5cf34f550d3cceb096b055f",
+      "headSha": "0a017514b5849659de2e32e2d1cf8283073d5f68",
       "latestStable": null,
       "tags": []
     },
@@ -2314,14 +2314,14 @@
   },
   {
     "source": "lumine-code/ide-sofistik",
-    "resolvedSha": "6a87ff21d155de8ca4957483016676694ed66508",
+    "resolvedSha": "f8ffedc721846ca4adb9c2a5d1a4244d8febca7c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6a87ff21d155de8ca4957483016676694ed66508",
+      "headSha": "f8ffedc721846ca4adb9c2a5d1a4244d8febca7c",
       "latestStable": null,
       "tags": []
     },
@@ -2799,14 +2799,14 @@
   },
   {
     "source": "lumine-code/jupyter-cells",
-    "resolvedSha": "daecd98dd7c3edeb602c6df62186fb4967f029bf",
+    "resolvedSha": "dcccda6fd96c4df7b579ff732f3aca017199ec75",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "daecd98dd7c3edeb602c6df62186fb4967f029bf",
+      "headSha": "dcccda6fd96c4df7b579ff732f3aca017199ec75",
       "latestStable": null,
       "tags": []
     },
@@ -2975,14 +2975,14 @@
   },
   {
     "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "5428ef8e10b52b753c989f752d50c083178b5897",
+    "resolvedSha": "4bfc221e0414ef7529193af9de4aadc45c8b7020",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5428ef8e10b52b753c989f752d50c083178b5897",
+      "headSha": "4bfc221e0414ef7529193af9de4aadc45c8b7020",
       "latestStable": null,
       "tags": []
     },
@@ -3048,14 +3048,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "777a195d176f2f2d96625ed753a2103706e4e578",
+    "resolvedSha": "4017b54a348063faf653a49e04cddb25333ef64c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "777a195d176f2f2d96625ed753a2103706e4e578",
+      "headSha": "4017b54a348063faf653a49e04cddb25333ef64c",
       "latestStable": null,
       "tags": []
     },
@@ -4119,14 +4119,14 @@
   },
   {
     "source": "lumine-code/language-ipython",
-    "resolvedSha": "2fa23a19bcc9b48a80a793d8f609000dbc98fcab",
+    "resolvedSha": "af44eafebc1230367e27f03440e8c0c194031e49",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2fa23a19bcc9b48a80a793d8f609000dbc98fcab",
+      "headSha": "af44eafebc1230367e27f03440e8c0c194031e49",
       "latestStable": null,
       "tags": []
     },
@@ -7209,14 +7209,14 @@
   },
   {
     "source": "lumine-code/sofistik-tools",
-    "resolvedSha": "962709ca7cef6e4f5265392433ee4bd921633fd0",
+    "resolvedSha": "af8981846ce78cff14935c33e7ee4acf8ffeb7d2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "962709ca7cef6e4f5265392433ee4bd921633fd0",
+      "headSha": "af8981846ce78cff14935c33e7ee4acf8ffeb7d2",
       "latestStable": null,
       "tags": []
     },
