@@ -5627,6 +5627,39 @@
     }
   },
   {
+    "source": "lumine-code/language-tree-sitter-query",
+    "resolvedSha": "e8fa99d63b93406218d74ff0b8216af1ce5f5040",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "e8fa99d63b93406218d74ff0b8216af1ce5f5040",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "language-tree-sitter-query",
+      "version": "1.0.0",
+      "description": "Tree-sitter query language support.",
+      "keywords": [
+        "scm",
+        "captures",
+        "predicates"
+      ],
+      "engines": {
+        "lumine": "^1.0.0",
+        "node": ">=24"
+      },
+      "repository": "https://github.com/lumine-code/language-tree-sitter-query",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/language-tree-sitter-query/issues"
+      }
+    }
+  },
+  {
     "source": "lumine-code/language-typescript",
     "resolvedSha": "716392e7612d01ea9417cea903d12014d58c382b",
     "selectedRef": {
