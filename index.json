@@ -1968,14 +1968,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "ef7a5e533ce14c2526d9ae3d955de4a5b9d77b10",
+    "resolvedSha": "3ff224aeb28f5a548f13c8aaf2a78b2fecc03de0",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ef7a5e533ce14c2526d9ae3d955de4a5b9d77b10",
+      "headSha": "3ff224aeb28f5a548f13c8aaf2a78b2fecc03de0",
       "latestStable": null,
       "tags": []
     },
@@ -2002,26 +2002,25 @@
     }
   },
   {
-    "source": "lumine-code/ide-csharp",
-    "resolvedSha": "f401bef809857ec00c2315bc0eced2cf9c3befe7",
+    "source": "lumine-code/ide-roslyn",
+    "resolvedSha": "bbcd22a5bd2837e726d387d6ae0caf6a9bd47320",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f401bef809857ec00c2315bc0eced2cf9c3befe7",
+      "headSha": "bbcd22a5bd2837e726d387d6ae0caf6a9bd47320",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-csharp",
+      "name": "ide-roslyn",
       "version": "1.0.0",
       "description": "Provide C# language features with Roslyn.",
       "keywords": [
         "c#",
         ".net",
-        "roslyn",
         "msbuild",
         "language-server",
         "lsp",
@@ -2030,10 +2029,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-csharp",
+      "repository": "https://github.com/lumine-code/ide-roslyn",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-csharp/issues"
+        "url": "https://github.com/lumine-code/ide-roslyn/issues"
       }
     }
   },
@@ -2181,24 +2180,23 @@
     }
   },
   {
-    "source": "lumine-code/ide-go",
-    "resolvedSha": "71542b3f2eab65cf0e983de6ced7ab4a5dda6db2",
+    "source": "lumine-code/ide-gopls",
+    "resolvedSha": "c8d4734b1508f7366221f61298d010f0444bb061",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "71542b3f2eab65cf0e983de6ced7ab4a5dda6db2",
+      "headSha": "c8d4734b1508f7366221f61298d010f0444bb061",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-go",
+      "name": "ide-gopls",
       "version": "1.0.0",
       "description": "Provide Go code intelligence through gopls.",
       "keywords": [
-        "gopls",
         "golang",
         "language-server",
         "lsp",
@@ -2207,10 +2205,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-go",
+      "repository": "https://github.com/lumine-code/ide-gopls",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-go/issues"
+        "url": "https://github.com/lumine-code/ide-gopls/issues"
       }
     }
   },
@@ -2288,24 +2286,24 @@
     }
   },
   {
-    "source": "lumine-code/ide-java",
-    "resolvedSha": "5c8ade3d7c38620696862b7ca6f9242c1fd31b03",
+    "source": "lumine-code/ide-jdtls",
+    "resolvedSha": "8fc9805ea79ba793fc50bd7c95cdc4d993b04eb1",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5c8ade3d7c38620696862b7ca6f9242c1fd31b03",
+      "headSha": "8fc9805ea79ba793fc50bd7c95cdc4d993b04eb1",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-java",
+      "name": "ide-jdtls",
       "version": "1.0.0",
       "description": "Provide Java language features with Eclipse JDT Language Server.",
       "keywords": [
-        "jdtls",
+        "java",
         "eclipse",
         "maven",
         "gradle",
@@ -2316,10 +2314,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-java",
+      "repository": "https://github.com/lumine-code/ide-jdtls",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-java/issues"
+        "url": "https://github.com/lumine-code/ide-jdtls/issues"
       }
     }
   },
@@ -2359,20 +2357,20 @@
     }
   },
   {
-    "source": "lumine-code/ide-lua",
-    "resolvedSha": "20f62be0e31be8b942e0162c35bebbd32189c888",
+    "source": "lumine-code/ide-luals",
+    "resolvedSha": "b95b0900351d0234167891ad727b0b3c42b10007",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "20f62be0e31be8b942e0162c35bebbd32189c888",
+      "headSha": "b95b0900351d0234167891ad727b0b3c42b10007",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-lua",
+      "name": "ide-luals",
       "version": "1.0.0",
       "description": "Provide Lua language intelligence through LuaLS.",
       "keywords": [
@@ -2386,10 +2384,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-lua",
+      "repository": "https://github.com/lumine-code/ide-luals",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-lua/issues"
+        "url": "https://github.com/lumine-code/ide-luals/issues"
       }
     }
   },
@@ -2430,26 +2428,26 @@
     }
   },
   {
-    "source": "lumine-code/ide-php",
-    "resolvedSha": "898c1b92858fc673371658a661783fff25ea2cbc",
+    "source": "lumine-code/ide-phpantom",
+    "resolvedSha": "ce531036d09ada87effc4d61498729f5b73cb16f",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "898c1b92858fc673371658a661783fff25ea2cbc",
+      "headSha": "ce531036d09ada87effc4d61498729f5b73cb16f",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-php",
+      "name": "ide-phpantom",
       "version": "1.0.0",
       "description": "Provide PHP language intelligence through PHPantom.",
       "keywords": [
-        "phpantom",
         "composer",
         "psr-4",
+        "autoloading",
         "language-server",
         "lsp",
         "refactoring"
@@ -2457,44 +2455,45 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-php",
+      "repository": "https://github.com/lumine-code/ide-phpantom",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-php/issues"
+        "url": "https://github.com/lumine-code/ide-phpantom/issues"
       }
     }
   },
   {
-    "source": "lumine-code/ide-pyright",
-    "resolvedSha": "5b030a34c67767c89e7c983ba4d9d23c8c18c688",
+    "source": "lumine-code/ide-basedpyright",
+    "resolvedSha": "6787978e602c9bd8a1cc756c5b565ea067551c5f",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5b030a34c67767c89e7c983ba4d9d23c8c18c688",
+      "headSha": "6787978e602c9bd8a1cc756c5b565ea067551c5f",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-pyright",
+      "name": "ide-basedpyright",
       "version": "1.0.0",
       "description": "Basedpyright language-server adapter for Python.",
       "keywords": [
-        "language-server",
-        "lsp",
         "python",
+        "ipython",
+        "type-checking",
         "intellisense",
-        "type-checking"
+        "language-server",
+        "lsp"
       ],
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-pyright",
+      "repository": "https://github.com/lumine-code/ide-basedpyright",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-pyright/issues"
+        "url": "https://github.com/lumine-code/ide-basedpyright/issues"
       }
     }
   },
@@ -2821,24 +2820,24 @@
     }
   },
   {
-    "source": "lumine-code/ide-toml",
-    "resolvedSha": "4fbb98ee2926109b3f2f5d1d9d8deed6cd8e608c",
+    "source": "lumine-code/ide-tombi",
+    "resolvedSha": "a7963726dae5992eb3704007587c6b84c99afe6b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "4fbb98ee2926109b3f2f5d1d9d8deed6cd8e608c",
+      "headSha": "a7963726dae5992eb3704007587c6b84c99afe6b",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-toml",
+      "name": "ide-tombi",
       "version": "1.0.0",
       "description": "Provide TOML language intelligence through Tombi.",
       "keywords": [
-        "tombi",
+        "toml",
         "language-server",
         "lsp",
         "schema",
@@ -2847,10 +2846,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-toml",
+      "repository": "https://github.com/lumine-code/ide-tombi",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-toml/issues"
+        "url": "https://github.com/lumine-code/ide-tombi/issues"
       }
     }
   },
@@ -2962,24 +2961,24 @@
     }
   },
   {
-    "source": "lumine-code/ide-zig",
-    "resolvedSha": "1014f45ce18a30926af53c11ab62a89e793f8541",
+    "source": "lumine-code/ide-zls",
+    "resolvedSha": "ad92748a9bffa9baa450966acaaf7a9187d4aa16",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "1014f45ce18a30926af53c11ab62a89e793f8541",
+      "headSha": "ad92748a9bffa9baa450966acaaf7a9187d4aa16",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-zig",
+      "name": "ide-zls",
       "version": "1.0.0",
       "description": "Provide Zig language features with ZLS.",
       "keywords": [
-        "zls",
+        "zig",
         "zon",
         "comptime",
         "allocator",
@@ -2989,10 +2988,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-zig",
+      "repository": "https://github.com/lumine-code/ide-zls",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-zig/issues"
+        "url": "https://github.com/lumine-code/ide-zls/issues"
       }
     }
   },
@@ -6538,14 +6537,14 @@
   },
   {
     "source": "lumine-code/linter-ruff",
-    "resolvedSha": "660453e5c408d01733f6a9975b4d824249b4da7a",
+    "resolvedSha": "2b6bb0443cfea06fbcdfd5520b46d271f6f77f1a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "660453e5c408d01733f6a9975b4d824249b4da7a",
+      "headSha": "2b6bb0443cfea06fbcdfd5520b46d271f6f77f1a",
       "latestStable": null,
       "tags": []
     },
@@ -8695,37 +8694,37 @@
     }
   },
   {
-    "source": "lumine-code/ide-xml",
-    "resolvedSha": "468e87af8b4f0831f300908984327db960e41ede",
+    "source": "lumine-code/ide-lemminx",
+    "resolvedSha": "b8adc9498ed94cd31690739444f770e9a7b1c27a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "468e87af8b4f0831f300908984327db960e41ede",
+      "headSha": "b8adc9498ed94cd31690739444f770e9a7b1c27a",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-xml",
+      "name": "ide-lemminx",
       "version": "1.0.0",
       "description": "Provide XML intelligence with Eclipse LemMinX.",
       "keywords": [
+        "xml",
         "xsd",
         "dtd",
         "xslt",
         "schema",
-        "lemminx",
         "validation"
       ],
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-xml",
+      "repository": "https://github.com/lumine-code/ide-lemminx",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-xml/issues"
+        "url": "https://github.com/lumine-code/ide-lemminx/issues"
       }
     }
   },
