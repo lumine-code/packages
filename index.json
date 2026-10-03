@@ -1967,6 +1967,7 @@
       }
     }
   },
+  "lumine-code/ide-csharp",
   {
     "source": "lumine-code/ide-css",
     "resolvedSha": "84aff3f7daa72c2c939061c10ece2430ec069a62",
@@ -2149,6 +2150,7 @@
       }
     }
   },
+  "lumine-code/ide-java",
   {
     "source": "lumine-code/ide-json",
     "resolvedSha": "07e13ccb5ad19651ef5544a3174bc2a5e9c22934",
@@ -2220,6 +2222,7 @@
       }
     }
   },
+  "lumine-code/ide-php",
   {
     "source": "lumine-code/ide-pyright",
     "resolvedSha": "4c81991e05a236c6179f77e54a2f8c65fabccb59",
@@ -2255,6 +2258,7 @@
     }
   },
   "lumine-code/ide-r",
+  "lumine-code/ide-ruby",
   {
     "source": "lumine-code/ide-ruff",
     "resolvedSha": "a9a4c7ce2e771678514403e1a7436a6c328404ab",
