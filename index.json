@@ -2073,6 +2073,7 @@
       }
     }
   },
+  "lumine-code/ide-dart",
   {
     "source": "lumine-code/ide-dockerfile",
     "resolvedSha": "20b10a28c0c8abe3489960a565fd0ed972f4ae59",
@@ -2323,6 +2324,7 @@
       }
     }
   },
+  "lumine-code/ide-lua",
   {
     "source": "lumine-code/ide-marksman",
     "resolvedSha": "47ebba9b64beccb4511a1bbf5a4755b7e285c082",
@@ -2647,6 +2649,7 @@
       }
     }
   },
+  "lumine-code/ide-swift",
   {
     "source": "lumine-code/ide-texlab",
     "resolvedSha": "d879b25a5832b5fc605679a364d66fa491b339fa",
@@ -2856,6 +2859,7 @@
       }
     }
   },
+  "lumine-code/ide-zig",
   {
     "source": "lumine-code/image-editor",
     "resolvedSha": "d215a4d3aebe6a1961c3e4ef80618cae268145ab",
