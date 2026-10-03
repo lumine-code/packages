@@ -1968,14 +1968,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "3ff224aeb28f5a548f13c8aaf2a78b2fecc03de0",
+    "resolvedSha": "6dd988215aced5042aaf86989c555160c96c14af",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3ff224aeb28f5a548f13c8aaf2a78b2fecc03de0",
+      "headSha": "6dd988215aced5042aaf86989c555160c96c14af",
       "latestStable": null,
       "tags": []
     },
@@ -2145,14 +2145,14 @@
   },
   {
     "source": "lumine-code/ide-eslint",
-    "resolvedSha": "6d8b44ef736ee4c2736d45aac3288ce9c09421d5",
+    "resolvedSha": "09f2eed530e7028648c225e2fa295412848ff0c9",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6d8b44ef736ee4c2736d45aac3288ce9c09421d5",
+      "headSha": "09f2eed530e7028648c225e2fa295412848ff0c9",
       "latestStable": null,
       "tags": []
     },
@@ -2569,14 +2569,14 @@
   },
   {
     "source": "lumine-code/ide-ruff",
-    "resolvedSha": "e89e798ada47cf86be2f78276108ff27915d6f39",
+    "resolvedSha": "1dae0a29a624773aa70c45bfbd3288393f8a28d9",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e89e798ada47cf86be2f78276108ff27915d6f39",
+      "headSha": "1dae0a29a624773aa70c45bfbd3288393f8a28d9",
       "latestStable": null,
       "tags": []
     },
@@ -3524,14 +3524,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "d905603d454dec49cb5b8bbe5f845f98f58be980",
+    "resolvedSha": "7301c504674238cd36684c9fa62702c6642d99fb",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d905603d454dec49cb5b8bbe5f845f98f58be980",
+      "headSha": "7301c504674238cd36684c9fa62702c6642d99fb",
       "latestStable": null,
       "tags": []
     },
@@ -6431,14 +6431,14 @@
   },
   {
     "source": "lumine-code/linter",
-    "resolvedSha": "30e016833e0d7b876c2389812d2d8aefa84e491b",
+    "resolvedSha": "0f43b52bc80ddd5f94b3e0140389bb8d5f61fd37",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "30e016833e0d7b876c2389812d2d8aefa84e491b",
+      "headSha": "0f43b52bc80ddd5f94b3e0140389bb8d5f61fd37",
       "latestStable": null,
       "tags": []
     },
@@ -6462,41 +6462,6 @@
         "url": "https://github.com/lumine-code/linter/issues"
       },
       "homepage": "https://github.com/lumine-code/linter#readme"
-    }
-  },
-  {
-    "source": "lumine-code/linter-eslint",
-    "resolvedSha": "defa7488c01c9faa22ab94c6d40aeffe8684dc03",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "defa7488c01c9faa22ab94c6d40aeffe8684dc03",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "linter-eslint",
-      "version": "1.0.0",
-      "description": "ESLint linter provider with bundled v8 and v10 support.",
-      "keywords": [
-        "javascript",
-        "typescript",
-        "jsx",
-        "tsx",
-        "static-analysis",
-        "code-quality"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/linter-eslint",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/linter-eslint/issues"
-      }
     }
   },
   {
@@ -6533,42 +6498,6 @@
         "url": "https://github.com/lumine-code/linter-panel/issues"
       },
       "homepage": "https://github.com/lumine-code/linter-panel#readme"
-    }
-  },
-  {
-    "source": "lumine-code/linter-ruff",
-    "resolvedSha": "2b6bb0443cfea06fbcdfd5520b46d271f6f77f1a",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "2b6bb0443cfea06fbcdfd5520b46d271f6f77f1a",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "linter-ruff",
-      "version": "1.0.0",
-      "description": "A wrapper around the Python linter and formatter ruff.",
-      "keywords": [
-        "python",
-        "flake8",
-        "isort",
-        "pyflakes",
-        "pycodestyle",
-        "pep8",
-        "formatter"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/linter-ruff",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/linter-ruff/issues"
-      }
     }
   },
   {
