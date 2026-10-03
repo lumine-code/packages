@@ -1968,14 +1968,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "d2faeb48fe42e2fad0c1a55326a661ff04cfbb1c",
+    "resolvedSha": "ef7ca56acc1dbc1c91176289f59fb811aa242468",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d2faeb48fe42e2fad0c1a55326a661ff04cfbb1c",
+      "headSha": "ef7ca56acc1dbc1c91176289f59fb811aa242468",
       "latestStable": null,
       "tags": []
     },
@@ -2073,7 +2073,41 @@
       }
     }
   },
-  "lumine-code/ide-dart",
+  {
+    "source": "lumine-code/ide-dart",
+    "resolvedSha": "40724886ff953d5fc43237be5d4ca1c218fefeb1",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "40724886ff953d5fc43237be5d4ca1c218fefeb1",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-dart",
+      "version": "1.0.0",
+      "description": "Provide Dart language intelligence through the SDK analysis server.",
+      "keywords": [
+        "flutter",
+        "pub",
+        "analyzer",
+        "language-server",
+        "lsp",
+        "refactoring"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-dart",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-dart/issues"
+      }
+    }
+  },
   {
     "source": "lumine-code/ide-dockerfile",
     "resolvedSha": "20b10a28c0c8abe3489960a565fd0ed972f4ae59",
@@ -2324,7 +2358,41 @@
       }
     }
   },
-  "lumine-code/ide-lua",
+  {
+    "source": "lumine-code/ide-lua",
+    "resolvedSha": "20f62be0e31be8b942e0162c35bebbd32189c888",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "20f62be0e31be8b942e0162c35bebbd32189c888",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-lua",
+      "version": "1.0.0",
+      "description": "Provide Lua language intelligence through LuaLS.",
+      "keywords": [
+        "luajit",
+        "annotations",
+        "rockspec",
+        "language-server",
+        "lsp",
+        "refactoring"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-lua",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-lua/issues"
+      }
+    }
+  },
   {
     "source": "lumine-code/ide-marksman",
     "resolvedSha": "47ebba9b64beccb4511a1bbf5a4755b7e285c082",
@@ -2649,7 +2717,41 @@
       }
     }
   },
-  "lumine-code/ide-swift",
+  {
+    "source": "lumine-code/ide-swift",
+    "resolvedSha": "165e6a313c19524f8d6e0e53af3c9257e9127b0a",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "165e6a313c19524f8d6e0e53af3c9257e9127b0a",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-swift",
+      "version": "1.0.0",
+      "description": "Provide Swift language features with SourceKit-LSP.",
+      "keywords": [
+        "sourcekit-lsp",
+        "spm",
+        "xcode",
+        "language-server",
+        "lsp",
+        "refactoring"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-swift",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-swift/issues"
+      }
+    }
+  },
   {
     "source": "lumine-code/ide-texlab",
     "resolvedSha": "d879b25a5832b5fc605679a364d66fa491b339fa",
@@ -2859,7 +2961,41 @@
       }
     }
   },
-  "lumine-code/ide-zig",
+  {
+    "source": "lumine-code/ide-zig",
+    "resolvedSha": "1014f45ce18a30926af53c11ab62a89e793f8541",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "1014f45ce18a30926af53c11ab62a89e793f8541",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-zig",
+      "version": "1.0.0",
+      "description": "Provide Zig language features with ZLS.",
+      "keywords": [
+        "zls",
+        "zon",
+        "comptime",
+        "allocator",
+        "language-server",
+        "lsp"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-zig",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-zig/issues"
+      }
+    }
+  },
   {
     "source": "lumine-code/image-editor",
     "resolvedSha": "d215a4d3aebe6a1961c3e4ef80618cae268145ab",
