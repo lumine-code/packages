@@ -1968,14 +1968,14 @@
   },
   {
     "source": "lumine-code/ide-client",
-    "resolvedSha": "ef7ca56acc1dbc1c91176289f59fb811aa242468",
+    "resolvedSha": "ef7a5e533ce14c2526d9ae3d955de4a5b9d77b10",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ef7ca56acc1dbc1c91176289f59fb811aa242468",
+      "headSha": "ef7a5e533ce14c2526d9ae3d955de4a5b9d77b10",
       "latestStable": null,
       "tags": []
     },
@@ -5326,14 +5326,14 @@
   },
   {
     "source": "lumine-code/language-powershell",
-    "resolvedSha": "38175db9ad89db4201d88d0f146a44f56d9e1d77",
+    "resolvedSha": "668ce08e4ec5fc5cb5785355475dc0ad6453191e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "38175db9ad89db4201d88d0f146a44f56d9e1d77",
+      "headSha": "668ce08e4ec5fc5cb5785355475dc0ad6453191e",
       "latestStable": null,
       "tags": []
     },
@@ -6222,14 +6222,14 @@
   },
   {
     "source": "lumine-code/language-xml",
-    "resolvedSha": "99052b05fe04199b5f25db431a46145e6a2a6554",
+    "resolvedSha": "30d087272286c98e82a0b9e3fb0d73c16dcb2b71",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "99052b05fe04199b5f25db431a46145e6a2a6554",
+      "headSha": "30d087272286c98e82a0b9e3fb0d73c16dcb2b71",
       "latestStable": null,
       "tags": []
     },
@@ -8691,6 +8691,77 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/wrap-guide/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/ide-xml",
+    "resolvedSha": "468e87af8b4f0831f300908984327db960e41ede",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "468e87af8b4f0831f300908984327db960e41ede",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-xml",
+      "version": "1.0.0",
+      "description": "Provide XML intelligence with Eclipse LemMinX.",
+      "keywords": [
+        "xsd",
+        "dtd",
+        "xslt",
+        "schema",
+        "lemminx",
+        "validation"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-xml",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-xml/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/ide-powershell",
+    "resolvedSha": "c83c00d21993bdfacbac7bd4c5998b36ca5a1dc3",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "c83c00d21993bdfacbac7bd4c5998b36ca5a1dc3",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-powershell",
+      "version": "1.0.0",
+      "description": "Provide PowerShell language features with Editor Services.",
+      "keywords": [
+        "pwsh",
+        "ps1",
+        "cmdlet",
+        "scriptanalyzer",
+        "language-server",
+        "lsp",
+        "automation"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-powershell",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-powershell/issues"
       }
     }
   }
