@@ -1608,43 +1608,6 @@
     }
   },
   {
-    "source": "lumine-code/graviss-meshio",
-    "resolvedSha": "05aee58ef4cfce1efcdf765c12003128c7d75657",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "05aee58ef4cfce1efcdf765c12003128c7d75657",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "graviss-meshio",
-      "version": "1.0.0",
-      "description": "Read Abaqus, Gmsh, and Triangle FEM meshes.",
-      "keywords": [
-        "abaqus",
-        "calculix",
-        "gmsh",
-        "triangle",
-        "fem",
-        "engineering"
-      ],
-      "engines": {
-        "lumine": "^1.0.0",
-        "node": ">=24"
-      },
-      "repository": "https://github.com/lumine-code/graviss-meshio",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/graviss-meshio/issues"
-      },
-      "homepage": "https://github.com/lumine-code/graviss-meshio#readme"
-    }
-  },
-  {
     "source": "lumine-code/graviss-sofistik",
     "resolvedSha": "0a017514b5849659de2e32e2d1cf8283073d5f68",
     "selectedRef": {
