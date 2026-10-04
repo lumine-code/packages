@@ -1006,6 +1006,7 @@
       }
     }
   },
+  "lumine-code/documentation-view",
   {
     "source": "lumine-code/encoding-selector",
     "resolvedSha": "fe5faf4ccc06f4e0d1036fbce5ae5fbb9d289dc6",
@@ -1794,6 +1795,41 @@
     }
   },
   {
+    "source": "lumine-code/ide-basedpyright",
+    "resolvedSha": "6787978e602c9bd8a1cc756c5b565ea067551c5f",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "6787978e602c9bd8a1cc756c5b565ea067551c5f",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-basedpyright",
+      "version": "1.0.0",
+      "description": "Basedpyright language-server adapter for Python.",
+      "keywords": [
+        "python",
+        "ipython",
+        "type-checking",
+        "intellisense",
+        "language-server",
+        "lsp"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-basedpyright",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-basedpyright/issues"
+      }
+    }
+  },
+  {
     "source": "lumine-code/ide-bash",
     "resolvedSha": "2873e54a673df36bcb848d61c3695667a0f0507d",
     "selectedRef": {
@@ -1895,41 +1931,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/ide-client/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/ide-roslyn",
-    "resolvedSha": "bbcd22a5bd2837e726d387d6ae0caf6a9bd47320",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "bbcd22a5bd2837e726d387d6ae0caf6a9bd47320",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "ide-roslyn",
-      "version": "1.0.0",
-      "description": "Provide C# language features with Roslyn.",
-      "keywords": [
-        "c#",
-        ".net",
-        "msbuild",
-        "language-server",
-        "lsp",
-        "refactoring"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/ide-roslyn",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/ide-roslyn/issues"
       }
     }
   },
@@ -2254,6 +2255,41 @@
     }
   },
   {
+    "source": "lumine-code/ide-lemminx",
+    "resolvedSha": "b8adc9498ed94cd31690739444f770e9a7b1c27a",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "b8adc9498ed94cd31690739444f770e9a7b1c27a",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-lemminx",
+      "version": "1.0.0",
+      "description": "Provide XML intelligence with Eclipse LemMinX.",
+      "keywords": [
+        "xml",
+        "xsd",
+        "dtd",
+        "xslt",
+        "schema",
+        "validation"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-lemminx",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-lemminx/issues"
+      }
+    }
+  },
+  {
     "source": "lumine-code/ide-luals",
     "resolvedSha": "b95b0900351d0234167891ad727b0b3c42b10007",
     "selectedRef": {
@@ -2360,37 +2396,38 @@
     }
   },
   {
-    "source": "lumine-code/ide-basedpyright",
-    "resolvedSha": "6787978e602c9bd8a1cc756c5b565ea067551c5f",
+    "source": "lumine-code/ide-powershell",
+    "resolvedSha": "c83c00d21993bdfacbac7bd4c5998b36ca5a1dc3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6787978e602c9bd8a1cc756c5b565ea067551c5f",
+      "headSha": "c83c00d21993bdfacbac7bd4c5998b36ca5a1dc3",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-basedpyright",
+      "name": "ide-powershell",
       "version": "1.0.0",
-      "description": "Basedpyright language-server adapter for Python.",
+      "description": "Provide PowerShell language features with Editor Services.",
       "keywords": [
-        "python",
-        "ipython",
-        "type-checking",
-        "intellisense",
+        "pwsh",
+        "ps1",
+        "cmdlet",
+        "scriptanalyzer",
         "language-server",
-        "lsp"
+        "lsp",
+        "automation"
       ],
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/ide-basedpyright",
+      "repository": "https://github.com/lumine-code/ide-powershell",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-basedpyright/issues"
+        "url": "https://github.com/lumine-code/ide-powershell/issues"
       }
     }
   },
@@ -2426,6 +2463,41 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/ide-r/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/ide-roslyn",
+    "resolvedSha": "bbcd22a5bd2837e726d387d6ae0caf6a9bd47320",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "bbcd22a5bd2837e726d387d6ae0caf6a9bd47320",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide-roslyn",
+      "version": "1.0.0",
+      "description": "Provide C# language features with Roslyn.",
+      "keywords": [
+        "c#",
+        ".net",
+        "msbuild",
+        "language-server",
+        "lsp",
+        "refactoring"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/ide-roslyn",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide-roslyn/issues"
       }
     }
   },
@@ -8480,77 +8552,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/wrap-guide/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/ide-lemminx",
-    "resolvedSha": "b8adc9498ed94cd31690739444f770e9a7b1c27a",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "b8adc9498ed94cd31690739444f770e9a7b1c27a",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "ide-lemminx",
-      "version": "1.0.0",
-      "description": "Provide XML intelligence with Eclipse LemMinX.",
-      "keywords": [
-        "xml",
-        "xsd",
-        "dtd",
-        "xslt",
-        "schema",
-        "validation"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/ide-lemminx",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/ide-lemminx/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/ide-powershell",
-    "resolvedSha": "c83c00d21993bdfacbac7bd4c5998b36ca5a1dc3",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "c83c00d21993bdfacbac7bd4c5998b36ca5a1dc3",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "ide-powershell",
-      "version": "1.0.0",
-      "description": "Provide PowerShell language features with Editor Services.",
-      "keywords": [
-        "pwsh",
-        "ps1",
-        "cmdlet",
-        "scriptanalyzer",
-        "language-server",
-        "lsp",
-        "automation"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/ide-powershell",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/ide-powershell/issues"
       }
     }
   }
