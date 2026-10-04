@@ -1215,14 +1215,14 @@
   },
   {
     "source": "lumine-code/fuzzy-files",
-    "resolvedSha": "65c4c3c58fbef2b7322077748b0719a88b0db711",
+    "resolvedSha": "0c3735f66f545472aa01eecbde8af6371a8e906c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "65c4c3c58fbef2b7322077748b0719a88b0db711",
+      "headSha": "0c3735f66f545472aa01eecbde8af6371a8e906c",
       "latestStable": null,
       "tags": []
     },
