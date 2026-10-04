@@ -3133,42 +3133,6 @@
     }
   },
   {
-    "source": "lumine-code/jedi-tools",
-    "resolvedSha": "740eec5368b8be705dc86eba933aaf4bd78055d8",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "740eec5368b8be705dc86eba933aaf4bd78055d8",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "jedi-tools",
-      "version": "1.0.0",
-      "description": "Navigate and refactor Python with Jedi.",
-      "keywords": [
-        "python",
-        "go-to-definition",
-        "refactoring",
-        "hyperclick",
-        "virtualenv",
-        "rename",
-        "usages"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/jedi-tools",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/jedi-tools/issues"
-      }
-    }
-  },
-  {
     "source": "lumine-code/jupyter-cells",
     "resolvedSha": "e456c040ada5d7ca3cd03d103987c0efea409ab6",
     "selectedRef": {
@@ -7796,14 +7760,14 @@
   },
   {
     "source": "lumine-code/symbol",
-    "resolvedSha": "554883f441b99a9b80a29ce1ef452357691372d4",
+    "resolvedSha": "678f2c4e3a23e86779c233c649000840db2adfd6",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "554883f441b99a9b80a29ce1ef452357691372d4",
+      "headSha": "678f2c4e3a23e86779c233c649000840db2adfd6",
       "latestStable": null,
       "tags": []
     },
