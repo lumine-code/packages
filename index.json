@@ -183,14 +183,14 @@
   },
   {
     "source": "lumine-code/autocomplete",
-    "resolvedSha": "2a3ccc2f2647ff1f048ba8c2836e4507afebf4f8",
+    "resolvedSha": "68cc682427742d1abb1266becc08fdabe3a4fd5b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2a3ccc2f2647ff1f048ba8c2836e4507afebf4f8",
+      "headSha": "68cc682427742d1abb1266becc08fdabe3a4fd5b",
       "latestStable": null,
       "tags": []
     },
@@ -246,74 +246,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/autocomplete-lumine/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/autocomplete-paths",
-    "resolvedSha": "f51e149a36e3c1dfa722c672c5863e3c45e27e85",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "f51e149a36e3c1dfa722c672c5863e3c45e27e85",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "autocomplete-paths",
-      "version": "1.0.0",
-      "description": "Complete file paths from the project file index.",
-      "keywords": [
-        "filesystem",
-        "imports",
-        "suggestions",
-        "completion",
-        "navigation"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/autocomplete-paths",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/autocomplete-paths/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/autocomplete-snippets",
-    "resolvedSha": "f93a24b089d13f327adce861c842d040e72fce7c",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "f93a24b089d13f327adce861c842d040e72fce7c",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "autocomplete-snippets",
-      "version": "1.0.0",
-      "description": "Adds snippets to autocomplete suggestions.",
-      "keywords": [
-        "template",
-        "expansion",
-        "completion",
-        "suggestion",
-        "tab-stop"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/autocomplete-snippets",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/autocomplete-snippets/issues"
       }
     }
   },
@@ -1283,14 +1215,14 @@
   },
   {
     "source": "lumine-code/fuzzy-files",
-    "resolvedSha": "a257bfd4215ab87506701883b60aad72c95edbf3",
+    "resolvedSha": "65c4c3c58fbef2b7322077748b0719a88b0db711",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a257bfd4215ab87506701883b60aad72c95edbf3",
+      "headSha": "65c4c3c58fbef2b7322077748b0719a88b0db711",
       "latestStable": null,
       "tags": []
     },
@@ -1303,7 +1235,9 @@
         "quick-open",
         "search",
         "navigation",
-        "project"
+        "project",
+        "completion",
+        "imports"
       ],
       "engines": {
         "lumine": "^1.0.0"
@@ -7613,14 +7547,14 @@
   },
   {
     "source": "lumine-code/snippets",
-    "resolvedSha": "a89d44b2d388adf89368587edec30a846a6c5bde",
+    "resolvedSha": "e3f0a42b46e838697f2c17181ac033f84f0c3fd2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a89d44b2d388adf89368587edec30a846a6c5bde",
+      "headSha": "e3f0a42b46e838697f2c17181ac033f84f0c3fd2",
       "latestStable": null,
       "tags": []
     },
