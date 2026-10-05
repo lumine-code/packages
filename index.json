@@ -7865,14 +7865,14 @@
   },
   {
     "source": "lumine-code/symbol",
-    "resolvedSha": "b4dafe62526b313a5bec9fc867a4213f9e6f14b0",
+    "resolvedSha": "cad3c43437143ab82ed7a79292d4df3fc60c8fc7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b4dafe62526b313a5bec9fc867a4213f9e6f14b0",
+      "headSha": "cad3c43437143ab82ed7a79292d4df3fc60c8fc7",
       "latestStable": null,
       "tags": []
     },
@@ -7900,14 +7900,14 @@
   },
   {
     "source": "lumine-code/symbol-tree-sitter",
-    "resolvedSha": "68656675787f440493b8b4ec96760f404de7e92f",
+    "resolvedSha": "55619876d835e60fc0a9bc96f39cbea88fcb6ea5",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "68656675787f440493b8b4ec96760f404de7e92f",
+      "headSha": "55619876d835e60fc0a9bc96f39cbea88fcb6ea5",
       "latestStable": null,
       "tags": []
     },
