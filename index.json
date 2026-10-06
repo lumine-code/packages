@@ -7865,14 +7865,14 @@
   },
   {
     "source": "lumine-code/symbol",
-    "resolvedSha": "cad3c43437143ab82ed7a79292d4df3fc60c8fc7",
+    "resolvedSha": "c04e7c945386abe16087e6b96ea58814c9c1f5e0",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "cad3c43437143ab82ed7a79292d4df3fc60c8fc7",
+      "headSha": "c04e7c945386abe16087e6b96ea58814c9c1f5e0",
       "latestStable": null,
       "tags": []
     },
