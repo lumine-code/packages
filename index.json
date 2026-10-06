@@ -1643,26 +1643,16 @@
   },
   {
     "source": "lumine-code/graviss-sofistik",
-    "resolvedSha": "0a017514b5849659de2e32e2d1cf8283073d5f68",
+    "resolvedSha": "42416097b5e24cf8c819cba6733b2b2b4bdfe133",
     "selectedRef": {
-      "type": "latest",
-      "value": "v1.0.0"
+      "type": "default",
+      "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3fc92f7732fde59caeea4378045bd6a330d8eaf7",
-      "latestStable": {
-        "name": "v1.0.0",
-        "version": "1.0.0",
-        "sha": "0a017514b5849659de2e32e2d1cf8283073d5f68"
-      },
-      "tags": [
-        {
-          "name": "v1.0.0",
-          "version": "1.0.0",
-          "sha": "0a017514b5849659de2e32e2d1cf8283073d5f68"
-        }
-      ]
+      "headSha": "42416097b5e24cf8c819cba6733b2b2b4bdfe133",
+      "latestStable": null,
+      "tags": []
     },
     "metadata": {
       "name": "graviss-sofistik",
@@ -2684,18 +2674,8 @@
     "refs": {
       "defaultBranch": "master",
       "headSha": "e03396ab26052c5c8ce0273ae0fc352fcaa486f3",
-      "latestStable": {
-        "name": "v1.0.0",
-        "version": "1.0.0",
-        "sha": "f8ffedc721846ca4adb9c2a5d1a4244d8febca7c"
-      },
-      "tags": [
-        {
-          "name": "v1.0.0",
-          "version": "1.0.0",
-          "sha": "f8ffedc721846ca4adb9c2a5d1a4244d8febca7c"
-        }
-      ]
+      "latestStable": null,
+      "tags": []
     },
     "metadata": {
       "name": "ide-sofistik",
@@ -7613,26 +7593,16 @@
   },
   {
     "source": "lumine-code/sofistik-tools",
-    "resolvedSha": "af8981846ce78cff14935c33e7ee4acf8ffeb7d2",
+    "resolvedSha": "a978974b9315be817dac5753ceeff9a07556be14",
     "selectedRef": {
-      "type": "latest",
-      "value": "v1.0.0"
+      "type": "default",
+      "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "16f796da4c7ecc020c8a87ac6ac483569068a8dc",
-      "latestStable": {
-        "name": "v1.0.0",
-        "version": "1.0.0",
-        "sha": "af8981846ce78cff14935c33e7ee4acf8ffeb7d2"
-      },
-      "tags": [
-        {
-          "name": "v1.0.0",
-          "version": "1.0.0",
-          "sha": "af8981846ce78cff14935c33e7ee4acf8ffeb7d2"
-        }
-      ]
+      "headSha": "a978974b9315be817dac5753ceeff9a07556be14",
+      "latestStable": null,
+      "tags": []
     },
     "metadata": {
       "name": "sofistik-tools",
