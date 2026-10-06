@@ -1933,22 +1933,22 @@
     }
   },
   {
-    "source": "lumine-code/ide-client",
-    "resolvedSha": "7093ac44110bdd2107647b342140bb4a5059d2ea",
+    "source": "lumine-code/ide",
+    "resolvedSha": "2118a0952668134bdf7f63f1fa962c19fb86cdea",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7093ac44110bdd2107647b342140bb4a5059d2ea",
+      "headSha": "2118a0952668134bdf7f63f1fa962c19fb86cdea",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "ide-client",
+      "name": "ide",
       "version": "1.0.0",
-      "description": "Language Server Protocol client infrastructure.",
+      "description": "Language Server Protocol hub infrastructure.",
       "keywords": [
         "lsp",
         "language-server",
@@ -1960,10 +1960,10 @@
         "lumine": "^1.0.0",
         "node": ">=24"
       },
-      "repository": "https://github.com/lumine-code/ide-client",
+      "repository": "https://github.com/lumine-code/ide",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/ide-client/issues"
+        "url": "https://github.com/lumine-code/ide/issues"
       }
     }
   },
