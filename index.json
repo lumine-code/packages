@@ -3325,15 +3325,85 @@
     }
   },
   {
-    "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "0fa1564306cd33073f1fc6ccfcc8cc7a103601bb",
+    "source": "lumine-code/jupyter-monitor",
+    "resolvedSha": "9d8f13264f03465c860d3d603f22d63c00940018",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0fa1564306cd33073f1fc6ccfcc8cc7a103601bb",
+      "headSha": "9d8f13264f03465c860d3d603f22d63c00940018",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "jupyter-monitor",
+      "version": "1.0.0",
+      "description": "Watch every running Jupyter kernel in one table.",
+      "keywords": [
+        "kernel",
+        "ipython",
+        "session",
+        "gateway",
+        "interrupt",
+        "restart"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/jupyter-monitor",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/jupyter-monitor/issues"
+      },
+      "homepage": "https://github.com/lumine-code/jupyter-monitor#readme"
+    }
+  },
+  {
+    "source": "lumine-code/jupyter-prompt",
+    "resolvedSha": "6c64ac7d177c38a07f64d41ec062b2bafc20386b",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "6c64ac7d177c38a07f64d41ec062b2bafc20386b",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "jupyter-prompt",
+      "version": "1.0.0",
+      "description": "Run code on the current kernel from a prompt with history.",
+      "keywords": [
+        "kernel",
+        "execute",
+        "repl",
+        "history",
+        "run"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/jupyter-prompt",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/jupyter-prompt/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/jupyter-repl",
+    "resolvedSha": "a6cd30886624a439f385775f4edad09b90d48c72",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "a6cd30886624a439f385775f4edad09b90d48c72",
       "latestStable": null,
       "tags": []
     },
@@ -3344,12 +3414,11 @@
       "keywords": [
         "kernel",
         "ipython",
-        "prompt",
-        "monitor",
-        "notebook",
-        "ipynb",
         "python",
-        "go-to-definition"
+        "go-to-definition",
+        "interactive",
+        "notebook",
+        "ipynb"
       ],
       "engines": {
         "lumine": "^1.0.0"
