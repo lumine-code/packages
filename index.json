@@ -3219,14 +3219,14 @@
   },
   {
     "source": "lumine-code/jupyter-cells",
-    "resolvedSha": "151ea34ec038996e2a786beabc2129812768172f",
+    "resolvedSha": "1cc671b4b0d8cf17f85cfd846f4dbb5c876106de",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "151ea34ec038996e2a786beabc2129812768172f",
+      "headSha": "1cc671b4b0d8cf17f85cfd846f4dbb5c876106de",
       "latestStable": null,
       "tags": []
     },
@@ -3253,14 +3253,14 @@
   },
   {
     "source": "lumine-code/jupyter-explorer",
-    "resolvedSha": "d2c96d3339a7a1028dbfe382557adf31a619e833",
+    "resolvedSha": "866c8ccd80e91b2e10be32d63bef3b54d753ae58",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d2c96d3339a7a1028dbfe382557adf31a619e833",
+      "headSha": "866c8ccd80e91b2e10be32d63bef3b54d753ae58",
       "latestStable": null,
       "tags": []
     },
@@ -3291,14 +3291,14 @@
   },
   {
     "source": "lumine-code/jupyter-inspector",
-    "resolvedSha": "fd9cea9259b8b5d85f6224c26a0ecadc34f621d7",
+    "resolvedSha": "4601f6a694fe04eda46ebf0b96f1446279cc66c4",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "fd9cea9259b8b5d85f6224c26a0ecadc34f621d7",
+      "headSha": "4601f6a694fe04eda46ebf0b96f1446279cc66c4",
       "latestStable": null,
       "tags": []
     },
@@ -3325,85 +3325,15 @@
     }
   },
   {
-    "source": "lumine-code/jupyter-monitor",
-    "resolvedSha": "2c3546bfbec61bf3b60e9cb7472789c488cca0d1",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "2c3546bfbec61bf3b60e9cb7472789c488cca0d1",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "jupyter-monitor",
-      "version": "1.0.0",
-      "description": "Watch every running Jupyter kernel in one table.",
-      "keywords": [
-        "kernel",
-        "ipython",
-        "session",
-        "gateway",
-        "interrupt",
-        "restart"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/jupyter-monitor",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/jupyter-monitor/issues"
-      },
-      "homepage": "https://github.com/lumine-code/jupyter-monitor#readme"
-    }
-  },
-  {
-    "source": "lumine-code/jupyter-prompt",
-    "resolvedSha": "fa1f609e190fc5f9c9ece55897f917d3d9e0d61b",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "fa1f609e190fc5f9c9ece55897f917d3d9e0d61b",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "jupyter-prompt",
-      "version": "1.0.0",
-      "description": "Run code on the current kernel from a prompt with history.",
-      "keywords": [
-        "kernel",
-        "execute",
-        "repl",
-        "history",
-        "run"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/jupyter-prompt",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/jupyter-prompt/issues"
-      }
-    }
-  },
-  {
     "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "990f0b32021fe8160ea7748f142328b0d00cf01e",
+    "resolvedSha": "0fa1564306cd33073f1fc6ccfcc8cc7a103601bb",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "990f0b32021fe8160ea7748f142328b0d00cf01e",
+      "headSha": "0fa1564306cd33073f1fc6ccfcc8cc7a103601bb",
       "latestStable": null,
       "tags": []
     },
@@ -3414,11 +3344,12 @@
       "keywords": [
         "kernel",
         "ipython",
-        "python",
-        "go-to-definition",
-        "interactive",
+        "prompt",
+        "monitor",
         "notebook",
-        "ipynb"
+        "ipynb",
+        "python",
+        "go-to-definition"
       ],
       "engines": {
         "lumine": "^1.0.0"
@@ -3433,14 +3364,14 @@
   },
   {
     "source": "lumine-code/jupyter-variables",
-    "resolvedSha": "967200a5028aeed9c16a3457975a2bb26a15bdfe",
+    "resolvedSha": "dabafaaaa188000948c560ea915d2a5e06812180",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "967200a5028aeed9c16a3457975a2bb26a15bdfe",
+      "headSha": "dabafaaaa188000948c560ea915d2a5e06812180",
       "latestStable": null,
       "tags": []
     },
@@ -3470,14 +3401,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "1f0278bc2f14c6ae4089130a8959edba8912e807",
+    "resolvedSha": "ee87a58ee06713c66fe8c517d1c315de02abe452",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "1f0278bc2f14c6ae4089130a8959edba8912e807",
+      "headSha": "ee87a58ee06713c66fe8c517d1c315de02abe452",
       "latestStable": null,
       "tags": []
     },
@@ -3505,14 +3436,14 @@
   },
   {
     "source": "lumine-code/jupyter-watches",
-    "resolvedSha": "6e5dee5cd3e9c723855aa356d248d5e11daa0974",
+    "resolvedSha": "0f83c968b6a5386a5b4879b5f10b178c5cbf3112",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6e5dee5cd3e9c723855aa356d248d5e11daa0974",
+      "headSha": "0f83c968b6a5386a5b4879b5f10b178c5cbf3112",
       "latestStable": null,
       "tags": []
     },
