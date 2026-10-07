@@ -1818,6 +1818,41 @@
     }
   },
   {
+    "source": "lumine-code/ide",
+    "resolvedSha": "cfc60e570dfa415b8f184388b4c3b3a22482dc48",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "cfc60e570dfa415b8f184388b4c3b3a22482dc48",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "ide",
+      "version": "1.0.0",
+      "description": "Language Server Protocol hub infrastructure.",
+      "keywords": [
+        "lsp",
+        "language-server",
+        "intellisense",
+        "diagnostics",
+        "completion"
+      ],
+      "engines": {
+        "lumine": "^1.0.0",
+        "node": ">=24"
+      },
+      "repository": "https://github.com/lumine-code/ide",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/ide/issues"
+      }
+    }
+  },
+  {
     "source": "lumine-code/ide-basedpyright",
     "resolvedSha": "857f23391faaf82d62a971fc8126c083621436fc",
     "selectedRef": {
@@ -1919,41 +1954,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/ide-clangd/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/ide",
-    "resolvedSha": "cfc60e570dfa415b8f184388b4c3b3a22482dc48",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "cfc60e570dfa415b8f184388b4c3b3a22482dc48",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "ide",
-      "version": "1.0.0",
-      "description": "Language Server Protocol hub infrastructure.",
-      "keywords": [
-        "lsp",
-        "language-server",
-        "intellisense",
-        "diagnostics",
-        "completion"
-      ],
-      "engines": {
-        "lumine": "^1.0.0",
-        "node": ">=24"
-      },
-      "repository": "https://github.com/lumine-code/ide",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/ide/issues"
       }
     }
   },
@@ -7141,6 +7141,7 @@
       }
     }
   },
+  "lumine-code/patch-view",
   {
     "source": "lumine-code/pdf-view",
     "resolvedSha": "f795769327ed8b7a7c19f519c09948fda0644bf5",
