@@ -1390,14 +1390,14 @@
   },
   {
     "source": "lumine-code/git-command",
-    "resolvedSha": "b30e8063b0f1620c79c0e6d3a51b149437ec6a5b",
+    "resolvedSha": "5fd4121cc64006eb2137f6bb7f33a8a723a8d276",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b30e8063b0f1620c79c0e6d3a51b149437ec6a5b",
+      "headSha": "5fd4121cc64006eb2137f6bb7f33a8a723a8d276",
       "latestStable": null,
       "tags": []
     },
@@ -1462,14 +1462,14 @@
   },
   {
     "source": "lumine-code/git-panel",
-    "resolvedSha": "f6df630a591c39bdee70381e563702b4955356a7",
+    "resolvedSha": "a49e9cc57017c78d2b23b84d75ad59356bd20cd0",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f6df630a591c39bdee70381e563702b4955356a7",
+      "headSha": "a49e9cc57017c78d2b23b84d75ad59356bd20cd0",
       "latestStable": null,
       "tags": []
     },
@@ -1501,14 +1501,14 @@
   },
   {
     "source": "lumine-code/github-panel",
-    "resolvedSha": "08d204be3d065830c7c84b5ba0592fb8a7fcb0f9",
+    "resolvedSha": "23a1efa26eb946b24d9aeec9ac58263e831bd91f",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "08d204be3d065830c7c84b5ba0592fb8a7fcb0f9",
+      "headSha": "23a1efa26eb946b24d9aeec9ac58263e831bd91f",
       "latestStable": null,
       "tags": []
     },
@@ -7141,40 +7141,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/package-generator/issues"
-      }
-    }
-  },
-  {
-    "source": "lumine-code/patch-view",
-    "resolvedSha": "3a2f0c7f10c4d8ea6912d27e4bd0f7aa6cbe6ea1",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "3a2f0c7f10c4d8ea6912d27e4bd0f7aa6cbe6ea1",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "patch-view",
-      "version": "1.0.0",
-      "description": "Render native unified and side-by-side patches.",
-      "keywords": [
-        "diff",
-        "comparison",
-        "unified",
-        "side-by-side"
-      ],
-      "engines": {
-        "lumine": "^1.0.0",
-        "node": ">=24"
-      },
-      "repository": "https://github.com/lumine-code/patch-view",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/patch-view/issues"
       }
     }
   },
