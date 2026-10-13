@@ -7040,6 +7040,7 @@
       }
     }
   },
+  "lumine-code/open-with",
   {
     "source": "lumine-code/outline-view",
     "resolvedSha": "f78351e82673d8ec7f9731e1574954f205708b6b",
