@@ -7042,14 +7042,14 @@
   },
   {
     "source": "lumine-code/open-with",
-    "resolvedSha": "328ef7e236aa3fba668f519cce4bae1d4a942e6f",
+    "resolvedSha": "057bfc82c7308c5c41a3f00ae59124f78349eb87",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "328ef7e236aa3fba668f519cce4bae1d4a942e6f",
+      "headSha": "057bfc82c7308c5c41a3f00ae59124f78349eb87",
       "latestStable": null,
       "tags": []
     },
