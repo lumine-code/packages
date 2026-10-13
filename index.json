@@ -8253,14 +8253,14 @@
   },
   {
     "source": "lumine-code/tree-view",
-    "resolvedSha": "c39cdb2e48f0b16c358cd24777d481875780132d",
+    "resolvedSha": "215270ea58cd2ed826ed61e05ea3a9095dcb722b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c39cdb2e48f0b16c358cd24777d481875780132d",
+      "headSha": "215270ea58cd2ed826ed61e05ea3a9095dcb722b",
       "latestStable": null,
       "tags": []
     },
