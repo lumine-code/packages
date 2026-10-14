@@ -1353,14 +1353,14 @@
   },
   {
     "source": "lumine-code/git-center",
-    "resolvedSha": "c7a28604decaf0df59c90eae627f751ea3540f25",
+    "resolvedSha": "2f563e62ba1e1ea20d6e3a2de5086fabd5b09615",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c7a28604decaf0df59c90eae627f751ea3540f25",
+      "headSha": "2f563e62ba1e1ea20d6e3a2de5086fabd5b09615",
       "latestStable": null,
       "tags": []
     },
@@ -7252,14 +7252,14 @@
   },
   {
     "source": "lumine-code/project-list",
-    "resolvedSha": "94ea76edafd97ee7b0f1ede862bbaf3fafc88c60",
+    "resolvedSha": "45f866380780b89a6029d470c9a37fa37d6c6bf7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "94ea76edafd97ee7b0f1ede862bbaf3fafc88c60",
+      "headSha": "45f866380780b89a6029d470c9a37fa37d6c6bf7",
       "latestStable": null,
       "tags": []
     },
@@ -7321,14 +7321,14 @@
   },
   {
     "source": "lumine-code/recent-list",
-    "resolvedSha": "3b78f9276609e509e4fd35a19f0239fbb036dba6",
+    "resolvedSha": "bb4d3e7a40575a53b7cd9019c44ababb14c8bda0",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3b78f9276609e509e4fd35a19f0239fbb036dba6",
+      "headSha": "bb4d3e7a40575a53b7cd9019c44ababb14c8bda0",
       "latestStable": null,
       "tags": []
     },
