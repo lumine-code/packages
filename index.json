@@ -1285,14 +1285,14 @@
   },
   {
     "source": "lumine-code/fuzzy-workspace",
-    "resolvedSha": "216abc3f40d05ee37dc9bfd49bde4d1b7d83608b",
+    "resolvedSha": "0c8806db563e8b427301c796b979f9d99c38e657",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "216abc3f40d05ee37dc9bfd49bde4d1b7d83608b",
+      "headSha": "0c8806db563e8b427301c796b979f9d99c38e657",
       "latestStable": null,
       "tags": []
     },
@@ -1353,14 +1353,14 @@
   },
   {
     "source": "lumine-code/git-center",
-    "resolvedSha": "7cbde879d38726354b58ae82c1aac910f96acbbe",
+    "resolvedSha": "cd6ab1147b8bdbe98f1aa3c858c093ce44b9b7f8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7cbde879d38726354b58ae82c1aac910f96acbbe",
+      "headSha": "cd6ab1147b8bdbe98f1aa3c858c093ce44b9b7f8",
       "latestStable": null,
       "tags": []
     },
@@ -7252,14 +7252,14 @@
   },
   {
     "source": "lumine-code/project-list",
-    "resolvedSha": "18b6f9c469bc7ab5d2a0d9764aa29a151810bcf5",
+    "resolvedSha": "3ba737432ea3becada7b7379e46d301695a49976",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "18b6f9c469bc7ab5d2a0d9764aa29a151810bcf5",
+      "headSha": "3ba737432ea3becada7b7379e46d301695a49976",
       "latestStable": null,
       "tags": []
     },
