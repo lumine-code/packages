@@ -7629,14 +7629,14 @@
   },
   {
     "source": "lumine-code/sofistik-tools",
-    "resolvedSha": "22837c1cefffc09e573b757424feed32fd1dfd7d",
+    "resolvedSha": "eaf8c05265a575d415baef9b0558f9d8c51eecbe",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "22837c1cefffc09e573b757424feed32fd1dfd7d",
+      "headSha": "eaf8c05265a575d415baef9b0558f9d8c51eecbe",
       "latestStable": null,
       "tags": []
     },
@@ -8254,14 +8254,14 @@
   },
   {
     "source": "lumine-code/tree-view",
-    "resolvedSha": "b35216c45914fc12c316a8b1c0de69776ab1db37",
+    "resolvedSha": "e34d02c71d4af61527daac14de63341eb229f0d9",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b35216c45914fc12c316a8b1c0de69776ab1db37",
+      "headSha": "e34d02c71d4af61527daac14de63341eb229f0d9",
       "latestStable": null,
       "tags": []
     },
