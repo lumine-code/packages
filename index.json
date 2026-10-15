@@ -6311,14 +6311,14 @@
   },
   {
     "source": "lumine-code/launcher",
-    "resolvedSha": "d5b1bbadf3e574c9345f9cd4c10d77ef9b0807ed",
+    "resolvedSha": "b5232276e4e26f8cad9481756593c4a67bcb4fbd",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d5b1bbadf3e574c9345f9cd4c10d77ef9b0807ed",
+      "headSha": "b5232276e4e26f8cad9481756593c4a67bcb4fbd",
       "latestStable": null,
       "tags": []
     },
