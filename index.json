@@ -317,15 +317,15 @@
     }
   },
   {
-    "source": "lumine-code/bacadra-tools",
-    "resolvedSha": "b2f4dada9b24efe5500f3a0cbe7ac3448c79b9ce",
+    "source": "bacadra/lumine-bacadra-tools",
+    "resolvedSha": "0094949ce43fa851623f5c9aaede1195339594b3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b2f4dada9b24efe5500f3a0cbe7ac3448c79b9ce",
+      "headSha": "0094949ce43fa851623f5c9aaede1195339594b3",
       "latestStable": null,
       "tags": []
     },
@@ -343,10 +343,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/bacadra-tools",
+      "repository": "https://github.com/bacadra/lumine-bacadra-tools",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/bacadra-tools/issues"
+        "url": "https://github.com/bacadra/lumine-bacadra-tools/issues"
       }
     }
   },
