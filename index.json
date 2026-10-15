@@ -7871,14 +7871,14 @@
   },
   {
     "source": "lumine-code/symbol",
-    "resolvedSha": "369413de458c64c3b0f9aea2bec8610c63bbd304",
+    "resolvedSha": "3fde78b39a34012ae2a592969f2a7fa3563c13c8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "369413de458c64c3b0f9aea2bec8610c63bbd304",
+      "headSha": "3fde78b39a34012ae2a592969f2a7fa3563c13c8",
       "latestStable": null,
       "tags": []
     },
