@@ -3468,14 +3468,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "4e92f680043f4ac5d0d8cfeaea94b6bbbcac4c14",
+    "resolvedSha": "8035c0eafae4b2b129162817a91031c649229d6c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "4e92f680043f4ac5d0d8cfeaea94b6bbbcac4c14",
+      "headSha": "8035c0eafae4b2b129162817a91031c649229d6c",
       "latestStable": null,
       "tags": []
     },
@@ -8044,14 +8044,14 @@
   },
   {
     "source": "lumine-code/terminal",
-    "resolvedSha": "80179c2a680db4271c99edcae7b450f9218f9f5d",
+    "resolvedSha": "81263b5025075105341ca2831bb341048563d641",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "80179c2a680db4271c99edcae7b450f9218f9f5d",
+      "headSha": "81263b5025075105341ca2831bb341048563d641",
       "latestStable": null,
       "tags": []
     },
