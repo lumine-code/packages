@@ -1146,14 +1146,14 @@
   },
   {
     "source": "lumine-code/find-references",
-    "resolvedSha": "2845463f866668a104cd3899a2c14a450f0e9c0a",
+    "resolvedSha": "5d873b1d2161fcb7987376359d941571897f0082",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2845463f866668a104cd3899a2c14a450f0e9c0a",
+      "headSha": "5d873b1d2161fcb7987376359d941571897f0082",
       "latestStable": null,
       "tags": []
     },
@@ -1922,14 +1922,14 @@
   },
   {
     "source": "lumine-code/ide-clangd",
-    "resolvedSha": "6eb2e666821c5423d66e7f80be01b285bdd714e1",
+    "resolvedSha": "5c37d70bb3561f16f516690f1821ad036b00dc9d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6eb2e666821c5423d66e7f80be01b285bdd714e1",
+      "headSha": "5c37d70bb3561f16f516690f1821ad036b00dc9d",
       "latestStable": null,
       "tags": []
     },
