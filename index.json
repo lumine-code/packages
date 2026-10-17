@@ -149,14 +149,14 @@
   },
   {
     "source": "lumine-code/autoclose-html",
-    "resolvedSha": "4d679319d32eb68590c2bd020eb9410fae9eb563",
+    "resolvedSha": "30f206ba9a0ef9e49ac7ebf7ff1bcf410b0c835a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "4d679319d32eb68590c2bd020eb9410fae9eb563",
+      "headSha": "30f206ba9a0ef9e49ac7ebf7ff1bcf410b0c835a",
       "latestStable": null,
       "tags": []
     },
@@ -592,14 +592,14 @@
   },
   {
     "source": "lumine-code/calc-inline",
-    "resolvedSha": "b119b4ca58e0f36469697c237eab832201a223bc",
+    "resolvedSha": "4b199e8541fdb8a4b880a29a27a71f266545b4e8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b119b4ca58e0f36469697c237eab832201a223bc",
+      "headSha": "4b199e8541fdb8a4b880a29a27a71f266545b4e8",
       "latestStable": null,
       "tags": []
     },
@@ -732,14 +732,14 @@
   },
   {
     "source": "lumine-code/color-picker",
-    "resolvedSha": "5caa13d85bad15c3f2e935da1647b804ce5b86ce",
+    "resolvedSha": "e43ee996e11f9e476d341511e7046811361524da",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5caa13d85bad15c3f2e935da1647b804ce5b86ce",
+      "headSha": "e43ee996e11f9e476d341511e7046811361524da",
       "latestStable": null,
       "tags": []
     },
@@ -6553,14 +6553,14 @@
   "bacadra/lumine-banager-tools",
   {
     "source": "lumine-code/lumine-mcp",
-    "resolvedSha": "a35c76e9fce78a49bc48a3efe56c85fb9b451106",
+    "resolvedSha": "70c109f91f943c8c61933cae042d52b3ea135490",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a35c76e9fce78a49bc48a3efe56c85fb9b451106",
+      "headSha": "70c109f91f943c8c61933cae042d52b3ea135490",
       "latestStable": null,
       "tags": []
     },
