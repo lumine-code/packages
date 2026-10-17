@@ -6550,7 +6550,7 @@
       }
     }
   },
-  "lumine-code/lumine-banager-tools",
+  "bacadra/lumine-banager-tools",
   {
     "source": "lumine-code/lumine-mcp",
     "resolvedSha": "0a82e8f92b54818d2c83f3ff7eebd26c33a192fb",
