@@ -6447,24 +6447,23 @@
     }
   },
   {
-    "source": "lumine-code/linter-panel",
-    "resolvedSha": "49eb7742b992eb0a3aa89be840740309d324b0ad",
+    "source": "lumine-code/diagnostics",
+    "resolvedSha": "8632725b264fc31ef755a2a9b3d3f2cc8cf3f243",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "49eb7742b992eb0a3aa89be840740309d324b0ad",
+      "headSha": "8632725b264fc31ef755a2a9b3d3f2cc8cf3f243",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "linter-panel",
+      "name": "diagnostics",
       "version": "1.0.0",
-      "description": "Show lint messages in a sortable panel and on the status bar.",
+      "description": "Show diagnostics in a sortable panel and on the status bar.",
       "keywords": [
-        "diagnostics",
         "errors",
         "warnings",
         "problems",
@@ -6474,12 +6473,12 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/linter-panel",
+      "repository": "https://github.com/lumine-code/diagnostics",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/linter-panel/issues"
+        "url": "https://github.com/lumine-code/diagnostics/issues"
       },
-      "homepage": "https://github.com/lumine-code/linter-panel#readme"
+      "homepage": "https://github.com/lumine-code/diagnostics#readme"
     }
   },
   {
