@@ -7562,14 +7562,14 @@
   },
   {
     "source": "lumine-code/settings-view",
-    "resolvedSha": "b1a2edfafade77d2c5ec4c6eb86e0c9697a775b0",
+    "resolvedSha": "59d06d6cc45685fa3584b1132f15540ab88dbfaa",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b1a2edfafade77d2c5ec4c6eb86e0c9697a775b0",
+      "headSha": "59d06d6cc45685fa3584b1132f15540ab88dbfaa",
       "latestStable": null,
       "tags": []
     },
