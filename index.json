@@ -696,14 +696,14 @@
   },
   {
     "source": "lumine-code/color-inline",
-    "resolvedSha": "b0919cc68047de4b92e38e0ba9ffa3cfcf616a37",
+    "resolvedSha": "4110ad0ab00153166661a311568b62f7cf06358a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b0919cc68047de4b92e38e0ba9ffa3cfcf616a37",
+      "headSha": "4110ad0ab00153166661a311568b62f7cf06358a",
       "latestStable": null,
       "tags": []
     },
