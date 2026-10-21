@@ -871,14 +871,14 @@
   },
   {
     "source": "lumine-code/cursor-leader",
-    "resolvedSha": "e88cc548f389f117fa5cfd719095a987e8a768cf",
+    "resolvedSha": "428f0c1c4b543eac0e54c4a7d5eda779cacc6f2d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e88cc548f389f117fa5cfd719095a987e8a768cf",
+      "headSha": "428f0c1c4b543eac0e54c4a7d5eda779cacc6f2d",
       "latestStable": null,
       "tags": []
     },
