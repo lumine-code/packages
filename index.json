@@ -6695,14 +6695,14 @@
   },
   {
     "source": "lumine-code/minimap",
-    "resolvedSha": "b80434e3d79dd8fb96b49891c05dcf95943e9eb7",
+    "resolvedSha": "5536286574f1f17f4af0b9ea99203e9a4dbb449f",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b80434e3d79dd8fb96b49891c05dcf95943e9eb7",
+      "headSha": "5536286574f1f17f4af0b9ea99203e9a4dbb449f",
       "latestStable": null,
       "tags": []
     },
