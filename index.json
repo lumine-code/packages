@@ -149,14 +149,14 @@
   },
   {
     "source": "lumine-code/autoclose-html",
-    "resolvedSha": "b22259f6dbd34b91bc95de740ddc0a9e60c7fe48",
+    "resolvedSha": "3866fa717ffd297d3b24cf94ca11b90024383f45",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b22259f6dbd34b91bc95de740ddc0a9e60c7fe48",
+      "headSha": "3866fa717ffd297d3b24cf94ca11b90024383f45",
       "latestStable": null,
       "tags": []
     },
@@ -183,14 +183,14 @@
   },
   {
     "source": "lumine-code/autocomplete",
-    "resolvedSha": "2e1c58e628368676d0ab2c065b17e2c3cd419d27",
+    "resolvedSha": "9236dd0ffc5c401950580d5bfc4407c6128587e4",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2e1c58e628368676d0ab2c065b17e2c3cd419d27",
+      "headSha": "9236dd0ffc5c401950580d5bfc4407c6128587e4",
       "latestStable": null,
       "tags": []
     },
@@ -218,14 +218,14 @@
   },
   {
     "source": "lumine-code/autocomplete-lumine",
-    "resolvedSha": "b0213cccf49e66ebfd1412c52ef309560c3a8971",
+    "resolvedSha": "50bd220d3c3f79633ee5d0ca9bf1eabc1dae9185",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b0213cccf49e66ebfd1412c52ef309560c3a8971",
+      "headSha": "50bd220d3c3f79633ee5d0ca9bf1eabc1dae9185",
       "latestStable": null,
       "tags": []
     },
@@ -285,14 +285,14 @@
   },
   {
     "source": "lumine-code/autosave",
-    "resolvedSha": "a633e067579cc14953d78dce0f5bc916951baea1",
+    "resolvedSha": "55e8246f93940045db409f77c36a7293e8736ceb",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a633e067579cc14953d78dce0f5bc916951baea1",
+      "headSha": "55e8246f93940045db409f77c36a7293e8736ceb",
       "latestStable": null,
       "tags": []
     },
@@ -386,14 +386,14 @@
   },
   {
     "source": "lumine-code/bib-finder",
-    "resolvedSha": "a4d14f2d1e0aab6f2864e335d0a299da91e6c3ad",
+    "resolvedSha": "8a3c68cce410836e76377cb24cc567e6019b571c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "a4d14f2d1e0aab6f2864e335d0a299da91e6c3ad",
+      "headSha": "8a3c68cce410836e76377cb24cc567e6019b571c",
       "latestStable": null,
       "tags": []
     },
@@ -455,14 +455,14 @@
   },
   {
     "source": "lumine-code/bracket-matcher",
-    "resolvedSha": "96c0fa6ab25c9c325654e3cb0080d3bc635a1261",
+    "resolvedSha": "8006b3127eaea420c06d8dc9f6efdefa2c7b754b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "96c0fa6ab25c9c325654e3cb0080d3bc635a1261",
+      "headSha": "8006b3127eaea420c06d8dc9f6efdefa2c7b754b",
       "latestStable": null,
       "tags": []
     },
@@ -524,14 +524,14 @@
   },
   {
     "source": "lumine-code/build",
-    "resolvedSha": "2ec7ad8510a5c3dfb3892aa8918547542ee97984",
+    "resolvedSha": "a60b9a42cec66dcdc8c821e96b67a6784d81e0b6",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2ec7ad8510a5c3dfb3892aa8918547542ee97984",
+      "headSha": "a60b9a42cec66dcdc8c821e96b67a6784d81e0b6",
       "latestStable": null,
       "tags": []
     },
@@ -627,14 +627,14 @@
   },
   {
     "source": "lumine-code/code-format",
-    "resolvedSha": "7d197a578f792e4acd12148b1a889381c36c918c",
+    "resolvedSha": "b8f8b00bc3c990b751b44cad3252e98b5e60ff64",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7d197a578f792e4acd12148b1a889381c36c918c",
+      "headSha": "b8f8b00bc3c990b751b44cad3252e98b5e60ff64",
       "latestStable": null,
       "tags": []
     },
@@ -696,14 +696,14 @@
   },
   {
     "source": "lumine-code/color-inline",
-    "resolvedSha": "ad3be719617410e7b13e39e51321365312b1989c",
+    "resolvedSha": "d940c79a2c1d204b3237e0614c43bb6228361cef",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ad3be719617410e7b13e39e51321365312b1989c",
+      "headSha": "d940c79a2c1d204b3237e0614c43bb6228361cef",
       "latestStable": null,
       "tags": []
     },
@@ -1249,14 +1249,14 @@
   },
   {
     "source": "lumine-code/fuzzy-files",
-    "resolvedSha": "00c552024bbb0bc16c367f994fa30dccc9b0cece",
+    "resolvedSha": "0855dce5910e7d73d7a101ba10ea78a0be256ec7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "00c552024bbb0bc16c367f994fa30dccc9b0cece",
+      "headSha": "0855dce5910e7d73d7a101ba10ea78a0be256ec7",
       "latestStable": null,
       "tags": []
     },
@@ -1782,14 +1782,14 @@
   },
   {
     "source": "lumine-code/hyperclick",
-    "resolvedSha": "d43242922468e4c260af81ee7264e5ccebf02f01",
+    "resolvedSha": "010928e47617f957cf01dde11f96815864512ea8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d43242922468e4c260af81ee7264e5ccebf02f01",
+      "headSha": "010928e47617f957cf01dde11f96815864512ea8",
       "latestStable": null,
       "tags": []
     },
@@ -1817,14 +1817,14 @@
   },
   {
     "source": "lumine-code/ide",
-    "resolvedSha": "b4492d936fe994f4c1d7972c2c3a5962cdb5be3c",
+    "resolvedSha": "f1737630a72bfff552baa3051e9cec182b4314a5",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b4492d936fe994f4c1d7972c2c3a5962cdb5be3c",
+      "headSha": "f1737630a72bfff552baa3051e9cec182b4314a5",
       "latestStable": null,
       "tags": []
     },
@@ -1922,14 +1922,14 @@
   },
   {
     "source": "lumine-code/ide-clangd",
-    "resolvedSha": "7100e0ae994b8a4e2f0df3fbbc4537666da2fbd1",
+    "resolvedSha": "1e3d0e05e4a3bebd925597328de9e505c1ae81d7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7100e0ae994b8a4e2f0df3fbbc4537666da2fbd1",
+      "headSha": "1e3d0e05e4a3bebd925597328de9e505c1ae81d7",
       "latestStable": null,
       "tags": []
     },
@@ -2064,14 +2064,14 @@
   },
   {
     "source": "lumine-code/ide-eslint",
-    "resolvedSha": "b9cfba30f7706a1a920feb6c0e2500ebbb3a6596",
+    "resolvedSha": "32015faf7c76b6ab50df0038adae8e8401455926",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b9cfba30f7706a1a920feb6c0e2500ebbb3a6596",
+      "headSha": "32015faf7c76b6ab50df0038adae8e8401455926",
       "latestStable": null,
       "tags": []
     },
@@ -2383,14 +2383,14 @@
   },
   {
     "source": "lumine-code/ide-phpantom",
-    "resolvedSha": "2bb7f1b9bbd451a85166982d0f6e9b29972fce89",
+    "resolvedSha": "0b37227c97038a9e661fb4cce99068a1a67099a9",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2bb7f1b9bbd451a85166982d0f6e9b29972fce89",
+      "headSha": "0b37227c97038a9e661fb4cce99068a1a67099a9",
       "latestStable": null,
       "tags": []
     },
@@ -3251,14 +3251,14 @@
   },
   {
     "source": "lumine-code/jupyter-explorer",
-    "resolvedSha": "9fe8afa987f514de1583feed3bc7ee547bde1a8c",
+    "resolvedSha": "01e31b94b7870f24acab90ef34cf0d6256319866",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9fe8afa987f514de1583feed3bc7ee547bde1a8c",
+      "headSha": "01e31b94b7870f24acab90ef34cf0d6256319866",
       "latestStable": null,
       "tags": []
     },
@@ -3289,14 +3289,14 @@
   },
   {
     "source": "lumine-code/jupyter-inspector",
-    "resolvedSha": "e8690fe73db9e21be9bf7b5335d84340667aeb5c",
+    "resolvedSha": "aa89707f14e9c349fae73a224adc35d38e2b36f2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e8690fe73db9e21be9bf7b5335d84340667aeb5c",
+      "headSha": "aa89707f14e9c349fae73a224adc35d38e2b36f2",
       "latestStable": null,
       "tags": []
     },
@@ -3394,14 +3394,14 @@
   },
   {
     "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "909eb2aeff1cd7a855db2b2e5e83e4b45de5d887",
+    "resolvedSha": "22206755239e378537e66ce0b960e6e30b33fcfe",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "909eb2aeff1cd7a855db2b2e5e83e4b45de5d887",
+      "headSha": "22206755239e378537e66ce0b960e6e30b33fcfe",
       "latestStable": null,
       "tags": []
     },
@@ -3431,14 +3431,14 @@
   },
   {
     "source": "lumine-code/jupyter-variables",
-    "resolvedSha": "e6839ea6119446013f701af74bcc71df91980102",
+    "resolvedSha": "0243c9e7a5b61544b39ce549774876e650a2aeb0",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e6839ea6119446013f701af74bcc71df91980102",
+      "headSha": "0243c9e7a5b61544b39ce549774876e650a2aeb0",
       "latestStable": null,
       "tags": []
     },
@@ -3468,14 +3468,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "acbe377e3b6528d6a77e2bc22603552fb34c6f47",
+    "resolvedSha": "53315e9a39f746d72b0dfab1899de16bc3090f3e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "acbe377e3b6528d6a77e2bc22603552fb34c6f47",
+      "headSha": "53315e9a39f746d72b0dfab1899de16bc3090f3e",
       "latestStable": null,
       "tags": []
     },
@@ -6276,14 +6276,14 @@
   },
   {
     "source": "lumine-code/latex-tools",
-    "resolvedSha": "74c5d76621f91177cec5bf7e301567d8af6830cf",
+    "resolvedSha": "8d17ea12e960eb8f15e65eed66fd2ac2aec0a5bc",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "74c5d76621f91177cec5bf7e301567d8af6830cf",
+      "headSha": "8d17ea12e960eb8f15e65eed66fd2ac2aec0a5bc",
       "latestStable": null,
       "tags": []
     },
@@ -6415,14 +6415,14 @@
   },
   {
     "source": "lumine-code/linter",
-    "resolvedSha": "d8f6d5b2c4bfd08b3f60573c2fa2abae585c66fd",
+    "resolvedSha": "4ca4eb9bf477096cb9893ad3a164c555884497e8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d8f6d5b2c4bfd08b3f60573c2fa2abae585c66fd",
+      "headSha": "4ca4eb9bf477096cb9893ad3a164c555884497e8",
       "latestStable": null,
       "tags": []
     },
@@ -6485,14 +6485,14 @@
   },
   {
     "source": "lumine-code/linter-todo",
-    "resolvedSha": "cd7e8a64ee5c12ed57a1698ecbe0f0f74e042751",
+    "resolvedSha": "be21618fc10132a452b85405498ec7ceb4809cb4",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "cd7e8a64ee5c12ed57a1698ecbe0f0f74e042751",
+      "headSha": "be21618fc10132a452b85405498ec7ceb4809cb4",
       "latestStable": null,
       "tags": []
     },
@@ -6519,14 +6519,14 @@
   },
   {
     "source": "lumine-code/log-filter",
-    "resolvedSha": "0b963052ab64b47d42cf0ac8b92bb438f349462f",
+    "resolvedSha": "0f40822ec108c15103191482ff388af5208a53da",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0b963052ab64b47d42cf0ac8b92bb438f349462f",
+      "headSha": "0f40822ec108c15103191482ff388af5208a53da",
       "latestStable": null,
       "tags": []
     },
@@ -6554,14 +6554,14 @@
   "bacadra/lumine-banager-tools",
   {
     "source": "lumine-code/lumine-mcp",
-    "resolvedSha": "db8013caf99b232b8c0290e2e528954aff7fb0c0",
+    "resolvedSha": "5708e18826a86fa35ff09925ed47de0b70481071",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "db8013caf99b232b8c0290e2e528954aff7fb0c0",
+      "headSha": "5708e18826a86fa35ff09925ed47de0b70481071",
       "latestStable": null,
       "tags": []
     },
@@ -6872,14 +6872,14 @@
   },
   {
     "source": "lumine-code/notifications",
-    "resolvedSha": "661e93c8d365e5db5f8f7b782f7d4f3c619b32f7",
+    "resolvedSha": "d198d5e77eaf631425d2f93dda9d3646c8f202e7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "661e93c8d365e5db5f8f7b782f7d4f3c619b32f7",
+      "headSha": "d198d5e77eaf631425d2f93dda9d3646c8f202e7",
       "latestStable": null,
       "tags": []
     },
@@ -7254,14 +7254,14 @@
   },
   {
     "source": "lumine-code/project-list",
-    "resolvedSha": "85392e66a36e89c0c68348703d92daee101e1a3b",
+    "resolvedSha": "12e47141988b9a23ae6ea89b883ce68b1eba5187",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "85392e66a36e89c0c68348703d92daee101e1a3b",
+      "headSha": "12e47141988b9a23ae6ea89b883ce68b1eba5187",
       "latestStable": null,
       "tags": []
     },
@@ -7425,14 +7425,14 @@
   },
   {
     "source": "lumine-code/scrollmap",
-    "resolvedSha": "911b78556bc5d72f571d6cdeda906d4b50819004",
+    "resolvedSha": "ebf3824d1fc5227dcfdf58f1eaf3c1e16682f156",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "911b78556bc5d72f571d6cdeda906d4b50819004",
+      "headSha": "ebf3824d1fc5227dcfdf58f1eaf3c1e16682f156",
       "latestStable": null,
       "tags": []
     },
@@ -7562,14 +7562,14 @@
   },
   {
     "source": "lumine-code/settings-view",
-    "resolvedSha": "14d072d4d31851cfe8f5c642bfcff21a29288d94",
+    "resolvedSha": "cd6e72d7d9babaca336412be11c54da1e07da46a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "14d072d4d31851cfe8f5c642bfcff21a29288d94",
+      "headSha": "cd6e72d7d9babaca336412be11c54da1e07da46a",
       "latestStable": null,
       "tags": []
     },
@@ -7699,14 +7699,14 @@
   },
   {
     "source": "lumine-code/spell-check",
-    "resolvedSha": "0f69b177b101427a89d5f72d7f76cd9964b31960",
+    "resolvedSha": "babf2d05b3003e8eec9cabd3243414b576fb14b2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0f69b177b101427a89d5f72d7f76cd9964b31960",
+      "headSha": "babf2d05b3003e8eec9cabd3243414b576fb14b2",
       "latestStable": null,
       "tags": []
     },
@@ -7872,14 +7872,14 @@
   },
   {
     "source": "lumine-code/symbol",
-    "resolvedSha": "008c008dcb5491c03d8f640d385e89d4fd965b00",
+    "resolvedSha": "803774bdb7be837e596c4daa9e9a36d7e4faf50c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "008c008dcb5491c03d8f640d385e89d4fd965b00",
+      "headSha": "803774bdb7be837e596c4daa9e9a36d7e4faf50c",
       "latestStable": null,
       "tags": []
     },
@@ -8255,14 +8255,14 @@
   },
   {
     "source": "lumine-code/tree-view",
-    "resolvedSha": "fc9fc97deb529fa2480870f7ab5d52a6e71e7633",
+    "resolvedSha": "0ece1e8fa8bb63b552873f8e97a25badba02557e",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "fc9fc97deb529fa2480870f7ab5d52a6e71e7633",
+      "headSha": "0ece1e8fa8bb63b552873f8e97a25badba02557e",
       "latestStable": null,
       "tags": []
     },
@@ -8323,14 +8323,14 @@
   },
   {
     "source": "lumine-code/typst-tools",
-    "resolvedSha": "2d0edde7f7fda7417a635a1460c763ff6e246ff4",
+    "resolvedSha": "10c8216769b02e70c55b1499172f316cb153a031",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2d0edde7f7fda7417a635a1460c763ff6e246ff4",
+      "headSha": "10c8216769b02e70c55b1499172f316cb153a031",
       "latestStable": null,
       "tags": []
     },
