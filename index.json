@@ -974,14 +974,14 @@
   },
   {
     "source": "lumine-code/diagnostics",
-    "resolvedSha": "1dac5000868b405f5e50ad32331dd2236a7ff98c",
+    "resolvedSha": "b614060b7ed99bec872685f492f714b2c9659476",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "1dac5000868b405f5e50ad32331dd2236a7ff98c",
+      "headSha": "b614060b7ed99bec872685f492f714b2c9659476",
       "latestStable": null,
       "tags": []
     },
@@ -6485,44 +6485,6 @@
     }
   },
   {
-<<<<<<< HEAD
-    "source": "lumine-code/diagnostics",
-    "resolvedSha": "b614060b7ed99bec872685f492f714b2c9659476",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "b614060b7ed99bec872685f492f714b2c9659476",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "diagnostics",
-      "version": "1.0.0",
-      "description": "Show diagnostics in a sortable panel and on the status bar.",
-      "keywords": [
-        "errors",
-        "warnings",
-        "problems",
-        "status-bar",
-        "dock"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/diagnostics",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/diagnostics/issues"
-      },
-      "homepage": "https://github.com/lumine-code/diagnostics#readme"
-    }
-  },
-  {
-=======
->>>>>>> bc15561 (Add metadata to the catalogue)
     "source": "lumine-code/linter-todo",
     "resolvedSha": "d54c049ff795a8a8f34bb513e1252b879ac46ebd",
     "selectedRef": {
