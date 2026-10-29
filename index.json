@@ -1,5 +1,40 @@
 [
   {
+    "source": "bacadra/lumine-bacadra-tools",
+    "resolvedSha": "38d118fbd7050ad981d7035e5662868601085061",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "38d118fbd7050ad981d7035e5662868601085061",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "bacadra-tools",
+      "version": "1.0.0",
+      "description": "Commands and snippets for Bacadra engineering workflows.",
+      "keywords": [
+        "structural-engineering",
+        "python",
+        "eurocode",
+        "bibliography",
+        "jupyter"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/bacadra/lumine-bacadra-tools",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/bacadra/lumine-bacadra-tools/issues"
+      }
+    }
+  },
+  "bacadra/lumine-banager-tools",
+  {
     "source": "lumine-code/about",
     "resolvedSha": "dbd1a2958414d14b9ee83e0503bc14e19cb514d1",
     "selectedRef": {
@@ -313,40 +348,6 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/autosave/issues"
-      }
-    }
-  },
-  {
-    "source": "bacadra/lumine-bacadra-tools",
-    "resolvedSha": "38d118fbd7050ad981d7035e5662868601085061",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "38d118fbd7050ad981d7035e5662868601085061",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "bacadra-tools",
-      "version": "1.0.0",
-      "description": "Commands and snippets for Bacadra engineering workflows.",
-      "keywords": [
-        "structural-engineering",
-        "python",
-        "eurocode",
-        "bibliography",
-        "jupyter"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/bacadra/lumine-bacadra-tools",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/bacadra/lumine-bacadra-tools/issues"
       }
     }
   },
@@ -969,6 +970,41 @@
       "bugs": {
         "url": "https://github.com/lumine-code/dev-live-reload/issues"
       }
+    }
+  },
+  {
+    "source": "lumine-code/diagnostics",
+    "resolvedSha": "1dac5000868b405f5e50ad32331dd2236a7ff98c",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "1dac5000868b405f5e50ad32331dd2236a7ff98c",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "diagnostics",
+      "version": "1.0.0",
+      "description": "Show diagnostics in a sortable panel and on the status bar.",
+      "keywords": [
+        "errors",
+        "warnings",
+        "problems",
+        "status-bar",
+        "dock"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/diagnostics",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/diagnostics/issues"
+      },
+      "homepage": "https://github.com/lumine-code/diagnostics#readme"
     }
   },
   {
@@ -6449,6 +6485,7 @@
     }
   },
   {
+<<<<<<< HEAD
     "source": "lumine-code/diagnostics",
     "resolvedSha": "b614060b7ed99bec872685f492f714b2c9659476",
     "selectedRef": {
@@ -6484,6 +6521,8 @@
     }
   },
   {
+=======
+>>>>>>> bc15561 (Add metadata to the catalogue)
     "source": "lumine-code/linter-todo",
     "resolvedSha": "d54c049ff795a8a8f34bb513e1252b879ac46ebd",
     "selectedRef": {
@@ -6551,7 +6590,6 @@
       }
     }
   },
-  "bacadra/lumine-banager-tools",
   {
     "source": "lumine-code/lumine-mcp",
     "resolvedSha": "ef945651204ec6025931daf47cfd92a830327961",
@@ -6693,6 +6731,7 @@
       }
     }
   },
+  "lumine-code/metadata",
   {
     "source": "lumine-code/minimap",
     "resolvedSha": "862a5dc57bfdbb5feb0485e0fb8dbbdb9b084c02",
