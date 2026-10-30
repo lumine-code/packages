@@ -1535,14 +1535,14 @@
   },
   {
     "source": "lumine-code/github-panel",
-    "resolvedSha": "3273bde1bec958a55307e16a7bda94dc9a20c3fa",
+    "resolvedSha": "dff6aebe0a6af8149f4fa36c1aa94acc933f3b99",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3273bde1bec958a55307e16a7bda94dc9a20c3fa",
+      "headSha": "dff6aebe0a6af8149f4fa36c1aa94acc933f3b99",
       "latestStable": null,
       "tags": []
     },
