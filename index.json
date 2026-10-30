@@ -1389,14 +1389,14 @@
   },
   {
     "source": "lumine-code/git-center",
-    "resolvedSha": "d74f15f0476ca48a78a0be34d483c9c9f8ffe14a",
+    "resolvedSha": "eb34271dca7452be4916cabe72cd89f39cd0f4a0",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d74f15f0476ca48a78a0be34d483c9c9f8ffe14a",
+      "headSha": "eb34271dca7452be4916cabe72cd89f39cd0f4a0",
       "latestStable": null,
       "tags": []
     },
@@ -1498,14 +1498,14 @@
   },
   {
     "source": "lumine-code/git-panel",
-    "resolvedSha": "59ae33f1ce8d2811bd67c30ee4ab3475ab0d281a",
+    "resolvedSha": "9017b8d624aba978520afee40ec3135af2d36dbc",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "59ae33f1ce8d2811bd67c30ee4ab3475ab0d281a",
+      "headSha": "9017b8d624aba978520afee40ec3135af2d36dbc",
       "latestStable": null,
       "tags": []
     },
@@ -1535,14 +1535,14 @@
   },
   {
     "source": "lumine-code/github-panel",
-    "resolvedSha": "9e7dbab03813b90b3d4fe7b316b2ec450a069b02",
+    "resolvedSha": "3273bde1bec958a55307e16a7bda94dc9a20c3fa",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9e7dbab03813b90b3d4fe7b316b2ec450a069b02",
+      "headSha": "3273bde1bec958a55307e16a7bda94dc9a20c3fa",
       "latestStable": null,
       "tags": []
     },
