@@ -105,14 +105,14 @@
   },
   {
     "source": "lumine-code/aura-theme",
-    "resolvedSha": "820d856be2d4a3d26f595e7202b16c8bcd3c6b6a",
+    "resolvedSha": "837053a5764c2289780eaf0f6e5c23ae00d229fa",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "820d856be2d4a3d26f595e7202b16c8bcd3c6b6a",
+      "headSha": "837053a5764c2289780eaf0f6e5c23ae00d229fa",
       "latestStable": null,
       "tags": []
     },
@@ -6941,14 +6941,14 @@
   },
   {
     "source": "lumine-code/one-theme",
-    "resolvedSha": "9405c9be05928ac26aafb432733ab89309b4e712",
+    "resolvedSha": "89cf6ed4c8e12e6043230644936026d7eb28d2ef",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9405c9be05928ac26aafb432733ab89309b4e712",
+      "headSha": "89cf6ed4c8e12e6043230644936026d7eb28d2ef",
       "latestStable": null,
       "tags": []
     },
@@ -7210,6 +7210,39 @@
       "license": "MIT",
       "bugs": {
         "url": "https://github.com/lumine-code/package-generator/issues"
+      }
+    }
+  },
+  {
+    "source": "lumine-code/pane-focus",
+    "resolvedSha": "4275ba997c91a08b740c4be44c1b2a5cdb31a9ae",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "4275ba997c91a08b740c4be44c1b2a5cdb31a9ae",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "pane-focus",
+      "version": "1.0.0",
+      "description": "Temporarily enlarge the active pane over the workspace.",
+      "keywords": [
+        "distraction-free",
+        "maximize",
+        "zoom",
+        "workspace"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/pane-focus",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/pane-focus/issues"
       }
     }
   },
@@ -8392,14 +8425,14 @@
   },
   {
     "source": "lumine-code/vscode-theme",
-    "resolvedSha": "430de0755a5bbb90180ea89a43459e82fab3261d",
+    "resolvedSha": "772bd734bd7409956857093029e4029797f96e83",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "430de0755a5bbb90180ea89a43459e82fab3261d",
+      "headSha": "772bd734bd7409956857093029e4029797f96e83",
       "latestStable": null,
       "tags": []
     },
