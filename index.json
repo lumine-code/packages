@@ -456,14 +456,14 @@
   },
   {
     "source": "lumine-code/bracket-matcher",
-    "resolvedSha": "1e3f7be73d521be0d88999784148c3bf3ec26b2e",
+    "resolvedSha": "ed961c907aa6c61bb8e0d1a4ec5478d0a9c8a586",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "1e3f7be73d521be0d88999784148c3bf3ec26b2e",
+      "headSha": "ed961c907aa6c61bb8e0d1a4ec5478d0a9c8a586",
       "latestStable": null,
       "tags": []
     },
@@ -8113,14 +8113,14 @@
   },
   {
     "source": "lumine-code/terminal",
-    "resolvedSha": "81d654df74eada0096306021724ad6f46a858bdf",
+    "resolvedSha": "4dca519da53ffae4fd9afef46591f83863fce7e8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "81d654df74eada0096306021724ad6f46a858bdf",
+      "headSha": "4dca519da53ffae4fd9afef46591f83863fce7e8",
       "latestStable": null,
       "tags": []
     },
