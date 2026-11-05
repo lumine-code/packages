@@ -1462,23 +1462,24 @@
     }
   },
   {
-    "source": "lumine-code/git-diff",
-    "resolvedSha": "1cfe912414959a9ee04d4c2e84af2f3cc08de76b",
+    "source": "lumine-code/git-chunk",
+    "resolvedSha": "8f7459788d5241e4bcedcffa3d7a0771577ae603",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "1cfe912414959a9ee04d4c2e84af2f3cc08de76b",
+      "headSha": "8f7459788d5241e4bcedcffa3d7a0771577ae603",
       "latestStable": null,
       "tags": []
     },
     "metadata": {
-      "name": "git-diff",
+      "name": "git-chunk",
       "version": "1.0.0",
       "description": "Marks lines in the editor gutter that have been added, edited, or deleted since the last commit.",
       "keywords": [
+        "diff",
         "gutter",
         "change",
         "hunk",
@@ -1489,10 +1490,10 @@
       "engines": {
         "lumine": "^1.0.0"
       },
-      "repository": "https://github.com/lumine-code/git-diff",
+      "repository": "https://github.com/lumine-code/git-chunk",
       "license": "MIT",
       "bugs": {
-        "url": "https://github.com/lumine-code/git-diff/issues"
+        "url": "https://github.com/lumine-code/git-chunk/issues"
       }
     }
   },
