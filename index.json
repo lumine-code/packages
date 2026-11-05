@@ -8563,6 +8563,39 @@
     }
   },
   {
+    "source": "lumine-code/window-zoom",
+    "resolvedSha": "db393874d79cbe7e47ea8f136473fabe9c0a682b",
+    "selectedRef": {
+      "type": "default",
+      "value": "master"
+    },
+    "refs": {
+      "defaultBranch": "master",
+      "headSha": "db393874d79cbe7e47ea8f136473fabe9c0a682b",
+      "latestStable": null,
+      "tags": []
+    },
+    "metadata": {
+      "name": "window-zoom",
+      "version": "1.0.0",
+      "description": "Show the current window zoom when it differs from the default.",
+      "keywords": [
+        "magnification",
+        "scaling",
+        "status-bar",
+        "accessibility"
+      ],
+      "engines": {
+        "lumine": "^1.0.0"
+      },
+      "repository": "https://github.com/lumine-code/window-zoom",
+      "license": "MIT",
+      "bugs": {
+        "url": "https://github.com/lumine-code/window-zoom/issues"
+      }
+    }
+  },
+  {
     "source": "lumine-code/word-map",
     "resolvedSha": "3827e77da77397e3bce426023c1b14e5efc46156",
     "selectedRef": {
