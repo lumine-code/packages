@@ -2170,14 +2170,14 @@
   },
   {
     "source": "lumine-code/ide-graphql",
-    "resolvedSha": "0c78ffc39beec789118c989ed8310e184f56de58",
+    "resolvedSha": "d3b3a00b56c86abd10b739a07589d46261eac8c1",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0c78ffc39beec789118c989ed8310e184f56de58",
+      "headSha": "d3b3a00b56c86abd10b739a07589d46261eac8c1",
       "latestStable": null,
       "tags": []
     },
@@ -3431,14 +3431,14 @@
   },
   {
     "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "8e018d74806b8bc8b27b1c69c90bb268a9a835f8",
+    "resolvedSha": "530218f1005067a3b5107216a2dbcab7b1e72b4c",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8e018d74806b8bc8b27b1c69c90bb268a9a835f8",
+      "headSha": "530218f1005067a3b5107216a2dbcab7b1e72b4c",
       "latestStable": null,
       "tags": []
     },
