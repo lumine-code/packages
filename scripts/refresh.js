@@ -272,9 +272,11 @@ async function fetchGithubManifest(parsed, sha, options = {}) {
     }
   }
   if (lastError) throw lastError;
-  throw new Error(
+  const error = new Error(
     "Repository does not contain package.json, package.jsonc, or package.cson.",
   );
+  error.code = "GITHUB_RAW_MANIFEST_NOT_FOUND";
+  throw error;
 }
 
 async function fetchGitManifest(parsed, sha, { run = runGit } = {}) {
@@ -354,7 +356,14 @@ async function listRefs(
 
 async function fetchManifest(parsed, sha, options = {}) {
   if (parsed.originKey.startsWith("github.com/")) {
-    return fetchGithubManifest(parsed, sha, options);
+    try {
+      return await fetchGithubManifest(parsed, sha, options);
+    } catch (error) {
+      if (error.code !== "GITHUB_RAW_MANIFEST_NOT_FOUND") throw error;
+      // Git can use existing credentials, while private GitHub raw URLs hide
+      // their manifests behind 404s. Keep the exact ref and bounded Git path.
+      return fetchGitManifest(parsed, sha, options);
+    }
   }
   return fetchGitManifest(parsed, sha, options);
 }

@@ -1,9 +1,13 @@
 "use strict";
 
 const assert = require("node:assert/strict");
+const fs = require("node:fs");
 const test = require("node:test");
-const { createSnapshot } = require("../catalog");
+const { assertSafePackageSource, createSnapshot } = require("../catalog");
 const {
+  fetchManifest,
+  MANIFEST_FILENAMES,
+  MAX_MANIFEST_BYTES,
   parseManifestBody,
   refreshEntries,
   retry,
@@ -61,6 +65,158 @@ test("scrapeSource fetches the manifest from the exact selected SHA", async () =
   assert.equal(fetchedSha, SHA_2);
   assert.equal(snapshot.resolvedSha, SHA_2);
   assert.deepEqual(snapshot.selectedRef, { type: "latest", value: "v1.0.0" });
+});
+
+test("private GitHub raw 404s fall back to Git at the exact selected SHA", async () => {
+  const parsed = assertSafePackageSource("owner/private-package");
+  const requests = [];
+  const calls = [];
+  const expected = manifest("owner/private-package");
+  const actual = await fetchManifest(parsed, SHA_1, {
+    assertHostname: async (host) =>
+      assert.equal(host, "raw.githubusercontent.com"),
+    fetchImpl: async (url) => {
+      requests.push(url);
+      return new Response(null, { status: 404 });
+    },
+    run: async (args, options) => {
+      calls.push({ args, ...options });
+      return args[0] === "show" ? JSON.stringify(expected) : "";
+    },
+  });
+  assert.deepEqual(actual, expected);
+  assert.deepEqual(
+    requests,
+    MANIFEST_FILENAMES.map(
+      (name) =>
+        `https://raw.githubusercontent.com/owner/private-package/${SHA_1}/${name}`,
+    ),
+  );
+  assert.deepEqual(
+    calls.map(({ args }) => args),
+    [
+      ["init"],
+      ["remote", "add", "origin", parsed.cloneUrl],
+      ["fetch", "--depth", "1", "origin", SHA_1],
+      ["show", "FETCH_HEAD:package.json"],
+    ],
+  );
+  assert.ok(
+    calls.every(({ timeoutMs }) => timeoutMs > 0 && timeoutMs <= 60000),
+  );
+  assert.equal(fs.existsSync(calls[0].cwd), false);
+});
+
+test("public GitHub manifests retain the raw fast path without invoking Git", async () => {
+  const parsed = assertSafePackageSource("owner/public-package");
+  const expected = manifest("owner/public-package");
+  for (const filename of ["package.json", "package.jsonc"]) {
+    let requests = 0;
+    assert.deepEqual(
+      await fetchManifest(parsed, SHA_1, {
+        assertHostname: async () => {},
+        fetchImpl: async (url) => {
+          requests++;
+          return url.endsWith(filename)
+            ? new Response(JSON.stringify(expected))
+            : new Response(null, { status: 404 });
+        },
+        run: async () =>
+          assert.fail("A successful raw manifest must not invoke Git"),
+      }),
+      expected,
+    );
+    assert.equal(requests, filename === "package.json" ? 1 : 2);
+  }
+});
+
+test("genuinely missing manifests still fail and clean up the Git fallback", async () => {
+  const calls = [];
+  await assert.rejects(
+    fetchManifest(assertSafePackageSource("owner/missing"), SHA_1, {
+      assertHostname: async () => {},
+      fetchImpl: async () => new Response(null, { status: 404 }),
+      run: async (args, options) => {
+        calls.push({ args, ...options });
+        if (args[0] === "show")
+          throw new Error("Manifest is absent in this exact Git tree");
+        return "";
+      },
+    }),
+    /Manifest is absent in this exact Git tree/,
+  );
+  assert.deepEqual(
+    calls.filter(({ args }) => args[0] === "show").map(({ args }) => args[1]),
+    MANIFEST_FILENAMES.map((name) => `FETCH_HEAD:${name}`),
+  );
+  assert.equal(fs.existsSync(calls[0].cwd), false);
+});
+
+test("the private Git fallback retains the manifest size limit", async () => {
+  await assert.rejects(
+    fetchManifest(assertSafePackageSource("owner/oversized"), SHA_1, {
+      assertHostname: async () => {},
+      fetchImpl: async () => new Response(null, { status: 404 }),
+      run: async (args) =>
+        args[0] === "show" ? " ".repeat(MAX_MANIFEST_BYTES + 1) : "",
+    }),
+    /Manifest exceeds the .*byte limit/,
+  );
+});
+
+test("non-404 errors cannot enable the credentialed Git fallback", async () => {
+  const parsed = assertSafePackageSource("owner/package");
+  for (const [name, fetchImpl, expected] of [
+    ["invalid JSON", async () => new Response("{"), /Syntax error/],
+    [
+      "oversized content",
+      async () =>
+        new Response("", {
+          headers: { "content-length": String(MAX_MANIFEST_BYTES + 1) },
+        }),
+      /Response exceeds/,
+    ],
+    [
+      "a forbidden response followed by missing alternatives",
+      async (url) =>
+        new Response(null, {
+          status: url.endsWith("package.json") ? 403 : 404,
+        }),
+      /HTTP 403/,
+    ],
+    [
+      "an aborted request",
+      async () => {
+        throw Object.assign(new Error("Aborted request"), {
+          name: "AbortError",
+          retryable: false,
+        });
+      },
+      /Aborted request/,
+    ],
+  ]) {
+    await assert.rejects(
+      fetchManifest(parsed, SHA_1, {
+        assertHostname: async () => {},
+        fetchImpl,
+        run: async () => assert.fail(`${name} must not invoke Git`),
+      }),
+      expected,
+      name,
+    );
+  }
+});
+
+test("unsafe package sources fail before any private-manifest transport", async () => {
+  await assert.rejects(
+    scrapeSource("https://127.0.0.1/private", {
+      listRefsImpl: async () =>
+        assert.fail("An unsafe source must not resolve refs"),
+      fetchManifestImpl: async () =>
+        assert.fail("An unsafe source must not fetch a manifest"),
+    }),
+    /private|loopback/i,
+  );
 });
 
 test("refresh preserves order, strings and old snapshots on per-entry failure", async () => {
