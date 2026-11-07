@@ -3609,14 +3609,14 @@
   },
   {
     "source": "lumine-code/keybinding-resolver",
-    "resolvedSha": "1a14226a0e5b9b332e3742c6a187bb8b7d042f38",
+    "resolvedSha": "a1792c105446115d62715565f57a87d724e83c3d",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "1a14226a0e5b9b332e3742c6a187bb8b7d042f38",
+      "headSha": "a1792c105446115d62715565f57a87d724e83c3d",
       "latestStable": null,
       "tags": []
     },
@@ -7665,14 +7665,14 @@
   },
   {
     "source": "lumine-code/settings-view",
-    "resolvedSha": "0371cc6221cd2cb942c376710a4a320676bc5858",
+    "resolvedSha": "27f1bdfa1970b8b4cb383db3b0271567dde54f26",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "0371cc6221cd2cb942c376710a4a320676bc5858",
+      "headSha": "27f1bdfa1970b8b4cb383db3b0271567dde54f26",
       "latestStable": null,
       "tags": []
     },
