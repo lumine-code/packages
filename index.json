@@ -8597,14 +8597,14 @@
   },
   {
     "source": "lumine-code/window-zoom",
-    "resolvedSha": "b8ff1072c995ec7aca540f2d98ada9cec85869ac",
+    "resolvedSha": "61de95044ee8c833dc1f609bab518b2c76c42adb",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "b8ff1072c995ec7aca540f2d98ada9cec85869ac",
+      "headSha": "61de95044ee8c833dc1f609bab518b2c76c42adb",
       "latestStable": null,
       "tags": []
     },
