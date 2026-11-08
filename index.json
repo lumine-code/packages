@@ -1886,14 +1886,14 @@
   },
   {
     "source": "lumine-code/ide",
-    "resolvedSha": "c4bb54dddade86d7fbf5282b8198897e92021db0",
+    "resolvedSha": "ca10a9a92e6713a5804e19cdf67d267d5e1e350b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c4bb54dddade86d7fbf5282b8198897e92021db0",
+      "headSha": "ca10a9a92e6713a5804e19cdf67d267d5e1e350b",
       "latestStable": null,
       "tags": []
     },
@@ -2381,14 +2381,14 @@
   },
   {
     "source": "lumine-code/ide-luals",
-    "resolvedSha": "e2d54e5e20a0807f90be3bfbb99d2daa9d57e55c",
+    "resolvedSha": "d25444fa02df618c4013964abe0ce98baae4a7df",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e2d54e5e20a0807f90be3bfbb99d2daa9d57e55c",
+      "headSha": "d25444fa02df618c4013964abe0ce98baae4a7df",
       "latestStable": null,
       "tags": []
     },
@@ -2628,14 +2628,14 @@
   },
   {
     "source": "lumine-code/ide-ruff",
-    "resolvedSha": "5f218ee623059373cf8cc974959adb45e065bae4",
+    "resolvedSha": "29ebdf22949414f93d9b236053e29cf7ef639cfd",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5f218ee623059373cf8cc974959adb45e065bae4",
+      "headSha": "29ebdf22949414f93d9b236053e29cf7ef639cfd",
       "latestStable": null,
       "tags": []
     },
@@ -3358,14 +3358,14 @@
   },
   {
     "source": "lumine-code/jupyter-inspector",
-    "resolvedSha": "e23c5913ae1d230f1f0e9a7047cf777024990454",
+    "resolvedSha": "a613ff03429db308e4f4cf933c2eb55c2188daf8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "e23c5913ae1d230f1f0e9a7047cf777024990454",
+      "headSha": "a613ff03429db308e4f4cf933c2eb55c2188daf8",
       "latestStable": null,
       "tags": []
     },
@@ -3500,14 +3500,14 @@
   },
   {
     "source": "lumine-code/jupyter-variables",
-    "resolvedSha": "aea7540ee52a7d287c375abbb2593b0b0e0f2d3d",
+    "resolvedSha": "a82b116a3826fa0a5853be03da0009acaf5c1aba",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "aea7540ee52a7d287c375abbb2593b0b0e0f2d3d",
+      "headSha": "a82b116a3826fa0a5853be03da0009acaf5c1aba",
       "latestStable": null,
       "tags": []
     },
