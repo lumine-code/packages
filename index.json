@@ -556,40 +556,7 @@
       }
     }
   },
-  {
-    "source": "lumine-code/build",
-    "resolvedSha": "a4923d0b8f1a91ca36ece6069883c030ffe8d2fb",
-    "selectedRef": {
-      "type": "default",
-      "value": "master"
-    },
-    "refs": {
-      "defaultBranch": "master",
-      "headSha": "a4923d0b8f1a91ca36ece6069883c030ffe8d2fb",
-      "latestStable": null,
-      "tags": []
-    },
-    "metadata": {
-      "name": "build",
-      "version": "1.0.0",
-      "description": "Run project build targets and surface their output and diagnostics.",
-      "keywords": [
-        "compile",
-        "tasks",
-        "runner",
-        "diagnostics",
-        "automation"
-      ],
-      "engines": {
-        "lumine": "^1.0.0"
-      },
-      "repository": "https://github.com/lumine-code/build",
-      "license": "MIT",
-      "bugs": {
-        "url": "https://github.com/lumine-code/build/issues"
-      }
-    }
-  },
+  "lumine-code/tasks",
   {
     "source": "lumine-code/busy-signal",
     "resolvedSha": "45a146704ba7cf000171e95eaf64f56ba8e29d84",
