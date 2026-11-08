@@ -138,14 +138,14 @@
   },
   {
     "source": "lumine-code/aura-theme",
-    "resolvedSha": "6ba64f8df2ad0ddbad757f79c002cbfbb40194d4",
+    "resolvedSha": "e20d60c470c1bbbdb9bc34a740226bcaef39e63a",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6ba64f8df2ad0ddbad757f79c002cbfbb40194d4",
+      "headSha": "e20d60c470c1bbbdb9bc34a740226bcaef39e63a",
       "latestStable": null,
       "tags": []
     },
@@ -1710,14 +1710,14 @@
   },
   {
     "source": "lumine-code/graviss-sofistik",
-    "resolvedSha": "2ddb332cd9d88278f461244eb0c514321aea8c95",
+    "resolvedSha": "048db9d6dccc7864cc90c42214e882f2bcfb3244",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2ddb332cd9d88278f461244eb0c514321aea8c95",
+      "headSha": "048db9d6dccc7864cc90c42214e882f2bcfb3244",
       "latestStable": null,
       "tags": []
     },
@@ -6346,14 +6346,14 @@
   },
   {
     "source": "lumine-code/latex-tools",
-    "resolvedSha": "404dbd07285b3a8a12ea79079b6c33b06be06c44",
+    "resolvedSha": "8b8f5421c0fbd3bf1ab264f6e1de422820707ad8",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "404dbd07285b3a8a12ea79079b6c33b06be06c44",
+      "headSha": "8b8f5421c0fbd3bf1ab264f6e1de422820707ad8",
       "latestStable": null,
       "tags": []
     },
@@ -7282,14 +7282,14 @@
   },
   {
     "source": "lumine-code/pdf-view",
-    "resolvedSha": "8c05846ffacf0687e7c3c49c60c611f4cd2716fb",
+    "resolvedSha": "5485e424bfb7386bcb06a03e20c95a1ed5cb30b6",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8c05846ffacf0687e7c3c49c60c611f4cd2716fb",
+      "headSha": "5485e424bfb7386bcb06a03e20c95a1ed5cb30b6",
       "latestStable": null,
       "tags": []
     },
