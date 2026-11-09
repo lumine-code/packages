@@ -3320,14 +3320,14 @@
   },
   {
     "source": "lumine-code/jupyter-explorer",
-    "resolvedSha": "f5477e28eb00379cfa6241efb4c718bde6a7033c",
+    "resolvedSha": "23da07290e4357d1ed571e5ebdb125bb76785cf7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f5477e28eb00379cfa6241efb4c718bde6a7033c",
+      "headSha": "23da07290e4357d1ed571e5ebdb125bb76785cf7",
       "latestStable": null,
       "tags": []
     },
@@ -7282,14 +7282,14 @@
   },
   {
     "source": "lumine-code/pdf-view",
-    "resolvedSha": "ad3b5036f716af2f6c4d73e2a084cecadc45416e",
+    "resolvedSha": "90656c487d66019fdc69c24dde7e4cb5a48eb847",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ad3b5036f716af2f6c4d73e2a084cecadc45416e",
+      "headSha": "90656c487d66019fdc69c24dde7e4cb5a48eb847",
       "latestStable": null,
       "tags": []
     },
@@ -7835,14 +7835,14 @@
   },
   {
     "source": "lumine-code/sqlite-view",
-    "resolvedSha": "d67ef81f82c33f127f78218b94b142987158055a",
+    "resolvedSha": "962bb79a53efce7b8e7357565dd601ffd41f900b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d67ef81f82c33f127f78218b94b142987158055a",
+      "headSha": "962bb79a53efce7b8e7357565dd601ffd41f900b",
       "latestStable": null,
       "tags": []
     },
@@ -8045,14 +8045,14 @@
   },
   {
     "source": "lumine-code/table-editor",
-    "resolvedSha": "15742a4232917a0bc1a737345aa2bec46b59937e",
+    "resolvedSha": "de59fa5d6c6e26c0383b9fec982c8d1f6484428b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "15742a4232917a0bc1a737345aa2bec46b59937e",
+      "headSha": "de59fa5d6c6e26c0383b9fec982c8d1f6484428b",
       "latestStable": null,
       "tags": []
     },
