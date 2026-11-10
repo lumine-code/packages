@@ -5791,14 +5791,14 @@
   },
   {
     "source": "lumine-code/language-sofistik",
-    "resolvedSha": "f34b8e1ee602c94d1e76f38ddcb851b70f6a0564",
+    "resolvedSha": "f4981597a96006b717da31ccb98885d5b9924406",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "f34b8e1ee602c94d1e76f38ddcb851b70f6a0564",
+      "headSha": "f4981597a96006b717da31ccb98885d5b9924406",
       "latestStable": null,
       "tags": []
     },
@@ -8528,14 +8528,14 @@
   },
   {
     "source": "lumine-code/whitespace",
-    "resolvedSha": "de5ff0968d68816c7cac18f20c2938135780a23d",
+    "resolvedSha": "41a3d75274ae46686d63e7583ecce1a6d4808aa1",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "de5ff0968d68816c7cac18f20c2938135780a23d",
+      "headSha": "41a3d75274ae46686d63e7583ecce1a6d4808aa1",
       "latestStable": null,
       "tags": []
     },
