@@ -6835,14 +6835,14 @@
   },
   {
     "source": "lumine-code/native-clip",
-    "resolvedSha": "bd698185d326b6d88a8abacb54ae3a5faef7d600",
+    "resolvedSha": "1691ae7f5dc0f3b54ca63d43ff8b671fc6e7ec58",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "bd698185d326b6d88a8abacb54ae3a5faef7d600",
+      "headSha": "1691ae7f5dc0f3b54ca63d43ff8b671fc6e7ec58",
       "latestStable": null,
       "tags": []
     },
