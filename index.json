@@ -558,14 +558,14 @@
   },
   {
     "source": "lumine-code/tasks",
-    "resolvedSha": "3d223bd7d01f80bf5901e1863c597d8b02609532",
+    "resolvedSha": "23af4aa86d53fca43641c132d0844386d09d4709",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3d223bd7d01f80bf5901e1863c597d8b02609532",
+      "headSha": "23af4aa86d53fca43641c132d0844386d09d4709",
       "latestStable": null,
       "tags": []
     },
@@ -6346,14 +6346,14 @@
   },
   {
     "source": "lumine-code/latex-tools",
-    "resolvedSha": "7254dac613d4297d4e9b49788bd4b20d6358277a",
+    "resolvedSha": "57d523f114c58c83e9f92a423b8e9d59e76e7885",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "7254dac613d4297d4e9b49788bd4b20d6358277a",
+      "headSha": "57d523f114c58c83e9f92a423b8e9d59e76e7885",
       "latestStable": null,
       "tags": []
     },
@@ -6906,14 +6906,14 @@
   },
   {
     "source": "lumine-code/navigation-panel",
-    "resolvedSha": "eb5516c04a30e4823322e531ee016c856694849f",
+    "resolvedSha": "33ad540bb9022144001c24f9e45e314489e68e08",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "eb5516c04a30e4823322e531ee016c856694849f",
+      "headSha": "33ad540bb9022144001c24f9e45e314489e68e08",
       "latestStable": null,
       "tags": []
     },
@@ -7282,14 +7282,14 @@
   },
   {
     "source": "lumine-code/pdf-view",
-    "resolvedSha": "c4f40386be5ab2e511eabe00f7a265e88bf68355",
+    "resolvedSha": "983263faeef940525f368c7d3348937907becbba",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c4f40386be5ab2e511eabe00f7a265e88bf68355",
+      "headSha": "983263faeef940525f368c7d3348937907becbba",
       "latestStable": null,
       "tags": []
     },
@@ -8425,14 +8425,14 @@
   },
   {
     "source": "lumine-code/typst-tools",
-    "resolvedSha": "8f810f7aec445cd98d9db69644fdd3f36a6126c5",
+    "resolvedSha": "5a10b1d8fc5e81bfdf868807860ec7fd45b9a1d2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8f810f7aec445cd98d9db69644fdd3f36a6126c5",
+      "headSha": "5a10b1d8fc5e81bfdf868807860ec7fd45b9a1d2",
       "latestStable": null,
       "tags": []
     },
