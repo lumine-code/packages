@@ -4163,14 +4163,14 @@
   },
   {
     "source": "lumine-code/language-elixir",
-    "resolvedSha": "666fd59df9d7d285cf4d547f74ae43d0c8e2440b",
+    "resolvedSha": "0b5b20d7ba9fd53353e80d281c9d4fb65b693d72",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "666fd59df9d7d285cf4d547f74ae43d0c8e2440b",
+      "headSha": "0b5b20d7ba9fd53353e80d281c9d4fb65b693d72",
       "latestStable": null,
       "tags": []
     },
