@@ -9,7 +9,7 @@
     "validate": "node scripts/validate.js"
   },
   "dependencies": {
-    "@lumine-code/season": "github:lumine-code/season#c198e35f04bb811dd1f32c8f53fc260baf1755c7",
+    "@lumine-code/season": "github:lumine-code/season#b7ebc3706a30bdb987e4be900d97ed3267d19a45",
     "jsonc-parser": "^3.3.1",
     "semver": "^7.8.6"
   },
