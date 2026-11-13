@@ -1746,14 +1746,14 @@
   },
   {
     "source": "lumine-code/hierarchy-view",
-    "resolvedSha": "9741c82b7e39f2c45771e0281ae5f7002bbd9c3b",
+    "resolvedSha": "f64115833ccddfeff9edc5b0fcbfe7204a6794d1",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9741c82b7e39f2c45771e0281ae5f7002bbd9c3b",
+      "headSha": "f64115833ccddfeff9edc5b0fcbfe7204a6794d1",
       "latestStable": null,
       "tags": []
     },
