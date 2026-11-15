@@ -2346,14 +2346,14 @@
   },
   {
     "source": "lumine-code/ide-lemminx",
-    "resolvedSha": "ea55508c18fa505b1a511c426c12baf8e6f9f03c",
+    "resolvedSha": "a3fc2d13604526a73b672ef129bd04424b762c82",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ea55508c18fa505b1a511c426c12baf8e6f9f03c",
+      "headSha": "a3fc2d13604526a73b672ef129bd04424b762c82",
       "latestStable": null,
       "tags": []
     },
