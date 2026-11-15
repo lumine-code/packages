@@ -7629,14 +7629,14 @@
   },
   {
     "source": "lumine-code/sequence-creator",
-    "resolvedSha": "d9ded843745d3fc85e6e5e930baf761c08524802",
+    "resolvedSha": "29849b3d7368cbc6e7cf2bc56b1b9efc85219c79",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d9ded843745d3fc85e6e5e930baf761c08524802",
+      "headSha": "29849b3d7368cbc6e7cf2bc56b1b9efc85219c79",
       "latestStable": null,
       "tags": []
     },
