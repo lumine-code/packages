@@ -836,14 +836,14 @@
   },
   {
     "source": "lumine-code/command-palette",
-    "resolvedSha": "92c5b6a00c6115585a404600c837c8010584cd4d",
+    "resolvedSha": "d1f01f24062a8b12cea971bec6c66b63dc8695ac",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "92c5b6a00c6115585a404600c837c8010584cd4d",
+      "headSha": "d1f01f24062a8b12cea971bec6c66b63dc8695ac",
       "latestStable": null,
       "tags": []
     },
