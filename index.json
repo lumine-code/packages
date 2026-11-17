@@ -3463,14 +3463,14 @@
   },
   {
     "source": "lumine-code/jupyter-repl",
-    "resolvedSha": "631eb26b36356a18c6bfac520a84445331b567b7",
+    "resolvedSha": "048f741fd88001b45b16bc5758e2241fdaaf8c36",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "631eb26b36356a18c6bfac520a84445331b567b7",
+      "headSha": "048f741fd88001b45b16bc5758e2241fdaaf8c36",
       "latestStable": null,
       "tags": []
     },
