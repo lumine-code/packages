@@ -251,14 +251,14 @@
   },
   {
     "source": "lumine-code/autocomplete",
-    "resolvedSha": "5071bfff94accfdc86a30a1b6c690545f9f6ae55",
+    "resolvedSha": "42699375313d5319c0f6f632bd7e720b0bd539b2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "5071bfff94accfdc86a30a1b6c690545f9f6ae55",
+      "headSha": "42699375313d5319c0f6f632bd7e720b0bd539b2",
       "latestStable": null,
       "tags": []
     },
