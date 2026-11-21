@@ -2202,14 +2202,14 @@
   },
   {
     "source": "lumine-code/ide-graphql",
-    "resolvedSha": "3286dfa9cf09aa4f961e6edaa2177ab222a03f25",
+    "resolvedSha": "fd3033551c60e64bf387286739f0e2f7107fde06",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "3286dfa9cf09aa4f961e6edaa2177ab222a03f25",
+      "headSha": "fd3033551c60e64bf387286739f0e2f7107fde06",
       "latestStable": null,
       "tags": []
     },
