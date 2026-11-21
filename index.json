@@ -1,14 +1,14 @@
 [
   {
     "source": "bacadra/lumine-bacadra-tools",
-    "resolvedSha": "8795e895b47be8d13e8e92af7cce7a4014374a7c",
+    "resolvedSha": "c627fc62de862cf3f87c19674eb664845f55c919",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "8795e895b47be8d13e8e92af7cce7a4014374a7c",
+      "headSha": "c627fc62de862cf3f87c19674eb664845f55c919",
       "latestStable": null,
       "tags": []
     },
@@ -35,14 +35,14 @@
   },
   {
     "source": "bacadra/lumine-banager-tools",
-    "resolvedSha": "d53af1e0c782e1429f4d7ea318c5d70f313e244f",
+    "resolvedSha": "70769c80a9ce298f87a768cd216d76f1951588f7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d53af1e0c782e1429f4d7ea318c5d70f313e244f",
+      "headSha": "70769c80a9ce298f87a768cd216d76f1951588f7",
       "latestStable": null,
       "tags": []
     },
