@@ -1886,14 +1886,14 @@
   },
   {
     "source": "lumine-code/ide",
-    "resolvedSha": "949332990057a8a189e85523cdda2a4ff7a43416",
+    "resolvedSha": "e214eb6f43bca7c7ab460c15ed7d82cdae5396b4",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "949332990057a8a189e85523cdda2a4ff7a43416",
+      "headSha": "e214eb6f43bca7c7ab460c15ed7d82cdae5396b4",
       "latestStable": null,
       "tags": []
     },
