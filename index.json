@@ -2733,14 +2733,14 @@
   },
   {
     "source": "lumine-code/ide-sofistik~master",
-    "resolvedSha": "55e42b587d1dfa84b55e4b97f45b1d5c1a4f65ed",
+    "resolvedSha": "fa56e1aba86dda64112a6a265f92b6df6864d245",
     "selectedRef": {
       "type": "branch",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "55e42b587d1dfa84b55e4b97f45b1d5c1a4f65ed",
+      "headSha": "fa56e1aba86dda64112a6a265f92b6df6864d245",
       "latestStable": null,
       "tags": []
     },
@@ -5791,14 +5791,14 @@
   },
   {
     "source": "lumine-code/language-sofistik",
-    "resolvedSha": "9a9da1c29bfe8422cec7645ee0dae1d43ecd5edb",
+    "resolvedSha": "aa7be622cf6e95f57355637b88fac22fffd7d693",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "9a9da1c29bfe8422cec7645ee0dae1d43ecd5edb",
+      "headSha": "aa7be622cf6e95f57355637b88fac22fffd7d693",
       "latestStable": null,
       "tags": []
     },
@@ -7596,14 +7596,14 @@
   },
   {
     "source": "lumine-code/semantic-tokens",
-    "resolvedSha": "eb44ab06d37fd4163dbc139b630f37cbaab37e80",
+    "resolvedSha": "1ee7dfef9e099ac7554774c03e5c125e83988a40",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "eb44ab06d37fd4163dbc139b630f37cbaab37e80",
+      "headSha": "1ee7dfef9e099ac7554774c03e5c125e83988a40",
       "latestStable": null,
       "tags": []
     },
