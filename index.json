@@ -1568,14 +1568,14 @@
   },
   {
     "source": "lumine-code/github-panel",
-    "resolvedSha": "d87585de1424cf8ee90421b173853b608c4ad5fe",
+    "resolvedSha": "2131eb9e4f34e68d3e36b398b657a1cb719d75a2",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "d87585de1424cf8ee90421b173853b608c4ad5fe",
+      "headSha": "2131eb9e4f34e68d3e36b398b657a1cb719d75a2",
       "latestStable": null,
       "tags": []
     },
@@ -3537,14 +3537,14 @@
   },
   {
     "source": "lumine-code/jupyter-view",
-    "resolvedSha": "2cfa200e50edaf8adef14d6dac698919ec7ae2eb",
+    "resolvedSha": "1c05bdf7f90f749a837a37a00576143fafac0898",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2cfa200e50edaf8adef14d6dac698919ec7ae2eb",
+      "headSha": "1c05bdf7f90f749a837a37a00576143fafac0898",
       "latestStable": null,
       "tags": []
     },
@@ -5688,14 +5688,14 @@
   },
   {
     "source": "lumine-code/language-scala",
-    "resolvedSha": "42869b08634b4a6b5c551fdb8aad57001fd7076f",
+    "resolvedSha": "03a74f19004294cc410130f2e37b87e692d2d254",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "42869b08634b4a6b5c551fdb8aad57001fd7076f",
+      "headSha": "03a74f19004294cc410130f2e37b87e692d2d254",
       "latestStable": null,
       "tags": []
     },
@@ -6659,14 +6659,14 @@
   },
   {
     "source": "lumine-code/markdown-preview",
-    "resolvedSha": "ee21f505d1393c4d928ccaf722da9aeae550c519",
+    "resolvedSha": "9afa2d31493e319a8bd6dc8f0eb50b2caec8b57b",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ee21f505d1393c4d928ccaf722da9aeae550c519",
+      "headSha": "9afa2d31493e319a8bd6dc8f0eb50b2caec8b57b",
       "latestStable": null,
       "tags": []
     },
@@ -8147,14 +8147,14 @@
   },
   {
     "source": "lumine-code/terminal",
-    "resolvedSha": "2be2c3658248d1a9421a86a7361abebae442eff2",
+    "resolvedSha": "517505fd84f092d93c42eb26ef19f537f2366926",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "2be2c3658248d1a9421a86a7361abebae442eff2",
+      "headSha": "517505fd84f092d93c42eb26ef19f537f2366926",
       "latestStable": null,
       "tags": []
     },
