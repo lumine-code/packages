@@ -3046,14 +3046,14 @@
   },
   {
     "source": "lumine-code/image-editor",
-    "resolvedSha": "46199e6ee8f4a669576170db3f029d7b771f487c",
+    "resolvedSha": "4b1b1c30995b0db13e474b93d6d2a367e0d48512",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "46199e6ee8f4a669576170db3f029d7b771f487c",
+      "headSha": "4b1b1c30995b0db13e474b93d6d2a367e0d48512",
       "latestStable": null,
       "tags": []
     },
