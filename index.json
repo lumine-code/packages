@@ -2940,14 +2940,14 @@
   },
   {
     "source": "lumine-code/ide-vue",
-    "resolvedSha": "ef09fed81ba3a5cb03b5d2aae6eac38021e61dca",
+    "resolvedSha": "da8c0b738b75785fca8c2a945453a215c3b999e7",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "ef09fed81ba3a5cb03b5d2aae6eac38021e61dca",
+      "headSha": "da8c0b738b75785fca8c2a945453a215c3b999e7",
       "latestStable": null,
       "tags": []
     },
