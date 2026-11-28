@@ -938,14 +938,14 @@
   },
   {
     "source": "lumine-code/deprecation-cop",
-    "resolvedSha": "6e2bb08a4f8a09166632963d6819ba7e096fcc1f",
+    "resolvedSha": "df4e44c535d38b08d1d97222182b7a72be498d05",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "6e2bb08a4f8a09166632963d6819ba7e096fcc1f",
+      "headSha": "df4e44c535d38b08d1d97222182b7a72be498d05",
       "latestStable": null,
       "tags": []
     },
