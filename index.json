@@ -8147,14 +8147,14 @@
   },
   {
     "source": "lumine-code/terminal",
-    "resolvedSha": "c8ec61f7e6076988d02315ce81f72edeb1f059f5",
+    "resolvedSha": "91cdc0977d1ecd9ce5813e9e18e025a9bb16c6a3",
     "selectedRef": {
       "type": "default",
       "value": "master"
     },
     "refs": {
       "defaultBranch": "master",
-      "headSha": "c8ec61f7e6076988d02315ce81f72edeb1f059f5",
+      "headSha": "91cdc0977d1ecd9ce5813e9e18e025a9bb16c6a3",
       "latestStable": null,
       "tags": []
     },
